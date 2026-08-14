@@ -1,6 +1,6 @@
 // The reveal panel: fires on win AND loss (HANDOFF.md §5). Fetches the
-// word's data/entries/{WORD}.json lazily — only the day's answer, never the
-// whole bank — and renders photo/blurb/facts/audio/link/credits/share.
+// word's data/entries/{WORD}.json lazily — only the current answer, never
+// the whole bank — and renders photo/blurb/facts/audio/link/credits/share.
 
 import { loadSoundPref, saveSoundPref } from "./storage.js";
 import { loadStats } from "./stats.js";
@@ -35,10 +35,10 @@ function emojiGrid(guesses) {
   return guesses.map((g) => g.feedback.map((f) => map[f]).join("")).join("\n");
 }
 
-export function buildShareText({ dateStr, puzzle, guesses, status }) {
+export function buildShareText({ puzzle, guesses, status }) {
   const tries = status === "won" ? `${guesses.length}/6` : "X/6";
   const tag = puzzle.word.category === "character" ? " ★" : "";
-  return `Birdle ${dateStr}${tag} ${tries}\n\n${emojiGrid(guesses)}`;
+  return `Birdle${tag} ${tries}\n\n${emojiGrid(guesses)}`;
 }
 
 function renderStats() {
@@ -78,10 +78,11 @@ function stopCurrentPlayback() {
 
 /**
  * @param {HTMLElement} panelEl - container to render into
- * @param {object} ctx - { dateStr, puzzle, guesses, status }
+ * @param {object} ctx - { puzzle, guesses, status }
  * @param {() => void} [onClose] - called when the player dismisses the panel
+ * @param {() => void} [onNewPuzzle] - called when the player asks for another puzzle
  */
-export async function showRevealPanel(panelEl, ctx, onClose) {
+export async function showRevealPanel(panelEl, ctx, onClose, onNewPuzzle) {
   const { puzzle, status } = ctx;
   const answer = puzzle.word.word;
 
@@ -152,7 +153,10 @@ export async function showRevealPanel(panelEl, ctx, onClose) {
       </div>
     </div>
     ${renderStats()}
-    <button type="button" class="reveal-share-btn">Share result</button>
+    <div class="reveal-actions">
+      <button type="button" class="reveal-share-btn">Share result</button>
+      <button type="button" class="reveal-next-btn">Next puzzle →</button>
+    </div>
   `;
 
   panelEl.querySelector(".reveal-close").addEventListener("click", () => {
@@ -194,6 +198,12 @@ export async function showRevealPanel(panelEl, ctx, onClose) {
     setTimeout(() => {
       shareBtn.textContent = "Share result";
     }, 1800);
+  });
+
+  const nextBtn = panelEl.querySelector(".reveal-next-btn");
+  nextBtn.addEventListener("click", () => {
+    hideRevealPanel(panelEl);
+    if (onNewPuzzle) onNewPuzzle();
   });
 }
 

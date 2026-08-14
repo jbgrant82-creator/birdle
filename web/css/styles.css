@@ -127,6 +127,25 @@ main {
   width: 100%;
 }
 
+/* ------------------------------------------------------- new puzzle btn */
+
+.new-puzzle {
+  align-self: center;
+  border: 2px solid var(--accent);
+  background: transparent;
+  color: var(--accent);
+  border-radius: 999px;
+  padding: 0.4rem 1.1rem;
+  font-weight: 700;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.new-puzzle:hover {
+  background: var(--accent);
+  color: #fff;
+}
+
 /* ------------------------------------------------------ character badge */
 
 .category-badge[hidden] {
@@ -411,17 +430,31 @@ main {
   letter-spacing: 0.03em;
 }
 
-.reveal-share-btn {
-  display: block;
-  width: 100%;
+.reveal-actions {
+  display: flex;
+  gap: 0.5rem;
   margin-top: 1rem;
+}
+
+.reveal-share-btn,
+.reveal-next-btn {
+  flex: 1;
+  display: block;
   padding: 0.6rem;
   border: none;
   border-radius: var(--radius);
-  background: var(--green);
-  color: #fff;
   font-weight: 700;
   cursor: pointer;
+}
+
+.reveal-share-btn {
+  background: var(--green);
+  color: #fff;
+}
+
+.reveal-next-btn {
+  background: var(--character-accent);
+  color: #fff;
 }
 
 .reveal-reopen {

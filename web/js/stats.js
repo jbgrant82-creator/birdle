@@ -1,5 +1,6 @@
-// Cross-day stats/streak aggregate. Separate from storage.js's per-day game
-// state — this is the running total shown in the reveal panel.
+// Running stats aggregate across all puzzles played, however many that is
+// in one sitting — puzzles are on-demand now (see scheduler.js), not one
+// per day, so streak is just "consecutive wins," no calendar involved.
 
 const STATS_KEY = "birdle:stats";
 
@@ -9,7 +10,6 @@ const DEFAULT_STATS = {
   currentStreak: 0,
   maxStreak: 0,
   guessDistribution: [0, 0, 0, 0, 0, 0], // index 0 = solved in 1 try
-  lastWinDate: null, // "YYYY-MM-DD", used for streak continuity
 };
 
 export function loadStats() {
@@ -29,35 +29,21 @@ function saveStats(stats) {
   }
 }
 
-function isDayAfter(prevDateStr, dateStr) {
-  if (!prevDateStr) return false;
-  const [py, pm, pd] = prevDateStr.split("-").map(Number);
-  const prev = new Date(py, pm - 1, pd);
-  prev.setDate(prev.getDate() + 1);
-  const [y, m, d] = dateStr.split("-").map(Number);
-  const cur = new Date(y, m - 1, d);
-  return prev.getTime() === cur.getTime();
-}
-
 /**
- * Call exactly once per finished day (game.js guards this with a
- * statsRecorded flag in the per-day state — see storage.js).
- * @param {string} dateStr
+ * Call exactly once per finished puzzle (game.js guards this with a
+ * statsRecorded flag on the current-game record — see storage.js).
  * @param {boolean} won
  * @param {number} tries - guesses used; only meaningful when won
  */
-export function recordResult(dateStr, won, tries) {
+export function recordResult(won, tries) {
   const stats = loadStats();
   stats.played += 1;
 
   if (won) {
     stats.won += 1;
     if (tries >= 1 && tries <= 6) stats.guessDistribution[tries - 1] += 1;
-    stats.currentStreak = isDayAfter(stats.lastWinDate, dateStr)
-      ? stats.currentStreak + 1
-      : 1;
+    stats.currentStreak += 1;
     stats.maxStreak = Math.max(stats.maxStreak, stats.currentStreak);
-    stats.lastWinDate = dateStr;
   } else {
     stats.currentStreak = 0;
   }

@@ -1,6 +1,6 @@
-import { getDailyPuzzle, todayDateString } from "./scheduler.js";
+import { pickPuzzle, randomSeed } from "./scheduler.js";
 import { computeFeedback, mergeKeyStatus } from "./feedback.js";
-import { loadDayState, saveDayState } from "./storage.js";
+import { loadCurrentGame, saveCurrentGame } from "./storage.js";
 import {
   showRevealPanel,
   hideRevealPanel,
@@ -24,13 +24,16 @@ const categoryBadgeEl = document.getElementById("category-badge");
 const revealPanelEl = document.getElementById("reveal-panel");
 const revealReopenEl = document.getElementById("reveal-reopen");
 const soundToggleEl = document.getElementById("sound-toggle");
+const newPuzzleEl = document.getElementById("new-puzzle");
 
-// ?date=YYYY-MM-DD lets QA/testing preview a specific day's puzzle without
-// waiting for the calendar. Not linked from the UI; harmless if unused.
-const dateOverride = new URLSearchParams(location.search).get("date");
+// ?seed=anything lets QA/testing reproduce a specific puzzle without waiting
+// on randomness. Not linked from the UI; harmless if unused. Only applies to
+// the very first puzzle of the page load — "Next puzzle" always rolls fresh.
+const seedOverride = new URLSearchParams(location.search).get("seed");
+
+let wordbank = null;
 
 const state = {
-  dateStr: dateOverride || todayDateString(),
   puzzle: null,
   guessSet: null,
   guesses: [], // array of {word, feedback}
@@ -38,28 +41,28 @@ const state = {
   status: "playing", // "playing" | "won" | "lost"
   keyStatus: {},
   statsRecorded: false,
+  lastObscurity: null, // obscurity of the previous puzzle this session
 };
 
 window.__birdleDebug = state;
 
 async function init() {
-  const [wordbank] = await Promise.all([
-    fetch("../data/wordbank.json").then((r) => r.json()),
-  ]);
+  wordbank = await fetch("../data/wordbank.json").then((r) => r.json());
 
-  state.puzzle = getDailyPuzzle(state.dateStr, wordbank);
+  const resumed = restoreCurrentGame();
+  if (!resumed) {
+    await beginPuzzle(seedOverride || randomSeed());
+    persist(); // so a reload before any guess resumes this puzzle, not a new one
+  } else {
+    await loadGuessSet();
+  }
 
-  const guessList = await fetch(
-    `../data/guesses/${state.puzzle.length}.json`
-  ).then((r) => r.json());
-  state.guessSet = new Set(guessList.map((w) => w.toUpperCase()));
-
-  restoreDayState();
   renderCategoryBadge();
   renderBoard();
   renderKeyboard();
   attachInput();
   initSoundToggle();
+  initNewPuzzleButton();
   announce(
     `${state.puzzle.length}-letter word. ${
       state.puzzle.word.category === "character"
@@ -67,37 +70,83 @@ async function init() {
         : ""
     }`
   );
-}
 
-function restoreDayState() {
-  const saved = loadDayState(state.dateStr);
-  if (!saved) return;
-  // Only trust saved state if it matches today's puzzle length (defensive
-  // against a mid-day code change or a clock skew edge case).
-  if (saved.length !== state.puzzle.length) return;
-  state.guesses = saved.guesses || [];
-  state.status = saved.status || "playing";
-  state.statsRecorded = saved.statsRecorded || false;
-  for (const g of state.guesses) {
-    mergeKeyStatus(state.keyStatus, g.word, g.feedback);
+  if (state.status === "won" || state.status === "lost") {
+    recordStatsIfNeeded(); // covers a puzzle finished in a previous session
+    showRevealPanel(revealPanelEl, state, onPanelClose, startFreshPuzzle);
   }
 }
 
+// Restores an in-progress-or-just-finished puzzle from a previous session,
+// re-deriving it from its stored seed rather than storing the full word
+// object. Returns false (and leaves state untouched) if there's nothing to
+// resume, so the caller knows to start a brand new puzzle instead.
+function restoreCurrentGame() {
+  const saved = loadCurrentGame();
+  if (!saved) return false;
+  state.puzzle = pickPuzzle(saved.seed, wordbank, saved.previousObscurity ?? null);
+  state.guesses = saved.guesses || [];
+  state.status = saved.status || "playing";
+  state.statsRecorded = saved.statsRecorded || false;
+  state.lastObscurity = saved.previousObscurity ?? null;
+  for (const g of state.guesses) {
+    mergeKeyStatus(state.keyStatus, g.word, g.feedback);
+  }
+  return true;
+}
+
+async function loadGuessSet() {
+  const guessList = await fetch(`../data/guesses/${state.puzzle.length}.json`).then((r) =>
+    r.json()
+  );
+  state.guessSet = new Set(guessList.map((w) => w.toUpperCase()));
+}
+
+function beginPuzzle(seed) {
+  state.puzzle = pickPuzzle(seed, wordbank, state.lastObscurity);
+  state.guesses = [];
+  state.current = "";
+  state.status = "playing";
+  state.keyStatus = {};
+  state.statsRecorded = false;
+  return loadGuessSet();
+}
+
+// Wired to both the header's always-available button and the reveal panel's
+// "Next puzzle" button — the whole point of moving off a daily cadence is
+// that either one should work immediately, no waiting, no confirmation.
+async function startFreshPuzzle() {
+  hideRevealPanel(revealPanelEl);
+  revealReopenEl.hidden = true;
+  state.lastObscurity = state.puzzle?.obscurity ?? state.lastObscurity;
+  await beginPuzzle(randomSeed());
+  persist();
+  renderCategoryBadge();
+  renderBoard();
+  renderKeyboard();
+  announce(
+    `New puzzle. ${state.puzzle.length}-letter word. ${
+      state.puzzle.word.category === "character" ? "This is a character round." : ""
+    }`
+  );
+}
+
 function persist() {
-  saveDayState(state.dateStr, {
-    length: state.puzzle.length,
+  saveCurrentGame({
+    seed: state.puzzle.seed,
+    previousObscurity: state.lastObscurity,
     guesses: state.guesses,
     status: state.status,
     statsRecorded: state.statsRecorded,
   });
 }
 
-// Guards against double-counting: called once per finished day, even across
-// reloads (state.statsRecorded persists in the same per-day storage record).
+// Guards against double-counting: called once per finished puzzle, even
+// across reloads (state.statsRecorded persists in the saved game record).
 function recordStatsIfNeeded() {
   if (state.statsRecorded) return;
   if (state.status !== "won" && state.status !== "lost") return;
-  recordResult(state.dateStr, state.status === "won", state.guesses.length);
+  recordResult(state.status === "won", state.guesses.length);
   state.statsRecorded = true;
   persist();
 }
@@ -219,6 +268,12 @@ function updateSoundToggleUI() {
   );
 }
 
+function initNewPuzzleButton() {
+  newPuzzleEl.addEventListener("click", () => {
+    startFreshPuzzle();
+  });
+}
+
 function handleKey(key) {
   if (state.status !== "playing") return;
 
@@ -283,36 +338,27 @@ function submitGuess() {
   if (state.status === "won") {
     announce(`Correct! The word was ${answer}.`);
     revealReopenEl.hidden = true;
-    showRevealPanel(revealPanelEl, state, () => (revealReopenEl.hidden = false));
+    showRevealPanel(revealPanelEl, state, onPanelClose, startFreshPuzzle);
   } else if (state.status === "lost") {
     announce(`Out of tries. The word was ${answer}.`);
     revealReopenEl.hidden = true;
-    showRevealPanel(revealPanelEl, state, () => (revealReopenEl.hidden = false));
+    showRevealPanel(revealPanelEl, state, onPanelClose, startFreshPuzzle);
   } else {
-    announce(
-      feedback
-        .map((f, i) => `${guess[i]}: ${f}`)
-        .join(", ")
-    );
+    announce(feedback.map((f, i) => `${guess[i]}: ${f}`).join(", "));
   }
+}
+
+function onPanelClose() {
+  revealReopenEl.hidden = false;
 }
 
 function announce(msg) {
   statusEl.textContent = msg;
 }
 
-// Resume an already-finished day's game with its panel visible, and wire the
-// "Show result" reopen button for whenever the player dismisses it.
-function maybeShowEndBannerOnLoad() {
-  const onClose = () => (revealReopenEl.hidden = false);
-  if (state.status === "won" || state.status === "lost") {
-    recordStatsIfNeeded(); // covers a day finished in a previous session
-    showRevealPanel(revealPanelEl, state, onClose);
-  }
-  revealReopenEl.addEventListener("click", () => {
-    revealReopenEl.hidden = true;
-    showRevealPanel(revealPanelEl, state, onClose);
-  });
-}
+revealReopenEl.addEventListener("click", () => {
+  revealReopenEl.hidden = true;
+  showRevealPanel(revealPanelEl, state, onPanelClose, startFreshPuzzle);
+});
 
-init().then(maybeShowEndBannerOnLoad);
+init();

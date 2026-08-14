@@ -1,21 +1,22 @@
-// localStorage persistence for the current day's in-progress/finished game.
-// Stats/streak aggregation across days is HANDOFF.md step 8, not built yet —
-// this only keeps today's board state intact across a reload.
+// localStorage persistence. Puzzles are on-demand now, not one-per-day (see
+// scheduler.js), so there's a single "current game" record — not one per
+// date — that survives a reload but gets overwritten whenever the player
+// starts a new puzzle.
 
-const PREFIX = "birdle:day:";
+const CURRENT_GAME_KEY = "birdle:currentGame";
 
-export function loadDayState(dateStr) {
+export function loadCurrentGame() {
   try {
-    const raw = localStorage.getItem(PREFIX + dateStr);
+    const raw = localStorage.getItem(CURRENT_GAME_KEY);
     return raw ? JSON.parse(raw) : null;
   } catch {
     return null;
   }
 }
 
-export function saveDayState(dateStr, state) {
+export function saveCurrentGame(gameState) {
   try {
-    localStorage.setItem(PREFIX + dateStr, JSON.stringify(state));
+    localStorage.setItem(CURRENT_GAME_KEY, JSON.stringify(gameState));
   } catch {
     // localStorage unavailable (private browsing, quota, etc) — the game
     // still works, it just won't survive a reload. Not fatal.
