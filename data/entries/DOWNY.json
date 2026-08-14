@@ -1,0 +1,26 @@
+{
+  "word": "DOWNY",
+  "category": "bird_adjacent",
+  "title": "Down feather",
+  "blurb": "The down of birds is a layer of fine feathers found under the tougher exterior feathers. Very young birds are clad only in down.",
+  "facts": [
+    "Powder down is a specialized type of down found only in a few groups of birds.",
+    "Down is a fine thermal insulator and padding, used in goods such as jackets, bedding, pillows and sleeping bags.",
+    "The discovery of feathers trapped in ancient amber suggests that some species of non-avian dinosaur likely possessed down-like feathers."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Down_feather"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/DOWNY.webp",
+    "file_jpg": "assets/birds/DOWNY.jpg",
+    "alt": "Photo of Down feather",
+    "credit": "Photo by Wouter Hagens \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Donsvlokje.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

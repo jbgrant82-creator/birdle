@@ -1,0 +1,21 @@
+{
+  "word": "TOWHEE",
+  "category": "bird_species",
+  "title": "Towhee",
+  "blurb": "A towhee is any one of a number of species of birds in the genus Pipilo or Melozone within the family Passerellidae.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Towhee"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TOWHEE.webp",
+    "file_jpg": "assets/birds/TOWHEE.jpg",
+    "alt": "Photo of Towhee",
+    "credit": "Photo by Steve Ryan \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Spotted_Towhee_(Pipilo_maculatus).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,21 @@
+{
+  "word": "SHRIKE",
+  "category": "bird_species",
+  "title": "Shrike",
+  "blurb": "Shrikes are passerine birds of the family Laniidae. The family is composed of 34 species in two genera.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Shrike"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SHRIKE.webp",
+    "file_jpg": "assets/birds/SHRIKE.jpg",
+    "alt": "Photo of Shrike",
+    "credit": "Photo by Antonios Tsaknakis \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Red-backed_shrike.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

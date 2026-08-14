@@ -1,0 +1,24 @@
+{
+  "word": "MYNA",
+  "category": "bird_species",
+  "title": "Myna",
+  "blurb": "The mynas are a group of birds in the starling family (Sturnidae). They are passerine birds native to large parts of Central Asia and South Asia, especially Iran, Afghanistan, India, Pakistan, Bangladesh, Nepal and Sri Lanka.",
+  "facts": [
+    "Several species have been introduced to areas such as North America, Australia, South Africa, Fiji and New Zealand, especially the common myna, which is often regarded as an...",
+    "In Singapore, they are sometimes known as \"Selarang\" in Malay and \"Teck Meng\" in Chinese due to their high population there."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Myna"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/MYNA.webp",
+    "file_jpg": "assets/birds/MYNA.jpg",
+    "alt": "Photo of Myna",
+    "credit": "Photo by Richard Taylor from Australia \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Acridotheres_tristis_-Sydney,_Australia-8.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

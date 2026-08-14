@@ -1,0 +1,23 @@
+{
+  "word": "MANAKIN",
+  "category": "bird_species",
+  "title": "Manakin",
+  "blurb": "The manakins are a family, Pipridae, of small suboscine passerine birds. The group contains 55 species distributed through the American tropics.",
+  "facts": [
+    "The name is from Middle Dutch mannekijn \"little man\"."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Manakin"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/MANAKIN.webp",
+    "file_jpg": "assets/birds/MANAKIN.jpg",
+    "alt": "Photo of Manakin",
+    "credit": "Photo by Hector Bottai \u2014 CC BY 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Pipridae_diversity.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

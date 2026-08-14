@@ -1,0 +1,24 @@
+{
+  "word": "POULT",
+  "category": "bird_species",
+  "title": "Poultry",
+  "blurb": "Poultry are domesticated birds kept by humans for the purpose of harvesting animal products such as meat, eggs or feathers. The practice of raising poultry is known as poultry farming.",
+  "facts": [
+    "These birds are most typically members of the superorder Galloanserae (fowl), especially the order Galliformes.",
+    "The term also includes waterfowls of the family Anatidae but does not include wild birds hunted for food known as game or quarry."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Poultry"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/POULT.webp",
+    "file_jpg": "assets/birds/POULT.jpg",
+    "alt": "Photo of Poultry",
+    "credit": "Photo by L. Prang &amp; Co. \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Poultry_of_the_world.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

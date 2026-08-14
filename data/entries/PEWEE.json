@@ -1,0 +1,21 @@
+{
+  "word": "PEWEE",
+  "category": "bird_species",
+  "title": "Pewee",
+  "blurb": "The pewees are a genus, Contopus, of small to medium-sized insect-eating birds in the tyrant flycatcher family Tyrannidae.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pewee"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PEWEE.webp",
+    "file_jpg": "assets/birds/PEWEE.jpg",
+    "alt": "Photo of Pewee",
+    "credit": "Photo by JerryFriedman \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Contopus_sordidulus_1.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

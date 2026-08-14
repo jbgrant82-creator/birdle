@@ -1,0 +1,32 @@
+{
+  "word": "FLAP",
+  "category": "bird_adjacent",
+  "title": "Ornithopter",
+  "blurb": "An ornithopter is an aircraft that flies by flapping its wings. Designers sought to imitate the flapping-wing flight of birds, bats, and insects.",
+  "facts": [
+    "The term covers a wide range of possible designs.",
+    "Ornithopters are typically built on the scale of the animals they emulate, however larger, crewed fliers have also found experimental success.",
+    "Crewed ornithopters are generally powered either by engines or by the pilot."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ornithopter"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/FLAP.webp",
+    "file_jpg": "assets/birds/FLAP.jpg",
+    "alt": "Photo of Ornithopter",
+    "credit": "Photo by Chronister at English Wikipedia \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Skybird.gif"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "FLAP",
+      "issue": "title-mismatch",
+      "detail": "hint 'Flap' -> resolved title 'Ornithopter', doesn't obviously match"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "word": "FEATHER",
+  "category": "bird_adjacent",
+  "title": "Feather",
+  "blurb": "Feathers are epidermal growths that form a distinctive outer covering, or plumage, on both avian (bird) and some non-avian dinosaurs and other archosaurs.",
+  "facts": [
+    "They are among the characteristics that distinguish the extant birds from other living groups."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Feather"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/FEATHER.webp",
+    "file_jpg": "assets/birds/FEATHER.jpg",
+    "alt": "Photo of Feather",
+    "credit": "Photo by Adolphe Millot (1857-1921) (ill.); Gothance 14:26, 3 December 2007 (UTC) (scann\u00e9 par) \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Types_de_plumes._-_Larousse_pour_tous,_-1907-1910-.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

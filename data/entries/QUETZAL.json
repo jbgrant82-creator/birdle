@@ -1,0 +1,25 @@
+{
+  "word": "QUETZAL",
+  "category": "bird_species",
+  "title": "Quetzal",
+  "blurb": "Quetzals are strikingly colored birds in the trogon family.",
+  "facts": [
+    "In the highlands of the states of Sonora, Chihuahua, Sinaloa, Durango, Nayarit, Zacatecas, Jalisco, and Michoac\u00e1n, the eared quetzal can be found from northwest to west-central...",
+    "It is a Mesoamerican indigenous species, but some reports show that it occasionally travels and nests in southeastern Arizona and New Mexico in the United States.",
+    "June to October is the mating season for eared quetzals."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Quetzal"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/QUETZAL.webp",
+    "file_jpg": "assets/birds/QUETZAL.jpg",
+    "alt": "Photo of Quetzal",
+    "credit": "Photo by Flickr user chdwckvnstrsslhm . Photo uploaded to commons by user ltshears \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Golden-headed_Quetzal.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

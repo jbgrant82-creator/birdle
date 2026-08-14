@@ -1,0 +1,26 @@
+{
+  "word": "NESTLE",
+  "category": "bird_adjacent",
+  "title": "Bird nest",
+  "blurb": "A bird nest is the spot in which a bird lays and incubates its eggs and raises its young.",
+  "facts": [
+    "For some species, a nest is simply a shallow depression made in sand; for others, it is the knot-hole left by a broken branch, a burrow dug into the ground, a chamber drilled into...",
+    "Some birds, including magpies, have been observed building nests using anti-bird spikes.",
+    "In some cases, these nests can contain up to 1,500 metal spikes."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bird_nest"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/NESTLE.webp",
+    "file_jpg": "assets/birds/NESTLE.jpg",
+    "alt": "Photo of Bird nest",
+    "credit": "Photo by unknown \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Acrocephalus_arundinaceus_nest_(cropped).jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

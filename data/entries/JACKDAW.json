@@ -1,0 +1,25 @@
+{
+  "word": "JACKDAW",
+  "category": "bird_species",
+  "title": "Jackdaw",
+  "blurb": "Jackdaws are two species of bird in the genus Coloeus closely related to, but generally smaller than, crows and ravens (Corvus). They have a blackish crown, wings, and tail, with the rest of their plumage paler.",
+  "facts": [
+    "The word Coloeus is Neo-Latin, from the Ancient Greek for jackdaws: koloi\u00f3s (\u03ba\u03bf\u03bb\u03bf\u03b9\u03cc\u03c2).",
+    "In The Birds by Aristophanes, Euelpides speaks to his jackdaw in the first line of the play.",
+    "They come from Asia, Europe, Africa, and Siberia."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jackdaw"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/JACKDAW.webp",
+    "file_jpg": "assets/birds/JACKDAW.jpg",
+    "alt": "Photo of Jackdaw",
+    "credit": "Photo by Sergey Yeliseev \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Western_Jackdaw_and_Daurian_Jackdaw.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

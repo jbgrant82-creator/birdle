@@ -1,0 +1,21 @@
+{
+  "word": "BABBLER",
+  "category": "bird_species",
+  "title": "Jungle babbler",
+  "blurb": "The jungle babbler is a member of the family Leiothrichidae found in the Indian subcontinent.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jungle_babbler"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/BABBLER.webp",
+    "file_jpg": "assets/birds/BABBLER.jpg",
+    "alt": "Photo of Jungle babbler",
+    "credit": "Photo by Mildeep \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Jungle-Babbler.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

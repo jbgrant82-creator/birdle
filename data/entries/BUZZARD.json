@@ -1,0 +1,21 @@
+{
+  "word": "BUZZARD",
+  "category": "bird_species",
+  "title": "Buzzard",
+  "blurb": "Buzzard is the common name of several species of birds of prey.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Buzzard"
+  },
+  "verified": false,
+  "image": null,
+  "audio": null,
+  "_review_issues": [
+    {
+      "word": "BUZZARD",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    }
+  ]
+}

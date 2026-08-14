@@ -1,0 +1,32 @@
+{
+  "word": "SPEAROW",
+  "category": "character",
+  "title": "List of generation I Pok\u00e9mon",
+  "blurb": "A small, easily-provoked bird Pok\u00e9mon that evolves into Fearow.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_generation_I_Pok%C3%A9mon"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Pok\u00e9mon Red and Green (1996, Japan)"
+  ],
+  "creators": [
+    "Game Freak"
+  ],
+  "studio": "Game Freak / Nintendo / Creatures Inc.",
+  "first_appearance": "Pok\u00e9mon Red and Green (1996, Japan)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "SPEAROW",
+      "issue": "title-mismatch",
+      "detail": "hint 'List of generation I Pokemon' -> resolved title 'List of generation I Pok\u00e9mon', doesn't obviously match"
+    }
+  ]
+}

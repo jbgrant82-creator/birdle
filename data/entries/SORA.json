@@ -1,0 +1,23 @@
+{
+  "word": "SORA",
+  "category": "bird_species",
+  "title": "Sora (bird)",
+  "blurb": "The sora, sora rail or Carolina crake is a small waterbird of the rail family Rallidae, sometimes also referred to as the sora rail or sora crake, that occurs throughout much of North America.",
+  "facts": [
+    "The common name \"Sora\" is probably derived from a Native American language."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Sora_(bird)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SORA.webp",
+    "file_jpg": "assets/birds/SORA.jpg",
+    "alt": "Photo of Sora (bird)",
+    "credit": "Photo by Elaine R. Wilson, www.naturespicsonline.com \u2014 CC BY-SA 2.5, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Sora_(Porzana_carolina).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

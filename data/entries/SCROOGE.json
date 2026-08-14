@@ -1,0 +1,32 @@
+{
+  "word": "SCROOGE",
+  "category": "character",
+  "title": "Scrooge McDuck",
+  "blurb": "The famously penny-pinching, adventuring billionaire duck uncle of Huey, Dewey, and Louie, introduced by Carl Barks and later given his own DuckTales series.",
+  "facts": [
+    "Like his nephew, Donald Duck, he has a yellow-orange bill, legs, and webbed feet.",
+    "He typically wears a red or blue frock coat, a black top hat, pince-nez glasses, and spats varying in colour.",
+    "He is portrayed in animation as speaking with a Scottish accent."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Scrooge_McDuck"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "\"Christmas on Bear Mountain,\" Four Color #178 (1947)",
+    "DuckTales (1987)",
+    "DuckTales (2017)"
+  ],
+  "creators": [
+    "Carl Barks"
+  ],
+  "studio": "Walt Disney Productions",
+  "first_appearance": "Four Color #178, \"Christmas on Bear Mountain\" (1947)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

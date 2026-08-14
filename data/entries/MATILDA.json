@@ -1,0 +1,30 @@
+{
+  "word": "MATILDA",
+  "category": "character",
+  "title": "The Angry Birds Movie",
+  "blurb": "A former \"angry bird\" turned zen anger-management instructor for Red and the flock, introduced for The Angry Birds Movie.",
+  "facts": [
+    "The film follows Red (Sudeikis), an outcast on an island of flightless birds, who suspects a newly-arrived crew of green pigs of plotting an evil plan, and attempts to stop them..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Angry_Birds_Movie"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "The Angry Birds Movie (2016)",
+    "The Angry Birds Movie 2 (2019)"
+  ],
+  "creators": [
+    "Rovio Animation",
+    "Sony Pictures Animation (film)"
+  ],
+  "studio": "Columbia Pictures / Sony Pictures Animation, Rovio Animation",
+  "first_appearance": "The Angry Birds Movie (2016)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

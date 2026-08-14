@@ -1,0 +1,21 @@
+{
+  "word": "VIREO",
+  "category": "bird_species",
+  "title": "Vireo",
+  "blurb": "The vireos make up a family, Vireonidae, of small to medium-sized passerine birds found in the New World and Southeast Asia.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Vireo"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/VIREO.webp",
+    "file_jpg": "assets/birds/VIREO.jpg",
+    "alt": "Photo of Vireo",
+    "credit": "Photo by Mdf \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Vireo-flavifrons-001.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

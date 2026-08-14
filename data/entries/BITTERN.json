@@ -1,0 +1,23 @@
+{
+  "word": "BITTERN",
+  "category": "bird_species",
+  "title": "Bittern",
+  "blurb": "Bitterns are birds belonging to the subfamily Botaurinae of the heron family Ardeidae. Bitterns tend to be shorter-necked and more secretive than other members of the family.",
+  "facts": [
+    "They were called h\u00e6ferbl\u00e6te and various iterations of raredumla in Old English; the word \"bittern\" came to English from Old French butor, itself from Gallo-Roman butitaurus, a..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bittern"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/BITTERN.webp",
+    "file_jpg": "assets/birds/BITTERN.jpg",
+    "alt": "Photo of Bittern",
+    "credit": "Photo by Seney Natural History Association \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:American_Bittern_Seney_NWR_3.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

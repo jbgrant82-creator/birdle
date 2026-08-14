@@ -1,0 +1,22 @@
+{
+  "word": "SOAR",
+  "category": "bird_adjacent",
+  "title": "List of soaring birds",
+  "blurb": "This is a list of soaring birds, which are birds that can maintain flight without wing flapping, using rising air currents.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_soaring_birds"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SOAR.webp",
+    "file_jpg": "assets/birds/SOAR.jpg",
+    "alt": "Photo of List of soaring birds",
+    "credit": "Photo by Zephyris \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:RedKite_Soaring_Oxfordshire.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

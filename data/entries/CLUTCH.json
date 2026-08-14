@@ -1,0 +1,22 @@
+{
+  "word": "CLUTCH",
+  "category": "bird_adjacent",
+  "title": "Clutch (eggs)",
+  "blurb": "A clutch of eggs is the group of eggs produced by birds, amphibians, or reptiles, often at a single time, particularly those laid in a nest.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Clutch_(eggs)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/CLUTCH.webp",
+    "file_jpg": "assets/birds/CLUTCH.jpg",
+    "alt": "Photo of Clutch (eggs)",
+    "credit": "Photo by Thierry Caro \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Coupe-nid-tortue-K\u00e9lonia.JPG"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

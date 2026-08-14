@@ -1,0 +1,25 @@
+{
+  "word": "WARBLE",
+  "category": "bird_adjacent",
+  "title": "Warble fly",
+  "blurb": "Warble fly is a name given to the genus Hypoderma: large flies which are parasitic on cattle and deer.",
+  "facts": [
+    "Larvae of Hypoderma species also have been reported in horses, sheep, goats and humans.",
+    "They have also been found on smaller mammals such as dogs, cats, squirrels, voles and rabbits."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Warble_fly"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/WARBLE.webp",
+    "file_jpg": "assets/birds/WARBLE.jpg",
+    "alt": "Photo of Warble fly",
+    "credit": "Photo by unknown \u2014 CC BY 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Hypoderma_bovis.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

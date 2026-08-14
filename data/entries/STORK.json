@@ -1,0 +1,23 @@
+{
+  "word": "STORK",
+  "category": "bird_species",
+  "title": "Stork",
+  "blurb": "Storks are large, long-legged, long-necked wading birds with long, stout bills. They belong to the family Ciconiidae, and make up the order Ciconiiformes.",
+  "facts": [
+    "Ciconiiformes previously included a number of other families, such as herons and ibises, but those families have been moved to the order Pelecaniformes."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stork"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/STORK.webp",
+    "file_jpg": "assets/birds/STORK.jpg",
+    "alt": "Photo of Stork",
+    "credit": "Photo by Soloneying \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Ringed_white_stork.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,23 @@
+{
+  "word": "RAVEN",
+  "category": "bird_species",
+  "title": "Raven",
+  "blurb": "A raven is any of several large-bodied passerine bird species in the genus Corvus. These species do not form a single taxonomic group within the genus.",
+  "facts": [
+    "There is no consistent distinction between crows and ravens; the two names are assigned to different species mainly by size."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Raven"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/RAVEN.webp",
+    "file_jpg": "assets/birds/RAVEN.jpg",
+    "alt": "Photo of Raven",
+    "credit": "Photo by Copetersen www.copetersen.com \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:3782_Common_Raven_in_flight.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

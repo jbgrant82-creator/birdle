@@ -1,0 +1,21 @@
+{
+  "word": "COWBIRD",
+  "category": "bird_species",
+  "title": "Cowbird",
+  "blurb": "Cowbirds are birds belonging to the genus Molothrus in the family Icteridae. They are of New World origin and are obligate brood parasites, laying their eggs in the nests of other species.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cowbird"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/COWBIRD.webp",
+    "file_jpg": "assets/birds/COWBIRD.jpg",
+    "alt": "Photo of Cowbird",
+    "credit": "Photo by Rhododendrites \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Brown_headed_cowbird_female_in_JBWR_(25487).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,24 @@
+{
+  "word": "GOOSE",
+  "category": "bird_species",
+  "title": "Goose",
+  "blurb": "A goose is a bird of any of several waterfowl species in the family Anatidae. This group comprises the genera Anser and Branta.",
+  "facts": [
+    "Some members of the Tadorninae subfamily are commonly called geese, but are not considered \"true geese\" taxonomically.",
+    "More distantly related members of the family Anatidae are swans, most of which are larger than true geese, and ducks, which are smaller."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Goose"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/GOOSE.webp",
+    "file_jpg": "assets/birds/GOOSE.jpg",
+    "alt": "Photo of Goose",
+    "credit": "Photo by Piotr Kuczynski \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Anser_anser_1_(Piotr_Kuczynski)_(cropped).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

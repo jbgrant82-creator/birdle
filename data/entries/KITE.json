@@ -1,0 +1,24 @@
+{
+  "word": "KITE",
+  "category": "bird_species",
+  "title": "Kite (bird)",
+  "blurb": "Kite is the common name for certain birds of prey in the family Accipitridae, particularly in the subfamilies Elaninae and Perninae and certain genera within Buteoninae and Harpaginae.",
+  "facts": [
+    "The name, having no cognate names in other European languages, is thought to have arisen in England; it apparently originally denoted the buzzard, as the red kite was then known...",
+    "By the time of Thomas Pennant's 1768 British Zoology, the name had become fixed on the red kite, other birds named 'kite' around the world being named from their then-perceived..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kite_(bird)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/KITE.webp",
+    "file_jpg": "assets/birds/KITE.jpg",
+    "alt": "Photo of Kite (bird)",
+    "credit": "Photo by Noel Reynolds \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Milvus_milvus_Jura.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

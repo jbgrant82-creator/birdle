@@ -1,0 +1,32 @@
+{
+  "word": "POLLY",
+  "category": "character",
+  "title": "Companion parrot",
+  "blurb": "Not a single owned character \u2014 \"Polly\" is the traditional generic name for a pet parrot, immortalized by the catchphrase \"Polly wants a cracker.\"",
+  "facts": [
+    "Reviews of parrot welfare report that many companion parrots develop problems such as stereotypic behaviour, feather damaging and chronic stress when these needs are not met, and..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Companion_parrot"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "not flagged trademarked, but image was NOT auto-fetched \u2014 verify individually before adding one, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Traditional English-language phrase/trope, no single origin work"
+  ],
+  "creators": [],
+  "studio": null,
+  "first_appearance": "Folk/traditional usage; no documented single origin",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "POLLY",
+      "issue": "title-mismatch",
+      "detail": "hint 'Pet parrot' -> resolved title 'Companion parrot', doesn't obviously match"
+    }
+  ]
+}

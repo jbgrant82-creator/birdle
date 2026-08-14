@@ -1,0 +1,24 @@
+{
+  "word": "MIGRATE",
+  "category": "bird_adjacent",
+  "title": "Bird migration",
+  "blurb": "Bird migration is a seasonal movement of some birds between breeding and wintering grounds that occurs twice a year. It is typically between northern and southern regions.",
+  "facts": [
+    "Migration carries inherent risks, including predation and other hazards en route."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bird_migration"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/MIGRATE.webp",
+    "file_jpg": "assets/birds/MIGRATE.jpg",
+    "alt": "Photo of Bird migration",
+    "credit": "Photo by L. Shyamal \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Migrationroutes.svg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

@@ -1,0 +1,22 @@
+{
+  "word": "MOLT",
+  "category": "bird_adjacent",
+  "title": "Moulting",
+  "blurb": "In biology, moulting, or molting, also known as sloughing, shedding, or in many invertebrates, ecdysis, is a process by which an animal casts off parts of its body to serve some beneficial purpose, either at specific times of the year, or at...",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Moulting"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/MOLT.webp",
+    "file_jpg": "assets/birds/MOLT.jpg",
+    "alt": "Photo of Moulting",
+    "credit": "Photo by Clinton &amp; Charles Robertson from Del Rio, Texas &amp; College Station, TX, USA \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Dragonfly_metamorphosis.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

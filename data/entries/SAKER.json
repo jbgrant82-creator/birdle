@@ -1,0 +1,25 @@
+{
+  "word": "SAKER",
+  "category": "bird_species",
+  "title": "Saker falcon",
+  "blurb": "The saker falcon is a large falcon species. It breeds from Central Europe eastwards across the Palearctic to Manchuria.",
+  "facts": [
+    "It is a partial migrant, which means that some part of the population is migratory, some part is not.",
+    "In Europe, for example, a part of the juveniles are migrating, while adults are mostly resident.",
+    "The European and West Asian migratory sakers spend the winter in the Sahel region."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Saker_falcon"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SAKER.webp",
+    "file_jpg": "assets/birds/SAKER.jpg",
+    "alt": "Photo of Saker falcon",
+    "credit": "Photo by Marek Szczepanek \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Falco_cherrug_(Marek_Szczepanek).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

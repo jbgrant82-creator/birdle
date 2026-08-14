@@ -1,0 +1,25 @@
+{
+  "word": "LEGHORN",
+  "category": "bird_species",
+  "title": "Leghorn chicken",
+  "blurb": "The Leghorn, Italian: Livorno or Livornese, is an Italian breed of chicken originating in Tuscany, in central Italy. Birds were exported to North America in about 1828 from the port city of Livorno, on the Tuscan coast.",
+  "facts": [
+    "They were initially called \"Italians\", but by 1865 the breed was known as \"Leghorn\", the traditional English name of the city.",
+    "The breed was introduced to Britain from the United States in 1870.",
+    "White Leghorns are commonly used as layer chickens in many countries of the world."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Leghorn_chicken"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/LEGHORN.webp",
+    "file_jpg": "assets/birds/LEGHORN.jpg",
+    "alt": "Photo of Leghorn chicken",
+    "credit": "Photo by Bodlina \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Leghorn_cockerel_and_hen.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

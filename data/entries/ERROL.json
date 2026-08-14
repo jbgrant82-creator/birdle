@@ -1,0 +1,32 @@
+{
+  "word": "ERROL",
+  "category": "character",
+  "title": "Errol",
+  "blurb": "The Weasley family's elderly, perpetually exhausted owl, prone to crash-landing after even short mail deliveries.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Errol"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Harry Potter and the Chamber of Secrets (1998 novel) onward"
+  ],
+  "creators": [
+    "J.K. Rowling"
+  ],
+  "studio": "Warner Bros. Pictures (film adaptations)",
+  "first_appearance": "Harry Potter and the Chamber of Secrets (1998)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "ERROL",
+      "issue": "disambiguation",
+      "detail": "'Errol' is a disambiguation page"
+    }
+  ]
+}

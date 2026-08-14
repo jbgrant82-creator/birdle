@@ -1,0 +1,25 @@
+{
+  "word": "PLUMAGE",
+  "category": "bird_adjacent",
+  "title": "Plumage",
+  "blurb": "Plumage, or feathering, is a layer of feathers that covers a bird and the pattern, colour, and arrangement of those feathers. The pattern and colours of plumage differ between species and subspecies and may vary with sex and age classes.",
+  "facts": [
+    "Within a few species, there can be different colour morphs.",
+    "The placement of feathers on a bird is not haphazard but rather emerges in organised, overlapping rows and groups, and these feather tracts are known by standard names."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Plumage"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PLUMAGE.webp",
+    "file_jpg": "assets/birds/PLUMAGE.jpg",
+    "alt": "Photo of Plumage",
+    "credit": "Photo by Karthik Easvur \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Plumage_house_sparrow.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

@@ -1,0 +1,22 @@
+{
+  "word": "PECKING",
+  "category": "bird_adjacent",
+  "title": "Pecking",
+  "blurb": "Pecking is the action of a bird using their beak to search for food or otherwise investigate an object or area by tapping it. Pecking can also be used by a bird to attack or fight another bird.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pecking"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PECKING.webp",
+    "file_jpg": "assets/birds/PECKING.jpg",
+    "alt": "Photo of Pecking",
+    "credit": "Photo by unknown \u2014 CC BY 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:A_bird,_possibly_a_chiffchaff,_pecking_at_the_base_of_a_Wellcome_V0043830.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

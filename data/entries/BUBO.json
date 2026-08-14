@@ -1,0 +1,26 @@
+{
+  "word": "BUBO",
+  "category": "character",
+  "title": "Clash of the Titans (1981 film)",
+  "blurb": "A bronze mechanical owl built by the god Hephaestus and given to Perseus as a companion in the 1981 fantasy film Clash of the Titans.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Clash_of_the_Titans_(1981_film)"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Clash of the Titans (1981)"
+  ],
+  "creators": [
+    "Ray Harryhausen (stop-motion effects/design)"
+  ],
+  "studio": "Metro-Goldwyn-Mayer",
+  "first_appearance": "Clash of the Titans (1981)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

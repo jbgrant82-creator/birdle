@@ -1,0 +1,24 @@
+{
+  "word": "GUANO",
+  "category": "bird_adjacent",
+  "title": "Guano",
+  "blurb": "Guano is the accumulated excrement of seabirds or bats. Guano is a highly effective fertiliser due to the high content of nitrogen, phosphate, and potassium, all key nutrients essential for plant growth.",
+  "facts": [
+    "Guano was also, to a lesser extent, sought for the production of gunpowder and other explosive materials."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Guano"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/GUANO.webp",
+    "file_jpg": "assets/birds/GUANO.jpg",
+    "alt": "Photo of Guano",
+    "credit": "Photo by en:User:Acatenazzi \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Guano.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

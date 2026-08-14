@@ -1,0 +1,21 @@
+{
+  "word": "OSTRICH",
+  "category": "bird_species",
+  "title": "Ostrich",
+  "blurb": "Ostriches are large flightless birds. Two living species are recognised: the common ostrich, native to large parts of Sub-Saharan Africa, and the Somali ostrich, native to the Horn of Africa.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ostrich"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/OSTRICH.webp",
+    "file_jpg": "assets/birds/OSTRICH.jpg",
+    "alt": "Photo of Ostrich",
+    "credit": "Photo by PaleoNeolitic (montage creator)\n\nDiego Delso\nninara \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Struthio_Diversity.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

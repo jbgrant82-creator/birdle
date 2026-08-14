@@ -1,0 +1,32 @@
+{
+  "word": "WOODY",
+  "category": "character",
+  "title": "Woody Woodpecker",
+  "blurb": "A loud, laughing red-headed woodpecker created for Universal's cartoon shorts, known for his distinctive cackling laugh.",
+  "facts": [
+    "The character, depicted as an anthropomorphic pileated woodpecker, evolved significantly in design and personality over the course of his series' run, from an insane bird with an...",
+    "Woody was originally voiced by prolific voice actor Mel Blanc, who was succeeded in the shorts by Danny Webb and four others."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Woody_Woodpecker"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Knock Knock (1940)",
+    "Walter Lantz cartoon shorts",
+    "The Woody Woodpecker Show"
+  ],
+  "creators": [
+    "Walter Lantz",
+    "Ben Hardaway"
+  ],
+  "studio": "Walter Lantz Productions / Universal Pictures",
+  "first_appearance": "Knock Knock (1940)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

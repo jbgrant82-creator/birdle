@@ -1,0 +1,28 @@
+{
+  "word": "TWITCH",
+  "category": "bird_adjacent",
+  "title": "Birdwatching",
+  "blurb": "Birdwatching, or birding, is the observing of birds, either as a recreational activity or as a form of citizen science.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Birdwatching"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TWITCH.webp",
+    "file_jpg": "assets/birds/TWITCH.jpg",
+    "alt": "Photo of Birdwatching",
+    "credit": "Photo by Dara Miles Wilson \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:NMAAHC_Bird_Walk.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "TWITCH",
+      "issue": "title-mismatch",
+      "detail": "hint 'Twitcher' -> resolved title 'Birdwatching', doesn't obviously match"
+    }
+  ]
+}

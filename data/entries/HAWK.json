@@ -1,0 +1,21 @@
+{
+  "word": "HAWK",
+  "category": "bird_species",
+  "title": "Hawk",
+  "blurb": "Hawks are birds of prey of the family Accipitridae. They are very widely distributed and are found on all continents, except Antarctica.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hawk"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/HAWK.webp",
+    "file_jpg": "assets/birds/HAWK.jpg",
+    "alt": "Photo of Hawk",
+    "credit": "Photo by Norbert Kenntner, Berlin \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Northern_Goshawk_ad_M2.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

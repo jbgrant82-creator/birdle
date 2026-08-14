@@ -1,0 +1,24 @@
+{
+  "word": "ORTOLAN",
+  "category": "bird_species",
+  "title": "Ortolan bunting",
+  "blurb": "The ortolan, also called ortolan bunting, is a Eurasian bird in the bunting family Emberizidae, a passerine family now separated by most modern scholars from the finches, Fringillidae.",
+  "facts": [
+    "The specific name hortulana is from the Italian name for this bird, ortolana.",
+    "The English ortolan is derived from Middle French hortolan, \"gardener\"."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ortolan_bunting"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/ORTOLAN.webp",
+    "file_jpg": "assets/birds/ORTOLAN.jpg",
+    "alt": "Photo of Ortolan bunting",
+    "credit": "Photo by Pierre Dalous \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Ortolan_bunting_in_Sierra_de_Guara,_Aragon,_Spain.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

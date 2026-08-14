@@ -1,0 +1,32 @@
+{
+  "word": "CHATOT",
+  "category": "character",
+  "title": "List of generation IV Pok\u00e9mon",
+  "blurb": "A small, colorful parrot-like Pok\u00e9mon known for its music-note tail and its move Chatter, which mimics recorded sounds.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_generation_IV_Pok%C3%A9mon"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Pok\u00e9mon Diamond and Pearl (2006)"
+  ],
+  "creators": [
+    "Game Freak"
+  ],
+  "studio": "Game Freak / Nintendo / Creatures Inc.",
+  "first_appearance": "Pok\u00e9mon Diamond and Pearl (2006, Japan)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "CHATOT",
+      "issue": "title-mismatch",
+      "detail": "hint 'List of generation IV Pokemon' -> resolved title 'List of generation IV Pok\u00e9mon', doesn't obviously match"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "word": "KEHAAR",
+  "category": "character",
+  "title": "Watership Down",
+  "blurb": "A brusque, foreign-accented black-headed gull who helps the rabbits of the Sandleford warren in Richard Adams' Watership Down.",
+  "facts": [
+    "Although they live in their natural wild environment, with burrows, they are anthropomorphised, possessing their own culture, language, proverbs, poetry, and mythology.",
+    "Evoking epic themes, the novel follows the rabbits as they escape the destruction of their warren and seek a place to establish a new home, encountering perils and temptations..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Watership_Down"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "not flagged trademarked, but image was NOT auto-fetched \u2014 verify individually before adding one, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Watership Down (1972 novel)",
+    "Watership Down (1978 film)",
+    "Watership Down (2018 miniseries)"
+  ],
+  "creators": [
+    "Richard Adams"
+  ],
+  "studio": "Nepenthe Productions (1978 film)",
+  "first_appearance": "Watership Down (1972 novel)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

@@ -1,0 +1,25 @@
+{
+  "word": "FINCH",
+  "category": "bird_species",
+  "title": "Finch",
+  "blurb": "The true finches are small to medium-sized passerine birds in the family Fringillidae. Finches generally have stout conical bills adapted for eating seeds and nuts and often have colourful plumage.",
+  "facts": [
+    "They occupy a great range of habitats where they are usually resident and do not migrate.",
+    "They have a worldwide native distribution except for Australia and the polar regions.",
+    "The family Fringillidae contains more than two hundred species divided into fifty genera."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Finch"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/FINCH.webp",
+    "file_jpg": "assets/birds/FINCH.jpg",
+    "alt": "Photo of Finch",
+    "credit": "Photo by Francis C. Franklin \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Pyrrhula_pyrrhula_female_2.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

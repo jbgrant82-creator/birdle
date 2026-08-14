@@ -1,0 +1,25 @@
+{
+  "word": "TURKEY",
+  "category": "bird_species",
+  "title": "Turkey",
+  "blurb": "Turkey, officially the Republic of T\u00fcrkiye, is a country mainly located in Anatolia in West Asia, with a smaller part called East Thrace in Southeast Europe.",
+  "facts": [
+    "Turkey is home to over 86 million people; most are ethnic Turks, while Kurds are the largest ethnic minority.",
+    "Officially a secular state, Turkey has a Muslim-majority population.",
+    "Ankara is Turkey's capital and second-largest city."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Turkey"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TURKEY.webp",
+    "file_jpg": "assets/birds/TURKEY.jpg",
+    "alt": "Photo of Turkey",
+    "credit": "Photo by David Benbennick (original author) \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Turkey.svg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,23 @@
+{
+  "word": "TANAGER",
+  "category": "bird_species",
+  "title": "Tanager",
+  "blurb": "The tanagers comprise the bird family Thraupidae, in the order Passeriformes. The family has a Neotropical distribution and is the second-largest family of birds.",
+  "facts": [
+    "It represents about 4% of all avian species and 12% of the Neotropical birds."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tanager"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TANAGER.webp",
+    "file_jpg": "assets/birds/TANAGER.jpg",
+    "alt": "Photo of Tanager",
+    "credit": "Photo by Termininja \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Thraupidae_Diversity.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

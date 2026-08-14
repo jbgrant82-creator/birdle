@@ -1,0 +1,23 @@
+{
+  "word": "OSPREY",
+  "category": "bird_species",
+  "title": "Osprey",
+  "blurb": "The osprey, historically known as sea hawk, river hawk, and fish hawk, is a diurnal, fish-eating bird of prey with a cosmopolitan range. It is a large raptor, reaching more than 60\u00a0cm (24\u00a0in) in length and a wingspan of 180\u00a0cm (71\u00a0in).",
+  "facts": [
+    "It is brown on the upperparts and predominantly greyish on the head and underparts."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Osprey"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/OSPREY.webp",
+    "file_jpg": "assets/birds/OSPREY.jpg",
+    "alt": "Photo of Osprey",
+    "credit": "Photo by Chuck Homler / Focus On Wildlife \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Osprey_Perched_Snag_Heislerville.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

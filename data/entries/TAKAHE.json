@@ -1,0 +1,29 @@
+{
+  "word": "TAKAHE",
+  "category": "bird_species",
+  "title": "Takah\u0113",
+  "blurb": "The South Island takah\u0113 is a flightless swamphen indigenous to New Zealand and the largest living member of the rail family. It is often known by the abbreviated name takah\u0113, which it shares with the recently extinct North Island takah\u0113.",
+  "facts": [
+    "The two takah\u0113 species are also known as notornis."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Takah%C4%93"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TAKAHE.webp",
+    "file_jpg": "assets/birds/TAKAHE.jpg",
+    "alt": "Photo of Takah\u0113",
+    "credit": "Photo by Pseudopanax at English Wikipedia \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Male_takahe_walking_on_grass.jpg"
+  },
+  "audio": null,
+  "_review_issues": [
+    {
+      "word": "TAKAHE",
+      "issue": "title-mismatch",
+      "detail": "hint 'Takahe' -> resolved title 'Takah\u0113', doesn't obviously match"
+    }
+  ]
+}

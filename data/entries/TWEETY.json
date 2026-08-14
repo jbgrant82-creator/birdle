@@ -1,0 +1,31 @@
+{
+  "word": "TWEETY",
+  "category": "character",
+  "title": "Tweety",
+  "blurb": "A small yellow canary whose wide-eyed innocent act routinely outmaneuvers Sylvester the cat, one of Warner Bros.' most enduring stars.",
+  "facts": [
+    "His characteristics are based on Red Skelton's famous \"Junior the Mean Widdle Kid\".",
+    "He appeared in 46 cartoons during the golden age, made between 1942 and 1964."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tweety"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "A Tale of Two Kitties (1942)",
+    "Looney Tunes/Merrie Melodies shorts",
+    "The Sylvester and Tweety Mysteries"
+  ],
+  "creators": [
+    "Bob Clampett"
+  ],
+  "studio": "Warner Bros. Cartoons",
+  "first_appearance": "A Tale of Two Kitties (1942)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

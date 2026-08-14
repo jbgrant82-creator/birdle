@@ -1,0 +1,25 @@
+{
+  "word": "CUCKOO",
+  "category": "bird_species",
+  "title": "Cuckoo",
+  "blurb": "Cuckoos are birds in the family Cuculidae, the sole taxon in the order Cuculiformes. The cuckoo family includes the common cuckoo, roadrunners, koels, malkohas, couas, coucals, and anis.",
+  "facts": [
+    "The coucals and anis are sometimes separated as distinct families, the Centropodidae and Crotophagidae, respectively.",
+    "The cuckoo order Cuculiformes is one of three that make up the Otidimorphae, the other two being the turacos and the bustards.",
+    "The family Cuculidae contains 150 species, which are divided into 33 genera."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cuckoo"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/CUCKOO.webp",
+    "file_jpg": "assets/birds/CUCKOO.jpg",
+    "alt": "Photo of Cuckoo",
+    "credit": "Photo by JJ Harrison (https://www.jjharrison.com.au/) \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Cacomantis_flabelliformis.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

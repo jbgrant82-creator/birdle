@@ -1,0 +1,21 @@
+{
+  "word": "DRONGO",
+  "category": "bird_species",
+  "title": "Drongo",
+  "blurb": "A drongo is a member of the family Dicruridae of passerine birds of the Old World tropics. The 28 species in the family are placed in a single genus, Dicrurus.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Drongo"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/DRONGO.webp",
+    "file_jpg": "assets/birds/DRONGO.jpg",
+    "alt": "Photo of Drongo",
+    "credit": "Photo by Dougjj \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Dicrurus_hottentottus-20030823.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

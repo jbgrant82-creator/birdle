@@ -1,0 +1,25 @@
+{
+  "word": "SPARROW",
+  "category": "bird_species",
+  "title": "House sparrow",
+  "blurb": "The house sparrow is a bird of the sparrow family Passeridae, found in most parts of the world. It is a small bird that has a typical length of 16\u00a0cm (6.3\u00a0in) and a mass of 24\u201339.5\u00a0g (0.85\u20131.39\u00a0oz).",
+  "facts": [
+    "Females and young birds are coloured pale brown and grey, and males have brighter black, white, and brown markings.",
+    "One of 28 species in the genus Passer, the house sparrow is native to most of Europe, the Mediterranean Basin, and a large part of Asia.",
+    "Its intentional or accidental introductions to many regions, including parts of Australasia, Africa, and the Americas, make it the most widely distributed wild bird."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/House_sparrow"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SPARROW.webp",
+    "file_jpg": "assets/birds/SPARROW.jpg",
+    "alt": "Photo of House sparrow",
+    "credit": "Photo by Rhododendrites \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:House_sparrow_male_in_Prospect_Park_(53532).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

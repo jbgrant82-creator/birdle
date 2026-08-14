@@ -1,0 +1,36 @@
+{
+  "word": "CAMILLA",
+  "category": "character",
+  "title": "List of Muppets",
+  "blurb": "Gonzo the Great's on-again, off-again chicken girlfriend on The Muppet Show, usually appearing as part of his eccentric act.",
+  "facts": [
+    "The majority of the characters listed here originated on The Muppet Show, a television series that aired from 1976 to 1981.",
+    "Since then, several more characters have been introduced in other television series, as well as theatrical films."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_Muppets"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "The Muppet Show",
+    "Muppet feature films"
+  ],
+  "creators": [
+    "Jim Henson"
+  ],
+  "studio": "Jim Henson Productions",
+  "first_appearance": "The Muppet Show, second season (1976\u201377)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "CAMILLA",
+      "issue": "title-mismatch",
+      "detail": "hint 'Camilla the Chicken' -> resolved title 'List of Muppets', doesn't obviously match"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "word": "SKYLARK",
+  "category": "bird_species",
+  "title": "Alauda",
+  "blurb": "Alauda is a genus of larks found across much of Europe, Asia and in the mountains of north Africa, with one species endemic to the islet of Raso in the Cape Verde Islands. At least two additional species are known from the fossil record.",
+  "facts": [
+    "The genus name is from Latin alauda, \"lark\".",
+    "Pliny the Elder thought the word was originally of Celtic origin."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Alauda"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SKYLARK.webp",
+    "file_jpg": "assets/birds/SKYLARK.jpg",
+    "alt": "Photo of Alauda",
+    "credit": "Photo by Daniel Pettersson \u2014 CC BY-SA 2.5 se, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Alauda_arvensis_2.jpg"
+  },
+  "audio": null,
+  "_review_issues": [
+    {
+      "word": "SKYLARK",
+      "issue": "title-mismatch",
+      "detail": "hint 'Skylark' -> resolved title 'Alauda', doesn't obviously match"
+    }
+  ]
+}

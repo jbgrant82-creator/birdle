@@ -1,0 +1,32 @@
+{
+  "word": "TORCHIC",
+  "category": "character",
+  "title": "List of generation III Pok\u00e9mon",
+  "blurb": "A small fire-type chick Pok\u00e9mon, one of three starters offered in Pok\u00e9mon Ruby and Sapphire.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_generation_III_Pok%C3%A9mon"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Pok\u00e9mon Ruby and Sapphire (2002)"
+  ],
+  "creators": [
+    "Game Freak"
+  ],
+  "studio": "Game Freak / Nintendo / Creatures Inc.",
+  "first_appearance": "Pok\u00e9mon Ruby and Sapphire (2002, Japan)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "TORCHIC",
+      "issue": "title-mismatch",
+      "detail": "hint 'Torchic' -> resolved title 'List of generation III Pok\u00e9mon', doesn't obviously match"
+    }
+  ]
+}

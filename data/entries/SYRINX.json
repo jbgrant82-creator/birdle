@@ -1,0 +1,26 @@
+{
+  "word": "SYRINX",
+  "category": "bird_adjacent",
+  "title": "Syrinx (bird anatomy)",
+  "blurb": "The syrinx is the vocal organ of birds. Located at the base of a bird's trachea, it produces sounds without the vocal folds of mammals.",
+  "facts": [
+    "The sound is produced by vibrations of some or all of the membrana tympaniformis and the pessulus, caused by air flowing through the syrinx.",
+    "This sets up a self-oscillating system that modulates the airflow creating the sound.",
+    "The muscles modulate the sound shape by changing the tension of the membranes and the bronchial openings."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Syrinx_(bird_anatomy)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SYRINX.webp",
+    "file_jpg": "assets/birds/SYRINX.jpg",
+    "alt": "Photo of Syrinx (bird anatomy)",
+    "credit": "Photo by Uwe Gille \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Syrinx.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

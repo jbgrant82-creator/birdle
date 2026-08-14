@@ -1,0 +1,34 @@
+{
+  "word": "ZAZU",
+  "category": "character",
+  "title": "Zazu",
+  "blurb": "The excitable red-billed hornbill who serves as majordomo to the Pride Lands' royal family in Disney's The Lion King.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Zazu"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "The Lion King (1994)",
+    "The Lion King II: Simba's Pride",
+    "The Lion King (2019)"
+  ],
+  "creators": [
+    "Walt Disney Animation Studios"
+  ],
+  "studio": "Walt Disney Animation Studios",
+  "first_appearance": "The Lion King (1994)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "ZAZU",
+      "issue": "disambiguation",
+      "detail": "'Zazu' is a disambiguation page"
+    }
+  ]
+}

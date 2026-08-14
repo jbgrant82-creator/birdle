@@ -1,0 +1,25 @@
+{
+  "word": "LARK",
+  "category": "bird_species",
+  "title": "Lark",
+  "blurb": "Larks are passerine birds of the family Alaudidae. Larks have a cosmopolitan distribution with the largest number of species occurring in Africa.",
+  "facts": [
+    "Only a single species, the horned lark, occurs in North America, and only Horsfield's bush lark occurs in Australia.",
+    "Habitats vary widely, but many species live in drier regions.",
+    "When the word \"lark\" is used without specification, it often refers to the Eurasian skylark (Alauda arvensis)."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lark"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/LARK.webp",
+    "file_jpg": "assets/birds/LARK.jpg",
+    "alt": "Photo of Lark",
+    "credit": "Photo by T.Voekler \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Alauda_arvensis_Linnaeus_1758.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

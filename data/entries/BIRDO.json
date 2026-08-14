@@ -1,0 +1,29 @@
+{
+  "word": "BIRDO",
+  "category": "character",
+  "title": "Birdo",
+  "blurb": "A pink, egg-spitting Mario-universe character who debuted as a boss and became a recurring rival/ally across the Mario spin-off games.",
+  "facts": [
+    "Since then, Birdo has been a recurring character in various Mario franchise games making several cameo and playable appearances."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Birdo"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Yume K\u014dj\u014d: Doki Doki Panic (1987) / Super Mario Bros. 2 (1988)",
+    "Mario Kart, Mario Party, Mario Tennis, Mario Golf series"
+  ],
+  "creators": [
+    "Nintendo"
+  ],
+  "studio": "Nintendo",
+  "first_appearance": "Yume K\u014dj\u014d: Doki Doki Panic (1987, Japan)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

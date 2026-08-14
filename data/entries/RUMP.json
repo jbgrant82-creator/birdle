@@ -1,0 +1,22 @@
+{
+  "word": "RUMP",
+  "category": "bird_adjacent",
+  "title": "Rump (animal)",
+  "blurb": "The rump or croup, in the external morphology of an animal, is the portion of the posterior dorsum \u2013 that is, posterior to the loins and anterior to the tail. Anatomically, the rump corresponds to the sacrum.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rump_(animal)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/RUMP.webp",
+    "file_jpg": "assets/birds/RUMP.jpg",
+    "alt": "Photo of Rump (animal)",
+    "credit": "Photo by Malene Thyssen \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Jydske-rear.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

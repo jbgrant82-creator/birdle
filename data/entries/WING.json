@@ -1,0 +1,25 @@
+{
+  "word": "WING",
+  "category": "bird_adjacent",
+  "title": "Wing",
+  "blurb": "A wing is a structure which produces both lift and drag while moving through air. Wings are defined by two shape characteristics, an airfoil section and a planform.",
+  "facts": [
+    "Wing efficiency is expressed as lift-to-drag ratio, which compares the benefit of lift with the air resistance of a given wing shape, as it flies.",
+    "Aerodynamics includes the study of wing performance in air."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wing"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/WING.webp",
+    "file_jpg": "assets/birds/WING.jpg",
+    "alt": "Photo of Wing",
+    "credit": "Photo by unknown \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Wing.two.arp.600pix.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

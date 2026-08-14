@@ -1,0 +1,2490 @@
+{
+  "schema_version": 1,
+  "generated_note": "Hand-curated seed bank. Definitions/images are NOT in this file - they are fetched by scripts/enrich.py into data/entries/<WORD>.json. See HANDOFF.md.",
+  "counts": {
+    "4-bird_adjacent": 26,
+    "4-bird_species": 25,
+    "4-character": 7,
+    "5-bird_adjacent": 21,
+    "5-bird_species": 37,
+    "5-character": 21,
+    "6-bird_adjacent": 21,
+    "6-bird_species": 43,
+    "6-character": 23,
+    "7-bird_adjacent": 17,
+    "7-bird_species": 41,
+    "7-character": 18,
+    "total": 300
+  },
+  "words": [
+    {
+      "word": "AVES",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Bird",
+      "verified": false
+    },
+    {
+      "word": "BEAK",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Beak",
+      "verified": false
+    },
+    {
+      "word": "BILL",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Bill",
+      "verified": false
+    },
+    {
+      "word": "CALL",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Bird vocalization",
+      "verified": false
+    },
+    {
+      "word": "CERE",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Cere",
+      "verified": false
+    },
+    {
+      "word": "CLAW",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Claw",
+      "verified": false
+    },
+    {
+      "word": "CROP",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Crop (anatomy)",
+      "verified": false
+    },
+    {
+      "word": "DOWN",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Down feather",
+      "verified": false
+    },
+    {
+      "word": "FLAP",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Flap",
+      "verified": false
+    },
+    {
+      "word": "GAPE",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Beak",
+      "verified": false
+    },
+    {
+      "word": "HOOT",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Owl",
+      "verified": false
+    },
+    {
+      "word": "LORE",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Lore (anatomy)",
+      "verified": false
+    },
+    {
+      "word": "MOLT",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Moulting",
+      "verified": false
+    },
+    {
+      "word": "NAPE",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Nape",
+      "verified": false
+    },
+    {
+      "word": "NEST",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Nest",
+      "verified": false
+    },
+    {
+      "word": "PECK",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Peck",
+      "verified": false
+    },
+    {
+      "word": "PREY",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Prey",
+      "verified": false
+    },
+    {
+      "word": "RUMP",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Rump (animal)",
+      "verified": false
+    },
+    {
+      "word": "SEED",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Seed",
+      "verified": false
+    },
+    {
+      "word": "SOAR",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Soar",
+      "verified": false
+    },
+    {
+      "word": "SONG",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Bird vocalization",
+      "verified": false
+    },
+    {
+      "word": "SUET",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Suet",
+      "verified": false
+    },
+    {
+      "word": "TAIL",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Tail",
+      "verified": false
+    },
+    {
+      "word": "VENT",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Cloaca",
+      "verified": false
+    },
+    {
+      "word": "WING",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Wing",
+      "verified": false
+    },
+    {
+      "word": "WORM",
+      "length": 4,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Worm",
+      "verified": false
+    },
+    {
+      "word": "CHAT",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Chat (bird)",
+      "verified": false
+    },
+    {
+      "word": "COOT",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Coot",
+      "verified": false
+    },
+    {
+      "word": "CROW",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Crow",
+      "verified": false
+    },
+    {
+      "word": "DOVE",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Dove",
+      "verified": false
+    },
+    {
+      "word": "DUCK",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Duck",
+      "verified": false
+    },
+    {
+      "word": "GULL",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Gull",
+      "verified": false
+    },
+    {
+      "word": "HAWK",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Hawk",
+      "verified": false
+    },
+    {
+      "word": "HUIA",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Huia",
+      "verified": false
+    },
+    {
+      "word": "IBIS",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Ibis",
+      "verified": false
+    },
+    {
+      "word": "KITE",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Kite (bird)",
+      "verified": false
+    },
+    {
+      "word": "KIWI",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Kiwi",
+      "verified": false
+    },
+    {
+      "word": "KNOT",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Red knot",
+      "verified": false
+    },
+    {
+      "word": "LARK",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Lark",
+      "verified": false
+    },
+    {
+      "word": "LOON",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Loon",
+      "verified": false
+    },
+    {
+      "word": "MYNA",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Myna",
+      "verified": false
+    },
+    {
+      "word": "RHEA",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Rhea",
+      "verified": false
+    },
+    {
+      "word": "ROOK",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Rook (bird)",
+      "verified": false
+    },
+    {
+      "word": "RUFF",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Ruff",
+      "verified": false
+    },
+    {
+      "word": "SKUA",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Skua",
+      "verified": false
+    },
+    {
+      "word": "SMEW",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Smew",
+      "verified": false
+    },
+    {
+      "word": "SORA",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Sora",
+      "verified": false
+    },
+    {
+      "word": "SWAN",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Swan",
+      "verified": false
+    },
+    {
+      "word": "TEAL",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Teal",
+      "verified": false
+    },
+    {
+      "word": "TERN",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Tern",
+      "verified": false
+    },
+    {
+      "word": "WREN",
+      "length": 4,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Wren",
+      "verified": false
+    },
+    {
+      "word": "BUBO",
+      "length": 4,
+      "category": "character",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Clash of the Titans (1981 film)",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "HUEY",
+      "length": 4,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Huey, Dewey and Louie",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "IAGO",
+      "length": 4,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Iago (Disney)",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "OPUS",
+      "length": 4,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Opus the Penguin",
+      "verified": false,
+      "trademarked": false
+    },
+    {
+      "word": "PEEP",
+      "length": 4,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Peep and the Big Wide World",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "RICO",
+      "length": 4,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Penguins of Madagascar",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "ZAZU",
+      "length": 4,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Zazu",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "AERIE",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Bird nest",
+      "verified": false
+    },
+    {
+      "word": "ALULA",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Alula",
+      "verified": false
+    },
+    {
+      "word": "AVIAN",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Bird",
+      "verified": false
+    },
+    {
+      "word": "BROOD",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Brood",
+      "verified": false
+    },
+    {
+      "word": "COVEY",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Covey",
+      "verified": false
+    },
+    {
+      "word": "CREST",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Crest",
+      "verified": false
+    },
+    {
+      "word": "DOWNY",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Down feather",
+      "verified": false
+    },
+    {
+      "word": "FLOCK",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Flock (birds)",
+      "verified": false
+    },
+    {
+      "word": "GUANO",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Guano",
+      "verified": false
+    },
+    {
+      "word": "HATCH",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Hatch",
+      "verified": false
+    },
+    {
+      "word": "PERCH",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Perch",
+      "verified": false
+    },
+    {
+      "word": "PLUME",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Feather",
+      "verified": false
+    },
+    {
+      "word": "PREEN",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Preen",
+      "verified": false
+    },
+    {
+      "word": "QUILL",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Flight feather",
+      "verified": false
+    },
+    {
+      "word": "ROOST",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Roost",
+      "verified": false
+    },
+    {
+      "word": "SHAFT",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Feather",
+      "verified": false
+    },
+    {
+      "word": "SKEIN",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Flock (birds)",
+      "verified": false
+    },
+    {
+      "word": "TALON",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Claw",
+      "verified": false
+    },
+    {
+      "word": "TRILL",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Trill",
+      "verified": false
+    },
+    {
+      "word": "TWEET",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Bird vocalization",
+      "verified": false
+    },
+    {
+      "word": "WADER",
+      "length": 5,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Wader",
+      "verified": false
+    },
+    {
+      "word": "BOOBY",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Booby",
+      "verified": false
+    },
+    {
+      "word": "BRANT",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Brant (goose)",
+      "verified": false
+    },
+    {
+      "word": "CHICK",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Chicken",
+      "verified": false
+    },
+    {
+      "word": "CRANE",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Crane (bird)",
+      "verified": false
+    },
+    {
+      "word": "DIVER",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Loon",
+      "verified": false
+    },
+    {
+      "word": "DRAKE",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Duck",
+      "verified": false
+    },
+    {
+      "word": "EAGLE",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Eagle",
+      "verified": false
+    },
+    {
+      "word": "EGRET",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Egret",
+      "verified": false
+    },
+    {
+      "word": "EIDER",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Eider",
+      "verified": false
+    },
+    {
+      "word": "FINCH",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Finch",
+      "verified": false
+    },
+    {
+      "word": "GALAH",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Galah",
+      "verified": false
+    },
+    {
+      "word": "GOOSE",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Goose",
+      "verified": false
+    },
+    {
+      "word": "GREBE",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Grebe",
+      "verified": false
+    },
+    {
+      "word": "HERON",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Heron",
+      "verified": false
+    },
+    {
+      "word": "HOBBY",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Eurasian hobby",
+      "verified": false
+    },
+    {
+      "word": "JUNCO",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Junco",
+      "verified": false
+    },
+    {
+      "word": "MACAW",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Macaw",
+      "verified": false
+    },
+    {
+      "word": "NODDY",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Noddy",
+      "verified": false
+    },
+    {
+      "word": "OWLET",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Owl",
+      "verified": false
+    },
+    {
+      "word": "PEWEE",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Pewee",
+      "verified": false
+    },
+    {
+      "word": "PIPIT",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Pipit",
+      "verified": false
+    },
+    {
+      "word": "POULT",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Poultry",
+      "verified": false
+    },
+    {
+      "word": "PRION",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Prion",
+      "verified": false
+    },
+    {
+      "word": "QUAIL",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Quail",
+      "verified": false
+    },
+    {
+      "word": "RAVEN",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Raven",
+      "verified": false
+    },
+    {
+      "word": "ROBIN",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "European robin",
+      "verified": false
+    },
+    {
+      "word": "SAKER",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Saker falcon",
+      "verified": false
+    },
+    {
+      "word": "SCAUP",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Scaup",
+      "verified": false
+    },
+    {
+      "word": "SERIN",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Serin",
+      "verified": false
+    },
+    {
+      "word": "SNIPE",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Snipe",
+      "verified": false
+    },
+    {
+      "word": "SQUAB",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Squab (food)",
+      "verified": false
+    },
+    {
+      "word": "STILT",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Stilt",
+      "verified": false
+    },
+    {
+      "word": "STORK",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Stork",
+      "verified": false
+    },
+    {
+      "word": "SWIFT",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Swift (bird)",
+      "verified": false
+    },
+    {
+      "word": "TWITE",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Twite",
+      "verified": false
+    },
+    {
+      "word": "VEERY",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Veery",
+      "verified": false
+    },
+    {
+      "word": "VIREO",
+      "length": 5,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Vireo",
+      "verified": false
+    },
+    {
+      "word": "BEAKY",
+      "length": 5,
+      "category": "character",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Beaky Buzzard",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "BECKY",
+      "length": 5,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Finding Dory",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "BIRDO",
+      "length": 5,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Birdo",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "CHIRP",
+      "length": 5,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Peep and the Big Wide World",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "CHUCK",
+      "length": 5,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Angry Birds",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "DAFFY",
+      "length": 5,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Daffy Duck",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "DAISY",
+      "length": 5,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Daisy Duck",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "DELLA",
+      "length": 5,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Della Duck",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "DEWEY",
+      "length": 5,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Huey, Dewey and Louie",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "ERROL",
+      "length": 5,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "List of Harry Potter creatures",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "FALCO",
+      "length": 5,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Falco Lombardi",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "JEWEL",
+      "length": 5,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Rio (2011 film)",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "KEVIN",
+      "length": 5,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Up (2009 film)",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "LOUIE",
+      "length": 5,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Huey, Dewey and Louie",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "MEDLI",
+      "length": 5,
+      "category": "character",
+      "obscurity": "obscure",
+      "wikipedia_hint": "The Legend of Zelda: The Wind Waker",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "NIGEL",
+      "length": 5,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Finding Nemo",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "PEDRO",
+      "length": 5,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Rio (2011 film)",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "POLLY",
+      "length": 5,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Pet parrot",
+      "verified": false,
+      "trademarked": false
+    },
+    {
+      "word": "QUACK",
+      "length": 5,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Peep and the Big Wide World",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "WEBBY",
+      "length": 5,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Webby Vanderquack",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "WOODY",
+      "length": 5,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Woody Woodpecker",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "ANTING",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Anting (bird activity)",
+      "verified": false
+    },
+    {
+      "word": "AVIARY",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Aviary",
+      "verified": false
+    },
+    {
+      "word": "BIRDER",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Birdwatching",
+      "verified": false
+    },
+    {
+      "word": "CLOACA",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Cloaca",
+      "verified": false
+    },
+    {
+      "word": "CLUTCH",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Clutch (eggs)",
+      "verified": false
+    },
+    {
+      "word": "COVERT",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Covert feather",
+      "verified": false
+    },
+    {
+      "word": "CULMEN",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Beak",
+      "verified": false
+    },
+    {
+      "word": "FEEDER",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Feeder",
+      "verified": false
+    },
+    {
+      "word": "FLEDGE",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Fledge",
+      "verified": false
+    },
+    {
+      "word": "GAGGLE",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Flock (birds)",
+      "verified": false
+    },
+    {
+      "word": "MANTLE",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Mantle (mollusc)",
+      "verified": false
+    },
+    {
+      "word": "NESTLE",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Bird nest",
+      "verified": false
+    },
+    {
+      "word": "PINION",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Flight feather",
+      "verified": false
+    },
+    {
+      "word": "RACHIS",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Feather",
+      "verified": false
+    },
+    {
+      "word": "RAPTOR",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Bird of prey",
+      "verified": false
+    },
+    {
+      "word": "RATITE",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Ratite",
+      "verified": false
+    },
+    {
+      "word": "SYRINX",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Syrinx (bird anatomy)",
+      "verified": false
+    },
+    {
+      "word": "TARSUS",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Bird anatomy",
+      "verified": false
+    },
+    {
+      "word": "TWITCH",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Twitcher",
+      "verified": false
+    },
+    {
+      "word": "WARBLE",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Warble",
+      "verified": false
+    },
+    {
+      "word": "WATTLE",
+      "length": 6,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Wattle (anatomy)",
+      "verified": false
+    },
+    {
+      "word": "AVOCET",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Avocet",
+      "verified": false
+    },
+    {
+      "word": "BULBUL",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Bulbul",
+      "verified": false
+    },
+    {
+      "word": "CANARY",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Canary",
+      "verified": false
+    },
+    {
+      "word": "CHOUGH",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Chough",
+      "verified": false
+    },
+    {
+      "word": "CONDOR",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Condor",
+      "verified": false
+    },
+    {
+      "word": "CUCKOO",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Cuckoo",
+      "verified": false
+    },
+    {
+      "word": "CURLEW",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Curlew",
+      "verified": false
+    },
+    {
+      "word": "DIPPER",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Dipper",
+      "verified": false
+    },
+    {
+      "word": "DRONGO",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Drongo",
+      "verified": false
+    },
+    {
+      "word": "DUNLIN",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Dunlin",
+      "verified": false
+    },
+    {
+      "word": "FALCON",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Falcon",
+      "verified": false
+    },
+    {
+      "word": "FULMAR",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Fulmar",
+      "verified": false
+    },
+    {
+      "word": "GANNET",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Gannet",
+      "verified": false
+    },
+    {
+      "word": "GODWIT",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Godwit",
+      "verified": false
+    },
+    {
+      "word": "GROUSE",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Grouse",
+      "verified": false
+    },
+    {
+      "word": "HOOPOE",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Hoopoe",
+      "verified": false
+    },
+    {
+      "word": "JACANA",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Jacana",
+      "verified": false
+    },
+    {
+      "word": "KAKAPO",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Kakapo",
+      "verified": false
+    },
+    {
+      "word": "LINNET",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Linnet",
+      "verified": false
+    },
+    {
+      "word": "MAGPIE",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Magpie",
+      "verified": false
+    },
+    {
+      "word": "MARTIN",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Martin (bird)",
+      "verified": false
+    },
+    {
+      "word": "MERLIN",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Merlin (bird)",
+      "verified": false
+    },
+    {
+      "word": "ORIOLE",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Oriole",
+      "verified": false
+    },
+    {
+      "word": "OSPREY",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Osprey",
+      "verified": false
+    },
+    {
+      "word": "PARROT",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Parrot",
+      "verified": false
+    },
+    {
+      "word": "PEAHEN",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Peafowl",
+      "verified": false
+    },
+    {
+      "word": "PEEWIT",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Northern lapwing",
+      "verified": false
+    },
+    {
+      "word": "PETREL",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Petrel",
+      "verified": false
+    },
+    {
+      "word": "PIGEON",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Pigeon",
+      "verified": false
+    },
+    {
+      "word": "PLOVER",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Plover",
+      "verified": false
+    },
+    {
+      "word": "PUFFIN",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Puffin",
+      "verified": false
+    },
+    {
+      "word": "SHRIKE",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Shrike",
+      "verified": false
+    },
+    {
+      "word": "SISKIN",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Siskin",
+      "verified": false
+    },
+    {
+      "word": "TAKAHE",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Takahe",
+      "verified": false
+    },
+    {
+      "word": "THRUSH",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Thrush",
+      "verified": false
+    },
+    {
+      "word": "TOMTIT",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Tomtit",
+      "verified": false
+    },
+    {
+      "word": "TOUCAN",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Toucan",
+      "verified": false
+    },
+    {
+      "word": "TOWHEE",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Towhee",
+      "verified": false
+    },
+    {
+      "word": "TROGON",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Trogon",
+      "verified": false
+    },
+    {
+      "word": "TURACO",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Turaco",
+      "verified": false
+    },
+    {
+      "word": "TURKEY",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Turkey",
+      "verified": false
+    },
+    {
+      "word": "WEAVER",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Weaver (bird)",
+      "verified": false
+    },
+    {
+      "word": "WIGEON",
+      "length": 6,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Wigeon",
+      "verified": false
+    },
+    {
+      "word": "CHATOT",
+      "length": 6,
+      "category": "character",
+      "obscurity": "obscure",
+      "wikipedia_hint": "List of generation IV Pokemon",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "CHILLY",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Chilly Willy",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "DONALD",
+      "length": 6,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Donald Duck",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "FAWKES",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Fawkes (Harry Potter)",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "FEAROW",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "List of generation I Pokemon",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "GUNTER",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Gunter (Adventure Time)",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "HECKLE",
+      "length": 6,
+      "category": "character",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Heckle and Jeckle",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "HEDWIG",
+      "length": 6,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Hedwig (Harry Potter)",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "HEIHEI",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Moana (2016 film)",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "HENERY",
+      "length": 6,
+      "category": "character",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Henery Hawk",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "JECKLE",
+      "length": 6,
+      "category": "character",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Heckle and Jeckle",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "KEHAAR",
+      "length": 6,
+      "category": "character",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Watership Down",
+      "verified": false,
+      "trademarked": false
+    },
+    {
+      "word": "PAULIE",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Paulie (film)",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "PIDGEY",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "List of generation I Pokemon",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "PIPLUP",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Piplup",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "PLUCKY",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Tiny Toon Adventures",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "RAFAEL",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Rio (2011 film)",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "ROWLET",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Rowlet",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "STELLA",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Angry Birds",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "TWEETY",
+      "length": 6,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Tweety",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "WILBUR",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "The Rescuers Down Under",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "WOODSY",
+      "length": 6,
+      "category": "character",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Woodsy Owl",
+      "verified": false,
+      "trademarked": false
+    },
+    {
+      "word": "ZAPDOS",
+      "length": 6,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Zapdos",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "BARBULE",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Feather",
+      "verified": false
+    },
+    {
+      "word": "BIRDING",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Birdwatching",
+      "verified": false
+    },
+    {
+      "word": "CONTOUR",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Feather",
+      "verified": false
+    },
+    {
+      "word": "FEATHER",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Feather",
+      "verified": false
+    },
+    {
+      "word": "FLEDGED",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Fledged",
+      "verified": false
+    },
+    {
+      "word": "GIZZARD",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Gizzard",
+      "verified": false
+    },
+    {
+      "word": "MIGRATE",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Bird migration",
+      "verified": false
+    },
+    {
+      "word": "NESTING",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Nesting",
+      "verified": false
+    },
+    {
+      "word": "PECKING",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Pecking",
+      "verified": false
+    },
+    {
+      "word": "PERCHED",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Perched",
+      "verified": false
+    },
+    {
+      "word": "PLUMAGE",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "common",
+      "wikipedia_hint": "Plumage",
+      "verified": false
+    },
+    {
+      "word": "PREENED",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Preened",
+      "verified": false
+    },
+    {
+      "word": "PRIMARY",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Flight feather",
+      "verified": false
+    },
+    {
+      "word": "REMIGES",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Flight feather",
+      "verified": false
+    },
+    {
+      "word": "ROOSTED",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Roosted",
+      "verified": false
+    },
+    {
+      "word": "TWITTER",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Bird vocalization",
+      "verified": false
+    },
+    {
+      "word": "WINGTIP",
+      "length": 7,
+      "category": "bird_adjacent",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Wingtip",
+      "verified": false
+    },
+    {
+      "word": "BABBLER",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Babbler",
+      "verified": false
+    },
+    {
+      "word": "BITTERN",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Bittern",
+      "verified": false
+    },
+    {
+      "word": "BUNTING",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Bunting",
+      "verified": false
+    },
+    {
+      "word": "BUZZARD",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Buzzard",
+      "verified": false
+    },
+    {
+      "word": "CATBIRD",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Catbird",
+      "verified": false
+    },
+    {
+      "word": "CHICKEN",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Chicken",
+      "verified": false
+    },
+    {
+      "word": "COWBIRD",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Cowbird",
+      "verified": false
+    },
+    {
+      "word": "GADWALL",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Gadwall",
+      "verified": false
+    },
+    {
+      "word": "GOSHAWK",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Goshawk",
+      "verified": false
+    },
+    {
+      "word": "HARRIER",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Harrier (bird)",
+      "verified": false
+    },
+    {
+      "word": "JACKDAW",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Jackdaw",
+      "verified": false
+    },
+    {
+      "word": "KESTREL",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Kestrel",
+      "verified": false
+    },
+    {
+      "word": "KINGLET",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Kinglet",
+      "verified": false
+    },
+    {
+      "word": "LAPWING",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Lapwing",
+      "verified": false
+    },
+    {
+      "word": "LEGHORN",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Leghorn chicken",
+      "verified": false
+    },
+    {
+      "word": "MALLARD",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Mallard",
+      "verified": false
+    },
+    {
+      "word": "MANAKIN",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Manakin",
+      "verified": false
+    },
+    {
+      "word": "MARABOU",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Marabou",
+      "verified": false
+    },
+    {
+      "word": "MOORHEN",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Moorhen",
+      "verified": false
+    },
+    {
+      "word": "ORTOLAN",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Ortolan",
+      "verified": false
+    },
+    {
+      "word": "OSTRICH",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Ostrich",
+      "verified": false
+    },
+    {
+      "word": "PEACOCK",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Peacock",
+      "verified": false
+    },
+    {
+      "word": "PEAFOWL",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Peafowl",
+      "verified": false
+    },
+    {
+      "word": "PELICAN",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Pelican",
+      "verified": false
+    },
+    {
+      "word": "PENGUIN",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Penguin",
+      "verified": false
+    },
+    {
+      "word": "PINTAIL",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Pintail",
+      "verified": false
+    },
+    {
+      "word": "POCHARD",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Pochard",
+      "verified": false
+    },
+    {
+      "word": "QUETZAL",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Quetzal",
+      "verified": false
+    },
+    {
+      "word": "REDPOLL",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Redpoll",
+      "verified": false
+    },
+    {
+      "word": "ROOSTER",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Chicken",
+      "verified": false
+    },
+    {
+      "word": "SEAGULL",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Gull",
+      "verified": false
+    },
+    {
+      "word": "SKYLARK",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Skylark",
+      "verified": false
+    },
+    {
+      "word": "SPARROW",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Sparrow",
+      "verified": false
+    },
+    {
+      "word": "SWALLOW",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Swallow",
+      "verified": false
+    },
+    {
+      "word": "TANAGER",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Tanager",
+      "verified": false
+    },
+    {
+      "word": "TINAMOU",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Tinamou",
+      "verified": false
+    },
+    {
+      "word": "VULTURE",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "common",
+      "wikipedia_hint": "Vulture",
+      "verified": false
+    },
+    {
+      "word": "WAGTAIL",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Wagtail",
+      "verified": false
+    },
+    {
+      "word": "WARBLER",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Warbler",
+      "verified": false
+    },
+    {
+      "word": "WAXWING",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Waxwing",
+      "verified": false
+    },
+    {
+      "word": "WIDGEON",
+      "length": 7,
+      "category": "bird_species",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Wigeon",
+      "verified": false
+    },
+    {
+      "word": "CAMILLA",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Camilla the Chicken",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "CELESTE",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Animal Crossing",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "FOGHORN",
+      "length": 7,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Foghorn Leghorn",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "GWAIHIR",
+      "length": 7,
+      "category": "character",
+      "obscurity": "obscure",
+      "wikipedia_hint": "Eagle (Middle-earth)",
+      "verified": false,
+      "trademarked": false
+    },
+    {
+      "word": "KAZOOIE",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Banjo-Kazooie",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "MATILDA",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "The Angry Birds Movie",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "MOLTRES",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Moltres",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "ORVILLE",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "The Rescuers",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "PIDGEOT",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "List of generation I Pokemon",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "PRIVATE",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Penguins of Madagascar",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "PSYDUCK",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Psyduck",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "SCROOGE",
+      "length": 7,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Scrooge McDuck",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "SCUTTLE",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "The Little Mermaid (1989 film)",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "SHIRLEY",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Tiny Toon Adventures",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "SKIPPER",
+      "length": 7,
+      "category": "character",
+      "obscurity": "common",
+      "wikipedia_hint": "Penguins of Madagascar",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "SPEAROW",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "List of generation I Pokemon",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "TERENCE",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Angry Birds",
+      "verified": false,
+      "trademarked": true
+    },
+    {
+      "word": "TORCHIC",
+      "length": 7,
+      "category": "character",
+      "obscurity": "uncommon",
+      "wikipedia_hint": "Torchic",
+      "verified": false,
+      "trademarked": true
+    }
+  ]
+}

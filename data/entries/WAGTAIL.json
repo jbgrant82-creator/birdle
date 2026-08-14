@@ -1,0 +1,23 @@
+{
+  "word": "WAGTAIL",
+  "category": "bird_species",
+  "title": "Wagtail",
+  "blurb": "Wagtails are a group of passerine birds that form the genus Motacilla in the family Motacillidae. The common name and genus name are derived from their characteristic tail pumping behaviour.",
+  "facts": [
+    "Together with the pipits and longclaws they form the family Motacillidae."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wagtail"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/WAGTAIL.webp",
+    "file_jpg": "assets/birds/WAGTAIL.jpg",
+    "alt": "Photo of Wagtail",
+    "credit": "Photo by Bengt Nyman from Vaxholm, Sweden \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:OM1C2611_(53755898331).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

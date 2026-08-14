@@ -1,0 +1,22 @@
+{
+  "word": "WADER",
+  "category": "bird_adjacent",
+  "title": "Wader",
+  "blurb": "Waders or shorebirds are birds of the order Charadriiformes commonly found wading along shorelines and mudflats in order to forage for food crawling or burrowing in the mud and sand, usually small arthropods such as aquatic insects or crustaceans.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wader"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/WADER.webp",
+    "file_jpg": "assets/birds/WADER.jpg",
+    "alt": "Photo of Wader",
+    "credit": "Photo by Rhododendrites \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Semipalmated_sandpiper_at_JBWR_(30545).jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

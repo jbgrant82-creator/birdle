@@ -1,0 +1,25 @@
+{
+  "word": "KINGLET",
+  "category": "bird_species",
+  "title": "Kinglet",
+  "blurb": "The kinglets or crests are small birds in the family Regulidae.",
+  "facts": [
+    "This family has representatives in Eurasia and North America.",
+    "There are six species in this family; one, the Madeira firecrest, was only recently split from the common firecrest as a separate species.",
+    "The ruby-crowned kinglet differs sufficiently in its voice and plumage to be afforded its own genus, Corthylio."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kinglet"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/KINGLET.webp",
+    "file_jpg": "assets/birds/KINGLET.jpg",
+    "alt": "Photo of Kinglet",
+    "credit": "Photo by Alpsdake \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Regulus_regulus_japonensis_face.JPG"
+  },
+  "audio": null,
+  "_review_issues": []
+}

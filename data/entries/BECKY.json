@@ -1,0 +1,30 @@
+{
+  "word": "BECKY",
+  "category": "character",
+  "title": "Finding Dory",
+  "blurb": "A loon in Finding Dory who appears briefly to help ferry Marlin and Nemo \u2014 largely a sight gag with almost no dialogue.",
+  "facts": [
+    "The film is both a sequel and spin-off following the events of Finding Nemo (2003).",
+    "Ellen DeGeneres and Albert Brooks reprise their roles from the first film, with Ed O'Neill, Kaitlin Olson, Hayden Rolence, Ty Burrell, Diane Keaton and Eugene Levy joining the...",
+    "The film focuses on the amnesiac fish Dory (DeGeneres), who journeys to be reunited with her parents."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Finding_Dory"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Finding Dory (2016)"
+  ],
+  "creators": [
+    "Pixar Animation Studios (Andrew Stanton)"
+  ],
+  "studio": "Pixar Animation Studios",
+  "first_appearance": "Finding Dory (2016)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

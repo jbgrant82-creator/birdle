@@ -1,0 +1,26 @@
+{
+  "word": "NEST",
+  "category": "bird_adjacent",
+  "title": "Nest",
+  "blurb": "A nest is a structure built by certain animals to hold their eggs or young. Although nests are most closely associated with birds, members of all classes of vertebrates and some invertebrates construct nests.",
+  "facts": [
+    "They may be composed of organic material such as twigs, grass, and leaves, or may be a simple depression in the ground, or a hole in a rock, tree, or building.",
+    "Human-made materials, such as string, plastic, cloth, or paper, may also be used.",
+    "Nests can be found in all types of habitat."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nest"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/NEST.webp",
+    "file_jpg": "assets/birds/NEST.jpg",
+    "alt": "Photo of Nest",
+    "credit": "Photo by https://www.flickr.com/photos/mckaysavage/ mckaysavage \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Yelagiri_bird's_nest.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

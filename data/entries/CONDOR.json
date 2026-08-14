@@ -1,0 +1,23 @@
+{
+  "word": "CONDOR",
+  "category": "bird_species",
+  "title": "Condor",
+  "blurb": "Condor is the common name for two genera of New World vultures, each with one extant species. The name derives from the Quechua word for the Andean condor, kuntur.",
+  "facts": [
+    "They are the largest flying land birds in the Western Hemisphere."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Condor"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/CONDOR.webp",
+    "file_jpg": "assets/birds/CONDOR.jpg",
+    "alt": "Photo of Condor",
+    "credit": "Photo by Greg Hume \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:AndeanCondorMale.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

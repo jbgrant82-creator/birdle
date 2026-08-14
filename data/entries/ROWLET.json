@@ -1,0 +1,34 @@
+{
+  "word": "ROWLET",
+  "category": "character",
+  "title": "List of generation VII Pok\u00e9mon",
+  "blurb": "A small grass/flying-type owl Pok\u00e9mon, one of three starters introduced in Pok\u00e9mon Sun and Moon.",
+  "facts": [
+    "Some Pok\u00e9mon species in this generation were introduced in animated adaptations of the franchise before Sun and Moon."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_generation_VII_Pok%C3%A9mon"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Pok\u00e9mon Sun and Moon (2016)"
+  ],
+  "creators": [
+    "Game Freak"
+  ],
+  "studio": "Game Freak / Nintendo / Creatures Inc.",
+  "first_appearance": "Pok\u00e9mon Sun and Moon (2016)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "ROWLET",
+      "issue": "title-mismatch",
+      "detail": "hint 'Rowlet' -> resolved title 'List of generation VII Pok\u00e9mon', doesn't obviously match"
+    }
+  ]
+}

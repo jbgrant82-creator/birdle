@@ -1,0 +1,30 @@
+{
+  "word": "HEIHEI",
+  "category": "character",
+  "title": "Moana (2016 film)",
+  "blurb": "A none-too-bright rooster who stows away on Moana's canoe and survives the entire voyage more through luck than sense.",
+  "facts": [
+    "Its songs were written by Lin-Manuel Miranda, Opetaia Foa\u02bbi, and Mark Mancina, who also composed the score.",
+    "Set in ancient Polynesia, the film follows Moana (Cravalho), the strong-willed daughter of a village chief, who is chosen by the ocean to restore a mystical relic to the goddess...",
+    "When a blight threatens her island, she sets sail in search of Maui (Johnson), a legendary demigod, in hopes of saving her people."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Moana_(2016_film)"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Moana (2016)"
+  ],
+  "creators": [
+    "Walt Disney Animation Studios"
+  ],
+  "studio": "Walt Disney Animation Studios",
+  "first_appearance": "Moana (2016)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

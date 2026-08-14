@@ -1,0 +1,28 @@
+{
+  "word": "KEVIN",
+  "category": "character",
+  "title": "Up (2009 film)",
+  "blurb": "A large, flightless, brightly colored bird who befriends Carl and Russell in Pixar's Up \u2014 revealed late in the film to be female.",
+  "facts": [
+    "Along the way, they befriend a talking dog as well as an exotic bird and encounter Carl's childhood idol Charles Muntz, who has sinister plans to capture the bird."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Up_(2009_film)"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Up (2009)"
+  ],
+  "creators": [
+    "Pixar Animation Studios (Pete Docter, Bob Peterson)"
+  ],
+  "studio": "Pixar Animation Studios",
+  "first_appearance": "Up (2009)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

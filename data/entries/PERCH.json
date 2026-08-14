@@ -1,0 +1,22 @@
+{
+  "word": "PERCH",
+  "category": "bird_adjacent",
+  "title": "Perch",
+  "blurb": "Perch is a common name for freshwater fish from the genus Perca, which belongs to the family Percidae of the large order Perciformes. The name comes from Greek: \u03c0\u03ad\u03c1\u03ba\u03b7, romanized:\u00a0perke, meaning the type species of this genus, the European perch.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Perch"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PERCH.webp",
+    "file_jpg": "assets/birds/PERCH.jpg",
+    "alt": "Photo of Perch",
+    "credit": "Photo by Originally uploaded to English Wikipedia by en:User:Hadal \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:YellowPerch.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

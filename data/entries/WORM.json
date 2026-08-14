@@ -1,0 +1,22 @@
+{
+  "word": "WORM",
+  "category": "bird_adjacent",
+  "title": "Worm",
+  "blurb": "Worms are many different distantly related bilateral animals that typically have a long cylindrical tube-like body, no limbs, and usually no eyes.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Worm"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/WORM.webp",
+    "file_jpg": "assets/birds/WORM.jpg",
+    "alt": "Photo of Worm",
+    "credit": "Photo by Michael Linnenbach \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Regenwurm1.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

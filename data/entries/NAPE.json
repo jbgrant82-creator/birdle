@@ -1,0 +1,24 @@
+{
+  "word": "NAPE",
+  "category": "bird_adjacent",
+  "title": "Nape",
+  "blurb": "The nape is the back of the neck. In technical anatomical/medical terminology, the nape is also called the nucha.",
+  "facts": [
+    "The corresponding adjective is nuchal, as in the term nuchal rigidity for neck stiffness."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Nape"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/NAPE.webp",
+    "file_jpg": "assets/birds/NAPE.jpg",
+    "alt": "Photo of Nape",
+    "credit": "Photo by Daniel Bachler \u2014 CC BY-SA 2.5, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Geisha-kyoto-2004-11-21.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

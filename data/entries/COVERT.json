@@ -1,0 +1,22 @@
+{
+  "word": "COVERT",
+  "category": "bird_adjacent",
+  "title": "Covert feather",
+  "blurb": "A covert feather or tectrix on a bird is one of a set of feathers, called coverts, which cover other feathers. The coverts help to smooth airflow over the wings and tail.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Covert_feather"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/COVERT.webp",
+    "file_jpg": "assets/birds/COVERT.jpg",
+    "alt": "Photo of Covert feather",
+    "credit": "Photo by KDS4444 \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Chicken_wing.svg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

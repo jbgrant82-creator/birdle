@@ -1,0 +1,21 @@
+{
+  "word": "LOON",
+  "category": "bird_species",
+  "title": "Loon",
+  "blurb": "Loons or divers are a group of aquatic birds found in much of North America and northern Eurasia. All living species of loons are members of the genus Gavia, family Gaviidae, and order Gaviiformes.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Loon"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/LOON.webp",
+    "file_jpg": "assets/birds/LOON.jpg",
+    "alt": "Photo of Loon",
+    "credit": "Photo by All authors above. Collage made by Michal Klajban \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Gaviiformes_-_all_species_of_loons.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

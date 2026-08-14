@@ -1,0 +1,25 @@
+{
+  "word": "SNIPE",
+  "category": "bird_species",
+  "title": "Snipe",
+  "blurb": "A snipe is any of about 26 wading bird species in three genera in the family Scolopacidae. They are distinguished by a very long, slender bill, eyes placed high on the head, and cryptic/camouflaging plumage.",
+  "facts": [
+    "The snipes in the genus Gallinago have a nearly worldwide distribution, the Lymnocryptes snipes are restricted to Asia and Europe, and the snipes in the genus Coenocorypha are now...",
+    "The genus Lymnocryptes is more closely related to woodcocks (Scolopax) than it is to other snipes; with woodcocks included, the four genera form a monophyletic group within the...",
+    "The three species of painted-snipes are not closely related to the typical snipes, and are placed in their own family, the Rostratulidae."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Snipe"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SNIPE.webp",
+    "file_jpg": "assets/birds/SNIPE.jpg",
+    "alt": "Photo of Snipe",
+    "credit": "Photo by Charles J. Sharp \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Common_snipe_(Gallinago_gallinago_faeroeensis)_Botnsvatn.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,21 @@
+{
+  "word": "WIGEON",
+  "category": "bird_species",
+  "title": "Wigeon",
+  "blurb": "The wigeons or widgeons are a group of birds, dabbling ducks currently classified in the genus Mareca along with two other species. There are three extant species of wigeon, in addition to one recently extinct species.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wigeon"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/WIGEON.webp",
+    "file_jpg": "assets/birds/WIGEON.jpg",
+    "alt": "Photo of Wigeon",
+    "credit": "Photo by Kuribo \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Mareca_penelope_2.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

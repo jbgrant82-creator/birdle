@@ -1,0 +1,24 @@
+{
+  "word": "MARABOU",
+  "category": "bird_species",
+  "title": "Marabou stork",
+  "blurb": "The marabou stork is a large wading bird in the stork family Ciconiidae native to sub-Saharan Africa. It breeds in both wet and arid habitats, often near human habitation, especially landfill sites.",
+  "facts": [
+    "It is sometimes called the \"undertaker bird\" due to its shape from behind: cloak-like wings and back, skinny white legs, and sometimes a large white mass of \"hair\".",
+    "It has often been credited with the largest wingspan of any land bird, with an average of 2.6 metres (8.5\u00a0ft) and some recorded examples of up to 3.2 metres (10\u00a0ft)."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Marabou_stork"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/MARABOU.webp",
+    "file_jpg": "assets/birds/MARABOU.jpg",
+    "alt": "Photo of Marabou stork",
+    "credit": "Photo by Charles J. Sharp \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Marabou_stork_(Leptoptilos_crumenifer).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

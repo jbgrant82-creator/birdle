@@ -1,0 +1,33 @@
+{
+  "word": "DAISY",
+  "category": "character",
+  "title": "Daisy Duck",
+  "blurb": "Donald Duck's girlfriend, first drawn as an unnamed love interest before being formally named and designed for her own Disney short.",
+  "facts": [
+    "She is often seen wearing a hair bow, blouse and heeled shoes.",
+    "The girlfriend of Donald Duck, Daisy was introduced in the short film Mr.",
+    "Duck Steps Out (1940) and was incorporated into Donald's comic stories several months later."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Daisy_Duck"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Don Donald (1937, unnamed)",
+    "Mr. Duck Steps Out (1940, as Daisy)",
+    "DuckTales",
+    "comics"
+  ],
+  "creators": [
+    "Walt Disney Productions"
+  ],
+  "studio": "Walt Disney Productions",
+  "first_appearance": "Mr. Duck Steps Out (1940)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

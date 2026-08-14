@@ -1,0 +1,271 @@
+{
+  "generated_at": "2026-08-13T20:24:39",
+  "count": 52,
+  "by_issue": {
+    "disambiguation": 2,
+    "missing-image": 9,
+    "title-mismatch": 41
+  },
+  "issues": [
+    {
+      "word": "BEAK",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    },
+    {
+      "word": "BILL",
+      "issue": "title-mismatch",
+      "detail": "hint 'Bill' -> resolved title 'Beak', doesn't obviously match"
+    },
+    {
+      "word": "BILL",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    },
+    {
+      "word": "BUZZARD",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    },
+    {
+      "word": "CAMILLA",
+      "issue": "title-mismatch",
+      "detail": "hint 'Camilla the Chicken' -> resolved title 'List of Muppets', doesn't obviously match"
+    },
+    {
+      "word": "CERE",
+      "issue": "title-mismatch",
+      "detail": "hint 'Cere' -> resolved title 'Beak', doesn't obviously match"
+    },
+    {
+      "word": "CERE",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    },
+    {
+      "word": "CHATOT",
+      "issue": "title-mismatch",
+      "detail": "hint 'List of generation IV Pokemon' -> resolved title 'List of generation IV Pok\u00e9mon', doesn't obviously match"
+    },
+    {
+      "word": "COVEY",
+      "issue": "title-mismatch",
+      "detail": "hint 'Covey' -> resolved title 'Herd', doesn't obviously match"
+    },
+    {
+      "word": "CULMEN",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    },
+    {
+      "word": "DOVE",
+      "issue": "title-mismatch",
+      "detail": "hint 'Dove' -> resolved title 'Columbidae', doesn't obviously match"
+    },
+    {
+      "word": "ERROL",
+      "issue": "disambiguation",
+      "detail": "'Errol' is a disambiguation page"
+    },
+    {
+      "word": "FALCO",
+      "issue": "title-mismatch",
+      "detail": "hint 'Falco Lombardi' -> resolved title 'List of Star Fox characters', doesn't obviously match"
+    },
+    {
+      "word": "FAWKES",
+      "issue": "title-mismatch",
+      "detail": "hint 'Fawkes (Harry Potter)' -> resolved title 'List of Harry Potter characters', doesn't obviously match"
+    },
+    {
+      "word": "FEAROW",
+      "issue": "title-mismatch",
+      "detail": "hint 'List of generation I Pokemon' -> resolved title 'List of generation I Pok\u00e9mon', doesn't obviously match"
+    },
+    {
+      "word": "FLAP",
+      "issue": "title-mismatch",
+      "detail": "hint 'Flap' -> resolved title 'Ornithopter', doesn't obviously match"
+    },
+    {
+      "word": "GAPE",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    },
+    {
+      "word": "GOSHAWK",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    },
+    {
+      "word": "GUNTER",
+      "issue": "title-mismatch",
+      "detail": "hint 'Gunter (Adventure Time)' -> resolved title 'List of Adventure Time characters', doesn't obviously match"
+    },
+    {
+      "word": "GWAIHIR",
+      "issue": "title-mismatch",
+      "detail": "hint 'Eagle (Middle-earth)' -> resolved title 'Eagles in Middle-earth', doesn't obviously match"
+    },
+    {
+      "word": "HATCH",
+      "issue": "title-mismatch",
+      "detail": "hint 'Hatch' -> resolved title 'Bird', doesn't obviously match"
+    },
+    {
+      "word": "HEDWIG",
+      "issue": "title-mismatch",
+      "detail": "hint 'Hedwig (Harry Potter)' -> resolved title 'List of Harry Potter characters', doesn't obviously match"
+    },
+    {
+      "word": "KAKAPO",
+      "issue": "title-mismatch",
+      "detail": "hint 'Kakapo' -> resolved title 'K\u0101k\u0101p\u014d', doesn't obviously match"
+    },
+    {
+      "word": "MARTIN",
+      "issue": "title-mismatch",
+      "detail": "hint 'Martin (bird)' -> resolved title 'Swallow', doesn't obviously match"
+    },
+    {
+      "word": "MOLTRES",
+      "issue": "title-mismatch",
+      "detail": "hint 'Moltres' -> resolved title 'List of generation I Pok\u00e9mon', doesn't obviously match"
+    },
+    {
+      "word": "NESTING",
+      "issue": "title-mismatch",
+      "detail": "hint 'Nesting' -> resolved title 'Bird nest', doesn't obviously match"
+    },
+    {
+      "word": "NODDY",
+      "issue": "title-mismatch",
+      "detail": "hint 'Noddy' -> resolved title 'Anous', doesn't obviously match"
+    },
+    {
+      "word": "PEACOCK",
+      "issue": "title-mismatch",
+      "detail": "hint 'Peacock' -> resolved title 'Peafowl', doesn't obviously match"
+    },
+    {
+      "word": "PERCHED",
+      "issue": "title-mismatch",
+      "detail": "hint 'Perched' -> resolved title 'Passerine', doesn't obviously match"
+    },
+    {
+      "word": "PETREL",
+      "issue": "title-mismatch",
+      "detail": "hint 'Petrel' -> resolved title 'Procellariiformes', doesn't obviously match"
+    },
+    {
+      "word": "PIDGEOT",
+      "issue": "title-mismatch",
+      "detail": "hint 'List of generation I Pokemon' -> resolved title 'List of generation I Pok\u00e9mon', doesn't obviously match"
+    },
+    {
+      "word": "PIDGEY",
+      "issue": "title-mismatch",
+      "detail": "hint 'List of generation I Pokemon' -> resolved title 'List of generation I Pok\u00e9mon', doesn't obviously match"
+    },
+    {
+      "word": "PIGEON",
+      "issue": "title-mismatch",
+      "detail": "hint 'Pigeon' -> resolved title 'Columbidae', doesn't obviously match"
+    },
+    {
+      "word": "PIPLUP",
+      "issue": "title-mismatch",
+      "detail": "hint 'Piplup' -> resolved title 'List of generation IV Pok\u00e9mon', doesn't obviously match"
+    },
+    {
+      "word": "POCHARD",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    },
+    {
+      "word": "POLLY",
+      "issue": "title-mismatch",
+      "detail": "hint 'Pet parrot' -> resolved title 'Companion parrot', doesn't obviously match"
+    },
+    {
+      "word": "PREENED",
+      "issue": "title-mismatch",
+      "detail": "hint 'Preened' -> resolved title 'Preening', doesn't obviously match"
+    },
+    {
+      "word": "PREY",
+      "issue": "title-mismatch",
+      "detail": "hint 'Prey' -> resolved title 'Predation', doesn't obviously match"
+    },
+    {
+      "word": "ROOST",
+      "issue": "title-mismatch",
+      "detail": "hint 'Roost' -> resolved title 'Bird', doesn't obviously match"
+    },
+    {
+      "word": "ROOSTED",
+      "issue": "title-mismatch",
+      "detail": "hint 'Roosted' -> resolved title 'Bird', doesn't obviously match"
+    },
+    {
+      "word": "ROWLET",
+      "issue": "title-mismatch",
+      "detail": "hint 'Rowlet' -> resolved title 'List of generation VII Pok\u00e9mon', doesn't obviously match"
+    },
+    {
+      "word": "SCAUP",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    },
+    {
+      "word": "SKYLARK",
+      "issue": "title-mismatch",
+      "detail": "hint 'Skylark' -> resolved title 'Alauda', doesn't obviously match"
+    },
+    {
+      "word": "SPEAROW",
+      "issue": "title-mismatch",
+      "detail": "hint 'List of generation I Pokemon' -> resolved title 'List of generation I Pok\u00e9mon', doesn't obviously match"
+    },
+    {
+      "word": "TAKAHE",
+      "issue": "title-mismatch",
+      "detail": "hint 'Takahe' -> resolved title 'Takah\u0113', doesn't obviously match"
+    },
+    {
+      "word": "TORCHIC",
+      "issue": "title-mismatch",
+      "detail": "hint 'Torchic' -> resolved title 'List of generation III Pok\u00e9mon', doesn't obviously match"
+    },
+    {
+      "word": "TWITCH",
+      "issue": "title-mismatch",
+      "detail": "hint 'Twitcher' -> resolved title 'Birdwatching', doesn't obviously match"
+    },
+    {
+      "word": "WEAVER",
+      "issue": "title-mismatch",
+      "detail": "hint 'Weaver (bird)' -> resolved title 'Ploceidae', doesn't obviously match"
+    },
+    {
+      "word": "WEBBY",
+      "issue": "title-mismatch",
+      "detail": "hint 'Webby Vanderquack' -> resolved title 'List of DuckTales characters', doesn't obviously match"
+    },
+    {
+      "word": "WINGTIP",
+      "issue": "title-mismatch",
+      "detail": "hint 'Wingtip' -> resolved title 'Wing tip', doesn't obviously match"
+    },
+    {
+      "word": "ZAPDOS",
+      "issue": "title-mismatch",
+      "detail": "hint 'Zapdos' -> resolved title 'List of generation I Pok\u00e9mon', doesn't obviously match"
+    },
+    {
+      "word": "ZAZU",
+      "issue": "disambiguation",
+      "detail": "'Zazu' is a disambiguation page"
+    }
+  ]
+}

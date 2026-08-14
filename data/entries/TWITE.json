@@ -1,0 +1,23 @@
+{
+  "word": "TWITE",
+  "category": "bird_species",
+  "title": "Twite",
+  "blurb": "The twite is a small brown passerine bird in the finch family Fringillidae.",
+  "facts": [
+    "It mainly feeds on small seeds but occasionally also feeds on insects."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Twite"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TWITE.webp",
+    "file_jpg": "assets/birds/TWITE.jpg",
+    "alt": "Photo of Twite",
+    "credit": "Photo by peterichman \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Twite_(Linaria_flavirostris),_Zinc_Road,_Teesside_(53540824279).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,25 @@
+{
+  "word": "TOMTIT",
+  "category": "bird_species",
+  "title": "Tomtit",
+  "blurb": "The tomtit is a small passerine bird in the family Petroicidae, the Australasian robins. It is endemic to the islands of New Zealand, ranging across the main islands as well as several of the outlying islands.",
+  "facts": [
+    "In the M\u0101ori language, the North Island tomtit is known as miromiro and the South Island tomtit is known as ngirungiru.",
+    "This bird has several other M\u0101ori and English names as well.",
+    "There are several subspecies showing considerable variation in plumage and size."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tomtit"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TOMTIT.webp",
+    "file_jpg": "assets/birds/TOMTIT.jpg",
+    "alt": "Photo of Tomtit",
+    "credit": "Photo by Joxean Koret \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:A_Toitoi_in_the_forest.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

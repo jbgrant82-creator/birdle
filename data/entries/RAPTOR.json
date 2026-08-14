@@ -1,0 +1,24 @@
+{
+  "word": "RAPTOR",
+  "category": "bird_adjacent",
+  "title": "Bird of prey",
+  "blurb": "Birds of prey or predatory birds, also known as raptors, are hypercarnivorous species of bird that actively hunt and feed on other vertebrates, mainly mammals, reptiles, and smaller birds.",
+  "facts": [
+    "Although predatory birds primarily hunt live prey, many species\u2014such as fish eagles, vultures, and condors\u2014also scavenge and eat carrion."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bird_of_prey"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/RAPTOR.webp",
+    "file_jpg": "assets/birds/RAPTOR.jpg",
+    "alt": "Photo of Bird of prey",
+    "credit": "Photo by User:Peter K Burian\nUser:Quartl\nUser:Dolovis\nDFSB DE\nUser:Massy St\u00e9phanie \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Birds_of_Prey_Diversity.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

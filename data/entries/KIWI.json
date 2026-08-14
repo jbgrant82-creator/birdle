@@ -1,0 +1,23 @@
+{
+  "word": "KIWI",
+  "category": "bird_species",
+  "title": "Kiwi (bird)",
+  "blurb": "Kiwi are flightless birds endemic to New Zealand of the order Apterygiformes. The five extant species fall into the family Apterygidae and genus Apteryx.",
+  "facts": [
+    "Approximately the size of a domestic chicken, kiwi are the smallest ratites."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kiwi_(bird)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/KIWI.webp",
+    "file_jpg": "assets/birds/KIWI.jpg",
+    "alt": "Photo of Kiwi (bird)",
+    "credit": "Photo by Maungatautari Ecological Island Trust \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:TeTuatahianui.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

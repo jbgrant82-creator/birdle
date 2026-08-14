@@ -1,0 +1,26 @@
+{
+  "word": "WATTLE",
+  "category": "bird_adjacent",
+  "title": "Wattle (anatomy)",
+  "blurb": "A wattle is a fleshy caruncle hanging from various parts of the head or neck in several groups of birds and mammals. Caruncles in birds include those found on the face, wattles, dewlaps, snoods, and earlobes.",
+  "facts": [
+    "Wattles are generally paired structures but may occur as a single structure when it is sometimes known as a dewlap.",
+    "Wattles are frequently organs of sexual dimorphism.",
+    "In some birds, caruncles are erectile tissue and may or may not have a feather covering."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wattle_(anatomy)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/WATTLE.webp",
+    "file_jpg": "assets/birds/WATTLE.jpg",
+    "alt": "Photo of Wattle (anatomy)",
+    "credit": "Photo by Muhammad Mahdi Karim \u2014 GFDL, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Rooster_portrait2.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

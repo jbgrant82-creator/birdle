@@ -1,0 +1,31 @@
+{
+  "word": "DAFFY",
+  "category": "character",
+  "title": "Daffy Duck",
+  "blurb": "The vain, mischievous black duck of Looney Tunes, Bugs Bunny's frequent rival and one of Warner Bros.' flagship cartoon stars.",
+  "facts": [
+    "He was one of the first of the new \"screwball\" characters that emerged in the late 1930s to replace traditional everyman characters who were more popular earlier in the decade,..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Daffy_Duck"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Porky's Duck Hunt (1937)",
+    "Looney Tunes/Merrie Melodies shorts",
+    "Space Jam (1996)"
+  ],
+  "creators": [
+    "Tex Avery",
+    "Bob Clampett"
+  ],
+  "studio": "Warner Bros. Cartoons",
+  "first_appearance": "Porky's Duck Hunt (1937)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

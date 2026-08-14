@@ -1,0 +1,26 @@
+{
+  "word": "BEAKY",
+  "category": "character",
+  "title": "Beaky Buzzard",
+  "blurb": "A gangly, nervous buzzard who spends most of his Looney Tunes shorts being outwitted or lectured by Foghorn Leghorn.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Beaky_Buzzard"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Looney Tunes shorts opposite Foghorn Leghorn"
+  ],
+  "creators": [
+    "Robert McKimson"
+  ],
+  "studio": "Warner Bros. Cartoons",
+  "first_appearance": "A Bird in a Guilty Cage (1952) \u2014 LOW-CONFIDENCE, double-check this date",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

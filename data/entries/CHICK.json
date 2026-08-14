@@ -1,0 +1,23 @@
+{
+  "word": "CHICK",
+  "category": "bird_species",
+  "title": "Chicken",
+  "blurb": "The chicken is the domesticated form of the red junglefowl, originally native to Southeast Asia. It was first domesticated around 8,000 years ago and is one of the most common and widespread domesticated animals in the world.",
+  "facts": [
+    "Chickens are primarily kept for their meat and eggs, though they are also kept as pets."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chicken"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/CHICK.webp",
+    "file_jpg": "assets/birds/CHICK.jpg",
+    "alt": "Photo of Chicken",
+    "credit": "Photo by Andrei Niemim\u00e4ki from Turku, Finland \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Male_and_female_chicken_sitting_together.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

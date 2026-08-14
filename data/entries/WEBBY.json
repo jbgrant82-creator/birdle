@@ -1,0 +1,33 @@
+{
+  "word": "WEBBY",
+  "category": "character",
+  "title": "List of DuckTales characters",
+  "blurb": "Mrs. Beakley's granddaughter, a young duck raised alongside Huey, Dewey, and Louie \u2014 a minor original-series character expanded into a lead, adventurous role in the 2017 DuckTales reboot.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_DuckTales_characters"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "DuckTales (1987)",
+    "DuckTales (2017)"
+  ],
+  "creators": [
+    "Disney Television Animation"
+  ],
+  "studio": "Walt Disney Television Animation",
+  "first_appearance": "DuckTales (1987)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "WEBBY",
+      "issue": "title-mismatch",
+      "detail": "hint 'Webby Vanderquack' -> resolved title 'List of DuckTales characters', doesn't obviously match"
+    }
+  ]
+}

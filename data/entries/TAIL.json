@@ -1,0 +1,24 @@
+{
+  "word": "TAIL",
+  "category": "bird_adjacent",
+  "title": "Tail",
+  "blurb": "The tail is the elongated section at the rear end of a bilaterian animal's body; in general, the term refers to a distinct, flexible appendage extending backwards from the midline of the torso.",
+  "facts": [
+    "While tails are primarily considered a feature of vertebrates, some invertebrates such as scorpions and springtails, as well as snails and slugs, have tail-like appendages that..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tail"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TAIL.webp",
+    "file_jpg": "assets/birds/TAIL.jpg",
+    "alt": "Photo of Tail",
+    "credit": "Photo by D. Gordon E. Robertson \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:White-tailed_deer,_tail_up.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

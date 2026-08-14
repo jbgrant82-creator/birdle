@@ -1,0 +1,27 @@
+{
+  "word": "NODDY",
+  "category": "bird_species",
+  "title": "Anous",
+  "blurb": "The noddies, forming the genus Anous, are a genus of seabirds in family Laridae which also contains the gulls, terns and skimmers. The genus contains five species.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Anous"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/NODDY.webp",
+    "file_jpg": "assets/birds/NODDY.jpg",
+    "alt": "Photo of Anous",
+    "credit": "Photo by Toby Hudson \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Lord_Howe_Island_-_Noddies_1.JPG"
+  },
+  "audio": null,
+  "_review_issues": [
+    {
+      "word": "NODDY",
+      "issue": "title-mismatch",
+      "detail": "hint 'Noddy' -> resolved title 'Anous', doesn't obviously match"
+    }
+  ]
+}

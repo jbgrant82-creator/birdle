@@ -1,0 +1,24 @@
+{
+  "word": "REDPOLL",
+  "category": "bird_species",
+  "title": "Redpoll",
+  "blurb": "The redpoll is a species of small passerine bird in the finch family Fringillidae. It is the only species placed in the genus Acanthis.",
+  "facts": [
+    "It breeds in the Arctic and north temperate Holarctic tundra and taiga.",
+    "The redpoll was formerly widely treated as three species: the common or mealy redpoll, the arctic or hoary redpoll, and the lesser redpoll."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Redpoll"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/REDPOLL.webp",
+    "file_jpg": "assets/birds/REDPOLL.jpg",
+    "alt": "Photo of Redpoll",
+    "credit": "Photo by Cephas \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Carduelis_flammea_CT6.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

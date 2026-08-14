@@ -1,0 +1,24 @@
+{
+  "word": "GIZZARD",
+  "category": "bird_adjacent",
+  "title": "Gizzard",
+  "blurb": "The gizzard, also referred to as the ventriculus, gastric mill, and gigerium, is an organ found in the digestive tract of some animals, including archosaurs, earthworms, some gastropods, some fish, and some crustaceans.",
+  "facts": [
+    "In certain insects and molluscs, the gizzard features chitinous plates or teeth."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gizzard"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/GIZZARD.webp",
+    "file_jpg": "assets/birds/GIZZARD.jpg",
+    "alt": "Photo of Gizzard",
+    "credit": "Photo by Bjferstern \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Gizzard_of_Chicken.JPG"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

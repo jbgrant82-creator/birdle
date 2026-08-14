@@ -1,0 +1,21 @@
+{
+  "word": "HOBBY",
+  "category": "bird_species",
+  "title": "Eurasian hobby",
+  "blurb": "The Eurasian hobby, or just hobby, is a small, slim falcon. It belongs to a group of similar falcons often considered a subgenus of Falco.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Eurasian_hobby"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/HOBBY.webp",
+    "file_jpg": "assets/birds/HOBBY.jpg",
+    "alt": "Photo of Eurasian hobby",
+    "credit": "Photo by Shantanu Kuveskar \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Eurasian_hobby_(Falco_subbuteo)_by_Shantanu_Kuveskar.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

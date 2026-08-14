@@ -1,0 +1,25 @@
+{
+  "word": "HOOPOE",
+  "category": "bird_species",
+  "title": "Hoopoe",
+  "blurb": "Hoopoes are colourful birds found across Africa, Asia, and Europe, notable for their distinctive \"crown\" of feathers which can be raised or lowered at will.",
+  "facts": [
+    "In fact, some taxonomists still consider the species to be conspecific.",
+    "On the other hand, some authorities recognize three living species, with the African hoopoe treated as separate from the Eurasian hoopoe.",
+    "The Eurasian hoopoe is common in its range and has a large population, so it is evaluated as Least Concern on the IUCN Red List of Threatened Species."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Hoopoe"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/HOOPOE.webp",
+    "file_jpg": "assets/birds/HOOPOE.jpg",
+    "alt": "Photo of Hoopoe",
+    "credit": "Photo by Keta \u2014 CC BY-SA 2.5, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Upupa_epops_Madrid_01.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

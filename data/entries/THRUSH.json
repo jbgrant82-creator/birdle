@@ -1,0 +1,24 @@
+{
+  "word": "THRUSH",
+  "category": "bird_species",
+  "title": "Thrush (bird)",
+  "blurb": "The thrushes are a passerine bird family, Turdidae, with a worldwide distribution.",
+  "facts": [
+    "Thrushes are small to medium-sized ground living birds that feed on insects, other invertebrates, and fruit.",
+    "Some unrelated species around the world have been named after thrushes due to their similarity to birds in this family."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Thrush_(bird)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/THRUSH.webp",
+    "file_jpg": "assets/birds/THRUSH.jpg",
+    "alt": "Photo of Thrush (bird)",
+    "credit": "Photo by Yathin S Krishnappa \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Psophocichla_litsitsirupa_(Etosha).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

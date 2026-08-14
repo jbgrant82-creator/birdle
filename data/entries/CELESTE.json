@@ -1,0 +1,29 @@
+{
+  "word": "CELESTE",
+  "category": "character",
+  "title": "Animal Crossing",
+  "blurb": "An owl who runs the museum observatory in the Animal Crossing series, teaching players about constellations and trading star fragments.",
+  "facts": [
+    "The player character is a human who lives in a village inhabited by various anthropomorphic animals and can engage in various activities such as fishing, insect catching, and...",
+    "The series is known for its open-ended gameplay, humorous dialogue, hourly music, and use of the console's internal clock and calendar to simulate real passage of time."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Animal_Crossing"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Animal Crossing series, since D\u014dbutsu no Mori (2001, Japan)"
+  ],
+  "creators": [
+    "Nintendo EAD (Katsuya Eguchi)"
+  ],
+  "studio": "Nintendo",
+  "first_appearance": "D\u014dbutsu no Mori (2001, Japan)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

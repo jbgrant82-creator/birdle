@@ -1,0 +1,21 @@
+{
+  "word": "WARBLER",
+  "category": "bird_species",
+  "title": "Warbler",
+  "blurb": "Various Passeriformes are commonly referred to as warblers. They are not necessarily closely related to one another, but share some characteristics, such as being fairly small, vocal, and insectivorous.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Warbler"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/WARBLER.webp",
+    "file_jpg": "assets/birds/WARBLER.jpg",
+    "alt": "Photo of Warbler",
+    "credit": "Photo by Steve Garvie from Dunfermline, Fife, Scotland \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Wood_Warbler_(Phylloscopus_sibilatrix).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

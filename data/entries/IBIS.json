@@ -1,0 +1,21 @@
+{
+  "word": "IBIS",
+  "category": "bird_species",
+  "title": "Ibis",
+  "blurb": "The ibis are a group of long-legged wading birds in the family Threskiornithidae that inhabit wetlands, forests and plains. \"Ibis\" derives from the Latin and Ancient Greek word for this group of birds.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ibis"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/IBIS.webp",
+    "file_jpg": "assets/birds/IBIS.jpg",
+    "alt": "Photo of Ibis",
+    "credit": "Photo by Hari Krishnan \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Black-headed_Ibis_(Threskiornis_melanocephalus).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,24 @@
+{
+  "word": "PELICAN",
+  "category": "bird_species",
+  "title": "Pelican",
+  "blurb": "Pelicans are a genus of large water birds that make up the family Pelecanidae. They are characterized by a long beak and a large throat pouch used for catching prey and draining water from the scooped-up contents before swallowing.",
+  "facts": [
+    "They have predominantly pale plumage, except for the brown and Peruvian pelicans.",
+    "The bills, pouches, and bare facial skin of all pelicans become brightly coloured before the breeding season."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pelican"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PELICAN.webp",
+    "file_jpg": "assets/birds/PELICAN.jpg",
+    "alt": "Photo of Pelican",
+    "credit": "Photo by Rui Ornelas from Lisboa, Portugal \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Pelikan_Walvis_Bay.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

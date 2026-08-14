@@ -1,0 +1,23 @@
+{
+  "word": "PRION",
+  "category": "bird_species",
+  "title": "Prion",
+  "blurb": "A prion is a misfolded protein that induces folding problems in normal variants of the same protein, leading to cellular death.",
+  "facts": [
+    "These proteins can misfold sporadically, due to genetic mutations, or through exposure to an already misfolded protein, leading to an abnormal three-dimensional structure that can..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Prion"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PRION.webp",
+    "file_jpg": "assets/birds/PRION.jpg",
+    "alt": "Photo of Prion",
+    "credit": "Photo by Boghog \u2014 CC0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:PDB_6DU9.png"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,23 @@
+{
+  "word": "PEAFOWL",
+  "category": "bird_species",
+  "title": "Peafowl",
+  "blurb": "Peafowl is a common name for two bird species of the genus Pavo and one species of the closely related genus Afropavo within the tribe Pavonini of the family Phasianidae.",
+  "facts": [
+    "Despite this, peacock is usually used to refer to both sexes, in common language."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Peafowl"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PEAFOWL.webp",
+    "file_jpg": "assets/birds/PEAFOWL.jpg",
+    "alt": "Photo of Peafowl",
+    "credit": "Photo by Jatin Sindhu \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Peacock_Plumage.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

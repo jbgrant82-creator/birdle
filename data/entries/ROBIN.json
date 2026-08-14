@@ -1,0 +1,23 @@
+{
+  "word": "ROBIN",
+  "category": "bird_species",
+  "title": "European robin",
+  "blurb": "The European robin, known simply as the robin or robin redbreast in the British Isles, is a small insectivorous passerine bird belonging to the Old World flycatcher family Muscicapidae.",
+  "facts": [
+    "It is sedentary in the west and south of its range, and migratory in the north and east of its range where winters are harsher."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/European_robin"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/ROBIN.webp",
+    "file_jpg": "assets/birds/ROBIN.jpg",
+    "alt": "Photo of European robin",
+    "credit": "Photo by Francis C. Franklin \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_with_cocked_head.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

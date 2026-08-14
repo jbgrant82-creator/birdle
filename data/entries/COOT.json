@@ -1,0 +1,23 @@
+{
+  "word": "COOT",
+  "category": "bird_species",
+  "title": "Coot",
+  "blurb": "Coots are medium-sized water birds that are members of the rail family, Rallidae. They constitute the genus Fulica, the name being the Latin term for \"coot\".",
+  "facts": [
+    "Coots have predominantly black plumage, and\u2014unlike many rails\u2014they are usually easy to see, often swimming in open water."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Coot"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/COOT.webp",
+    "file_jpg": "assets/birds/COOT.jpg",
+    "alt": "Photo of Coot",
+    "credit": "Photo by Geni \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Fulica_atra_southampton.JPG"
+  },
+  "audio": null,
+  "_review_issues": []
+}

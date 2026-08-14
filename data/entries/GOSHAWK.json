@@ -1,0 +1,21 @@
+{
+  "word": "GOSHAWK",
+  "category": "bird_species",
+  "title": "Goshawk",
+  "blurb": "Goshawk may refer to several species of birds of prey in the family Accipitridae:",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Goshawk"
+  },
+  "verified": false,
+  "image": null,
+  "audio": null,
+  "_review_issues": [
+    {
+      "word": "GOSHAWK",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "word": "JUNCO",
+  "category": "bird_species",
+  "title": "Junco",
+  "blurb": "A junco, genus Junco, is a small North American bird in the New World sparrow family Passerellidae. Junco systematics are still confusing after decades of research, with various authors accepting between three and twelve species.",
+  "facts": [
+    "Despite having a name that appears to derive from the Spanish term for the plant genus Juncus (rushes), these birds are seldom found among rush plants, which prefer wet ground,..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Junco"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/JUNCO.webp",
+    "file_jpg": "assets/birds/JUNCO.jpg",
+    "alt": "Photo of Junco",
+    "credit": "Photo by Cephas \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Junco_hyemalis_hyemalis_CT2.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,24 @@
+{
+  "word": "TOUCAN",
+  "category": "bird_species",
+  "title": "Toucan",
+  "blurb": "Toucans are Neotropical birds in the family Ramphastidae. They are brightly marked and have large, often colorful bills.",
+  "facts": [
+    "The family includes five genera and over 40 different species.",
+    "Their closest relatives are the toucan-barbets."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Toucan"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TOUCAN.webp",
+    "file_jpg": "assets/birds/TOUCAN.jpg",
+    "alt": "Photo of Toucan",
+    "credit": "Photo by These images belongs to their respective owners. \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Toucans_(Ramphastidae).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

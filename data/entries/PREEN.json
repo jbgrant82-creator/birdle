@@ -1,0 +1,26 @@
+{
+  "word": "PREEN",
+  "category": "bird_adjacent",
+  "title": "Preening",
+  "blurb": "Preening is a maintenance behaviour found in birds that involves the use of the beak to position feathers, interlock feather barbules that have become separated, clean plumage, and keep ectoparasites in check.",
+  "facts": [
+    "Because of this, birds spend considerable time each day maintaining their feathers, primarily through preening.",
+    "Several actions make up preening behaviour.",
+    "Birds fluff up and shake their feathers, which helps to \"rezip\" feather barbules that have become unhooked."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Preening"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PREEN.webp",
+    "file_jpg": "assets/birds/PREEN.jpg",
+    "alt": "Photo of Preening",
+    "credit": "Photo by Andrew Kraker \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Red_Lory_(Eos_bornea)-6.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

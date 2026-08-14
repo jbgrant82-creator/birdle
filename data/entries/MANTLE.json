@@ -1,0 +1,22 @@
+{
+  "word": "MANTLE",
+  "category": "bird_adjacent",
+  "title": "Mantle (mollusc)",
+  "blurb": "The mantle is a significant part of the anatomy of molluscs: it is the dorsal body wall which covers the visceral mass and usually protrudes in the form of flaps well beyond the visceral mass itself.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Mantle_(mollusc)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/MANTLE.webp",
+    "file_jpg": "assets/birds/MANTLE.jpg",
+    "alt": "Photo of Mantle (mollusc)",
+    "credit": "Photo by Hans Hillewaert \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Loligo_vulgaris.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

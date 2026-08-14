@@ -1,0 +1,33 @@
+{
+  "word": "DONALD",
+  "category": "character",
+  "title": "Donald Duck",
+  "blurb": "Disney's famously short-tempered sailor duck, one of animation's most enduring stars since his debut in the 1930s.",
+  "facts": [
+    "He typically wears a sailor shirt and cap with a bow tie.",
+    "Often described by critics and scholars as a global pop culture icon of animation, Donald is known for his semi-intelligible speech and his volatile, boisterous, and high-energy...",
+    "Along with his friend Mickey Mouse, Donald was included in TV Guide's list of the 50 greatest cartoon characters of all time in 2002, and has earned a star on the Hollywood Walk..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Donald_Duck"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "The Wise Little Hen (1934)",
+    "Mickey Mouse cartoon shorts",
+    "DuckTales",
+    "comics"
+  ],
+  "creators": [
+    "Walt Disney Productions"
+  ],
+  "studio": "Walt Disney Productions",
+  "first_appearance": "The Wise Little Hen (1934)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

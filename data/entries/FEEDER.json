@@ -1,0 +1,22 @@
+{
+  "word": "FEEDER",
+  "category": "bird_adjacent",
+  "title": "Bird feeder",
+  "blurb": "A birdfeeder, bird table, or tray feeder is a device placed outdoors to supply bird food to birds.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bird_feeder"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/FEEDER.webp",
+    "file_jpg": "assets/birds/FEEDER.jpg",
+    "alt": "Photo of Bird feeder",
+    "credit": "Photo by Frank Schulenburg \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Blue_jay_(Cyanocitta_cristata)_on_bird_feeder.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

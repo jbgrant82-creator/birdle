@@ -1,0 +1,24 @@
+{
+  "word": "CURLEW",
+  "category": "bird_species",
+  "title": "Curlew",
+  "blurb": "The curlews are a group of eight species of birds in the genus Numenius, characterised by their long, slender, downcurved bills and mottled brown plumage.",
+  "facts": [
+    "It was first recorded in 1377 in Langland's Piers Plowman \"Fissch to lyue in \u00fee flode..\u00dee corlue by kynde of \u00fee eyre\".",
+    "In Europe, \"curlew\" usually refers to one species, the Eurasian curlew."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Curlew"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/CURLEW.webp",
+    "file_jpg": "assets/birds/CURLEW.jpg",
+    "alt": "Photo of Curlew",
+    "credit": "Photo by Alan D. Wilson, www.naturespicsonline.com \u2014 CC BY-SA 2.5, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Curlew_-_natures_pics.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

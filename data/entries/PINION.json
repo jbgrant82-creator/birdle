@@ -1,0 +1,26 @@
+{
+  "word": "PINION",
+  "category": "bird_adjacent",
+  "title": "Flight feather",
+  "blurb": "Flight feathers are the long, stiff, asymmetrically shaped, but symmetrically paired pennaceous feathers on the wings or tail of a bird; those on the wings are called remiges, singular remex, while those on the tail are called rectrices, singular...",
+  "facts": [
+    "The flight feathers of some birds perform additional functions, generally associated with territorial displays, courtship rituals or feeding methods.",
+    "In some species, these feathers have developed into long showy plumes used in visual courtship displays, while in others they create a sound during display flights.",
+    "Tiny serrations on the leading edge of their remiges help owls to fly silently, while the extra-stiff rectrices of woodpeckers help them to brace against tree trunks as they..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Flight_feather"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PINION.webp",
+    "file_jpg": "assets/birds/PINION.jpg",
+    "alt": "Photo of Flight feather",
+    "credit": "Photo by Thomas Kraft (ThKraft) \u2014 CC BY-SA 2.5, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Milvus_milvus_R(ThKraft).jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

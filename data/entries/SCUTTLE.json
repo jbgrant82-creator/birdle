@@ -1,0 +1,33 @@
+{
+  "word": "SCUTTLE",
+  "category": "character",
+  "title": "The Little Mermaid (1989 film)",
+  "blurb": "An eccentric, well-meaning seagull who mostly misidentifies human objects for Ariel in The Little Mermaid.",
+  "facts": [
+    "Loosely based on the 1837 Danish fairy tale \"The Little Mermaid\" by Hans Christian Andersen, it was produced by Walt Disney Feature Animation in association with Silver Screen...",
+    "The film features the voices of Ren\u00e9 Auberjonois, Christopher Daniel Barnes, Jodi Benson, Pat Carroll, Paddi Edwards, Buddy Hackett, Jason Marin, Kenneth Mars, Ben Wright, and...",
+    "The story follows a teenage mermaid princess named Ariel (Benson) who dreams of becoming human and falls in love with a human prince named Eric (Barnes), which leads her to forge..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Little_Mermaid_(1989_film)"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "The Little Mermaid (1989)",
+    "The Little Mermaid: Ariel's Beginning",
+    "The Little Mermaid (2023 live-action)"
+  ],
+  "creators": [
+    "Ron Clements",
+    "John Musker"
+  ],
+  "studio": "Walt Disney Feature Animation",
+  "first_appearance": "The Little Mermaid (1989)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

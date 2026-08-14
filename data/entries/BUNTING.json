@@ -1,0 +1,25 @@
+{
+  "word": "BUNTING",
+  "category": "bird_species",
+  "title": "Indigo bunting",
+  "blurb": "The indigo bunting is a small seed-eating bird in the cardinal family, Cardinalidae. It is migratory, ranging from southern Canada to northern Florida during the breeding season, and from southern Florida to northern South America during the winter.",
+  "facts": [
+    "It often migrates by night, using the stars to navigate.",
+    "Its habitat is farmland, brush areas, and open woodland.",
+    "The indigo bunting is closely related to the lazuli bunting and interbreeds with the species where their ranges overlap."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Indigo_bunting"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/BUNTING.webp",
+    "file_jpg": "assets/birds/BUNTING.jpg",
+    "alt": "Photo of Indigo bunting",
+    "credit": "Photo by Dan Pancamo \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Indigo_Bunting_by_Dan_Pancamo_4.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

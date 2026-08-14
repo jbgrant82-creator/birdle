@@ -1,0 +1,26 @@
+{
+  "word": "ALULA",
+  "category": "bird_adjacent",
+  "title": "Alula",
+  "blurb": "The alula, or bastard wing, is a small projection on the anterior edge of the wing of modern birds and a few non-avian dinosaurs. The word is Latin and means \"winglet\"; it is the diminutive of ala, meaning \"wing\".",
+  "facts": [
+    "The alula is the freely moving first digit, a bird's \"thumb\", and typically bears three to five small flight feathers, with the exact number depending on the species.",
+    "There also are minor covert feathers overlying the flight feathers.",
+    "Like the larger flight feathers found on the wing's trailing edge, these alula feathers are asymmetrical, with the shaft running closer to anterior edge."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Alula"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/ALULA.webp",
+    "file_jpg": "assets/birds/ALULA.jpg",
+    "alt": "Photo of Alula",
+    "credit": "Photo by Muriel Gottrop \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Alula.png"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

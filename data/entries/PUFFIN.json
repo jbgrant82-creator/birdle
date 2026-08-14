@@ -1,0 +1,24 @@
+{
+  "word": "PUFFIN",
+  "category": "bird_species",
+  "title": "Puffin",
+  "blurb": "Puffins are any of three species of small alcids (auks) in the bird genus Fratercula. These are pelagic seabirds that feed primarily by diving in the water.",
+  "facts": [
+    "They breed in large colonies on coastal cliffs or offshore islands, nesting in crevices among rocks or in burrows in the soil.",
+    "Two species, the tufted puffin and horned puffin, are found in the North Pacific Ocean, while the Atlantic puffin is found in the North Atlantic Ocean."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Puffin"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PUFFIN.webp",
+    "file_jpg": "assets/birds/PUFFIN.jpg",
+    "alt": "Photo of Puffin",
+    "credit": "Photo by Richard Bartz \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Papageitaucher_Fratercula_arctica.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,21 @@
+{
+  "word": "EIDER",
+  "category": "bird_species",
+  "title": "Eider",
+  "blurb": "The eiders are large seaducks in the genus Somateria. The three extant species all breed in the cooler latitudes of the Northern Hemisphere.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Eider"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/EIDER.webp",
+    "file_jpg": "assets/birds/EIDER.jpg",
+    "alt": "Photo of Eider",
+    "credit": "Photo by Ron Knight from Seaford, East Sussex, United Kingdom \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:King_Eider_and_Common_Eider_(13667559035).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

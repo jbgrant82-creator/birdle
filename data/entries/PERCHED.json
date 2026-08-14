@@ -1,0 +1,28 @@
+{
+  "word": "PERCHED",
+  "category": "bird_adjacent",
+  "title": "Passerine",
+  "blurb": "A passerine is any bird of the order Passeriformes, which includes more than half of all bird species. Sometimes known as perching birds, passerines generally have an anisodactyl arrangement of their toes, which facilitates perching.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Passerine"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PERCHED.webp",
+    "file_jpg": "assets/birds/PERCHED.jpg",
+    "alt": "Photo of Passerine",
+    "credit": "Photo by MathKnight \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Passeriformes-01v01.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "PERCHED",
+      "issue": "title-mismatch",
+      "detail": "hint 'Perched' -> resolved title 'Passerine', doesn't obviously match"
+    }
+  ]
+}

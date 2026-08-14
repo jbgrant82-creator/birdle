@@ -1,0 +1,29 @@
+{
+  "word": "ORVILLE",
+  "category": "character",
+  "title": "The Rescuers",
+  "blurb": "An earnest, none-too-graceful albatross who serves as air transport for the Rescue Aid Society mice in The Rescuers.",
+  "facts": [
+    "Both must free a young orphan Penny from two treasure hunters, who intend to use her to help them obtain a giant diamond.",
+    "The film is based on a series of books by Margery Sharp, including The Rescuers (1959) and Miss Bianca (1962)."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Rescuers"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "The Rescuers (1977)"
+  ],
+  "creators": [
+    "Walt Disney Productions"
+  ],
+  "studio": "Walt Disney Productions",
+  "first_appearance": "The Rescuers (1977)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

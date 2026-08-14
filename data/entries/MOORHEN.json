@@ -1,0 +1,24 @@
+{
+  "word": "MOORHEN",
+  "category": "bird_species",
+  "title": "Moorhen",
+  "blurb": "Moorhens are medium-sized water birds in the genus Gallinula, Latin for 'little hen', in the rail family Rallidae. The genus currently includes seven species, of which one is extinct, and two others probably are.",
+  "facts": [
+    "Three species formerly included in Gallinula have been found to have enough differences to be placed in two separate but closely related genera, Paragallinula, and Tribonyx, the...",
+    "The moorhens are also close relatives of the coots (Fulica), but the swamphens (Porphyrio), formerly also thought to be close relatives, are now known to be less closely related."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Moorhen"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/MOORHEN.webp",
+    "file_jpg": "assets/birds/MOORHEN.jpg",
+    "alt": "Photo of Moorhen",
+    "credit": "Photo by Charles J. Sharp \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Common_moorhen_(Gallinula_chloropus)_with_worm.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

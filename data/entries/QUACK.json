@@ -1,0 +1,28 @@
+{
+  "word": "QUACK",
+  "category": "character",
+  "title": "Peep and the Big Wide World",
+  "blurb": "A bossy, self-important duckling convinced the pond revolves around ducks, rounding out the trio in Peep and the Big Wide World.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Peep_and_the_Big_Wide_World"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Peep and the Big Wide World (2004\u20132011)"
+  ],
+  "creators": [
+    "Kaj Pindal (creator)",
+    "9 Story Entertainment",
+    "WGBH Boston"
+  ],
+  "studio": "9 Story Entertainment / WGBH Boston (Discovery Kids, later PBS Kids)",
+  "first_appearance": "Peep and the Big Wide World, \"Spring Thing\" (April 12, 2004 premiere)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

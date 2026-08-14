@@ -1,0 +1,22 @@
+{
+  "word": "LORE",
+  "category": "bird_adjacent",
+  "title": "Lore (anatomy)",
+  "blurb": "The lore is the region between the eyes and nostrils of birds, reptiles, and amphibians.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lore_(anatomy)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/LORE.webp",
+    "file_jpg": "assets/birds/LORE.jpg",
+    "alt": "Photo of Lore (anatomy)",
+    "credit": "Photo by L. Shyamal \u2014 CC BY-SA 2.5, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:EagleHead.svg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

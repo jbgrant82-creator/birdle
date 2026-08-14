@@ -1,0 +1,23 @@
+{
+  "word": "DUNLIN",
+  "category": "bird_species",
+  "title": "Dunlin",
+  "blurb": "The dunlin is a small wader in the genus Calidris. The English name is a dialect form of \"dunling\", first recorded in 1531\u20131532.",
+  "facts": [
+    "It derives from dun, \"dull brown\", with the suffix -ling, meaning a person or thing with the given quality."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dunlin"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/DUNLIN.webp",
+    "file_jpg": "assets/birds/DUNLIN.jpg",
+    "alt": "Photo of Dunlin",
+    "credit": "Photo by Charles Homler d/b/a FocusOnWildlife \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Dunlin_(Calidris_alpina)_in_the_Delaware_Bay_at_Heislerville_Wildlife_Management_Area,_New_Jersey,_USA.png"
+  },
+  "audio": null,
+  "_review_issues": []
+}

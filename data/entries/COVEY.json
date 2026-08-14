@@ -1,0 +1,30 @@
+{
+  "word": "COVEY",
+  "category": "bird_adjacent",
+  "title": "Herd",
+  "blurb": "A herd is a social group of certain animals of the same species, either wild or domestic. The form of collective animal behavior associated with this is called herding.",
+  "facts": [
+    "These animals are known as gregarious animals."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Herd"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/COVEY.webp",
+    "file_jpg": "assets/birds/COVEY.jpg",
+    "alt": "Photo of Herd",
+    "credit": "Photo by Alex Gaylon from USA \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Sheep_and_herder_India.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "COVEY",
+      "issue": "title-mismatch",
+      "detail": "hint 'Covey' -> resolved title 'Herd', doesn't obviously match"
+    }
+  ]
+}

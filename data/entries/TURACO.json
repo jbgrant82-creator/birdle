@@ -1,0 +1,25 @@
+{
+  "word": "TURACO",
+  "category": "bird_species",
+  "title": "Turaco",
+  "blurb": "The turacos make up the bird family Musophagidae ( \"banana-eaters\"), which includes plantain-eaters and go-away-birds. In southern Africa both turacos and go-away-birds are commonly known as loeries.",
+  "facts": [
+    "They are semi-zygodactylous: the fourth (outer) toe can be switched back and forth.",
+    "The second and third toes, which always point forward, are conjoined in some species.",
+    "Musophagids often have prominent crests and long tails; the turacos are noted for peculiar and unique pigments giving them their bright green and red feathers."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Turaco"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TURACO.webp",
+    "file_jpg": "assets/birds/TURACO.jpg",
+    "alt": "Photo of Turaco",
+    "credit": "Photo by Ian Wilson \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Tauraco_persa_(captive_-_Birds_of_Eden).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

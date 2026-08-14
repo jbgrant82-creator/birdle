@@ -1,0 +1,21 @@
+{
+  "word": "RHEA",
+  "category": "bird_species",
+  "title": "Rhea (bird)",
+  "blurb": "The rhea, also known as the \u00f1and\u00fa is a South American ratite of the order Rheiformes. Rheas are distantly related to the two African ostriches and Australia's emu, with rheas placing just behind the emu in height and overall size.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rhea_(bird)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/RHEA.webp",
+    "file_jpg": "assets/birds/RHEA.jpg",
+    "alt": "Photo of Rhea (bird)",
+    "credit": "Photo by Adrian Pingstone (Arpingstone) \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Greater_rhea_pair_arp.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,30 @@
+{
+  "word": "PAULIE",
+  "category": "character",
+  "title": "Paulie (film)",
+  "blurb": "A talking blue-crowned conure who narrates his own life story \u2014 and his long search for the girl who raised him \u2014 to a night janitor in the 1998 film Paulie.",
+  "facts": [
+    "It stars Jay Mohr as the voice of the title character, alongside Gena Rowlands, Tony Shalhoub, Cheech Marin, and Bruce Davison.",
+    "Paulie was the first collaboration between Rowlands and Cobbs."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Paulie_(film)"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Paulie (1998 film)"
+  ],
+  "creators": [
+    "Laurie Craig (writer)",
+    "John Roberts (director)"
+  ],
+  "studio": "DreamWorks Pictures",
+  "first_appearance": "Paulie (1998)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

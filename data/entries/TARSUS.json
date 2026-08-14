@@ -1,0 +1,24 @@
+{
+  "word": "TARSUS",
+  "category": "bird_adjacent",
+  "title": "Bird anatomy",
+  "blurb": "Bird anatomy, or the physiological structure of birds' bodies, shows many unique adaptations, mostly aiding flight.",
+  "facts": [
+    "The development of a beak has led to evolution of a specially adapted digestive system."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bird_anatomy"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TARSUS.webp",
+    "file_jpg": "assets/birds/TARSUS.jpg",
+    "alt": "Photo of Bird anatomy",
+    "credit": "Photo by L. Shyamal \u2014 CC BY-SA 2.5, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Birdmorphology.svg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

@@ -1,0 +1,32 @@
+{
+  "word": "LOUIE",
+  "category": "character",
+  "title": "Huey, Dewey, and Louie",
+  "blurb": "The most laid-back of Donald Duck's triplet nephews, usually shown in a green cap.",
+  "facts": [
+    "Like their maternal uncles, the brothers are domestic anthropomorphic white ducks with yellow-orange bills and feet.",
+    "The boys are sometimes distinguished by the color of their shirts and baseball caps.",
+    "They appeared in many Donald Duck animated shorts, as well as in the television show DuckTales and its reboot, but the comics remain their primary medium."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Huey%2C_Dewey%2C_and_Louie"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Donald Duck comic strip",
+    "Donald's Nephews (1938 short)",
+    "DuckTales"
+  ],
+  "creators": [
+    "Al Taliaferro"
+  ],
+  "studio": "Walt Disney Productions",
+  "first_appearance": "Donald Duck newspaper comic strip (1937)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

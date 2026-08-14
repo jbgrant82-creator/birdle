@@ -1,0 +1,30 @@
+{
+  "word": "WILBUR",
+  "category": "character",
+  "title": "The Rescuers Down Under",
+  "blurb": "Orville's high-strung younger brother, an albatross who reluctantly takes over air-taxi duties for the Rescue Aid Society in The Rescuers Down Under.",
+  "facts": [
+    "It was directed by Hendel Butoy and Mike Gabriel and written by Jim Cox, Karey Kirkpatrick, Byron Simpson, and Joe Ranft.",
+    "Bob Newhart and Eva Gabor reprise their roles as Bernard and Bianca respectively, with John Candy, Tristan Rogers, Adam Ryen, Wayne Robson, and George C.",
+    "Scott in supporting roles."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Rescuers_Down_Under"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "The Rescuers Down Under (1990)"
+  ],
+  "creators": [
+    "Walt Disney Feature Animation"
+  ],
+  "studio": "Walt Disney Feature Animation",
+  "first_appearance": "The Rescuers Down Under (1990)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

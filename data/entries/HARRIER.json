@@ -1,0 +1,25 @@
+{
+  "word": "HARRIER",
+  "category": "bird_species",
+  "title": "Harrier (bird)",
+  "blurb": "A harrier is a member of the genus Circus in Accipitridae, a family of birds of prey. Harriers characteristically hunt by flying low over open ground, feeding on small mammals, reptiles, or birds.",
+  "facts": [
+    "The young of the species are sometimes referred to as ring-tail harriers.",
+    "They are distinctive with long wings, a long narrow tail, the slow and low flight over grasslands and skull peculiarities.",
+    "The harriers are thought to have diversified with the expansion of grasslands and the emergence of C4 grasses about 6 to 8 million years ago during the Late Miocene and Pliocene."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Harrier_(bird)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/HARRIER.webp",
+    "file_jpg": "assets/birds/HARRIER.jpg",
+    "alt": "Photo of Harrier (bird)",
+    "credit": "Photo by Paco G\u00f3mez from Castell\u00f3n, Spain \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Circus_aeruginosus_Valencia_3.jpeg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,23 @@
+{
+  "word": "STILT",
+  "category": "bird_species",
+  "title": "Stilt",
+  "blurb": "Stilt is a common name for several species of birds in the family Recurvirostridae, which also includes those known as avocets.",
+  "facts": [
+    "Additionally, the white-backed and Hawaiian stilts are occasionally considered subspecies of the black-necked stilt."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Stilt"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/STILT.webp",
+    "file_jpg": "assets/birds/STILT.jpg",
+    "alt": "Photo of Stilt",
+    "credit": "Photo by Dominic Sherony \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Black-winged_Stilt_(Himantopus_himantopus)_(44730874990).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

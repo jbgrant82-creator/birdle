@@ -1,0 +1,25 @@
+{
+  "word": "BULBUL",
+  "category": "bird_species",
+  "title": "Bulbul",
+  "blurb": "The bulbuls are members of a family, Pycnonotidae, of medium-sized passerine songbirds, which also includes greenbuls, brownbuls, leafloves, and bristlebills.",
+  "facts": [
+    "A few insular species occur on the tropical islands of the Indian Ocean.",
+    "There are 161 species in 28 genera.",
+    "While different species are found in a wide range of habitats, the African species are predominantly found in rainforest, whereas Asian bulbuls are predominantly found in more..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bulbul"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/BULBUL.webp",
+    "file_jpg": "assets/birds/BULBUL.jpg",
+    "alt": "Photo of Bulbul",
+    "credit": "Photo by unknown \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Brown-eared_Bulbul_1.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

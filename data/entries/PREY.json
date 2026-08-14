@@ -1,0 +1,30 @@
+{
+  "word": "PREY",
+  "category": "bird_adjacent",
+  "title": "Predation",
+  "blurb": "Predation is a biological interaction in which one organism, the predator, kills and eats another organism, its prey.",
+  "facts": [
+    "It is distinct from scavenging on dead prey, though many predators also scavenge; it overlaps with herbivory, as seed predators and destructive frugivores are predators."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Predation"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PREY.webp",
+    "file_jpg": "assets/birds/PREY.jpg",
+    "alt": "Photo of Predation",
+    "credit": "Photo by AWeith \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Polar_bear_(Ursus_maritimus)_with_its_prey.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "PREY",
+      "issue": "title-mismatch",
+      "detail": "hint 'Prey' -> resolved title 'Predation', doesn't obviously match"
+    }
+  ]
+}

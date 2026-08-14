@@ -1,0 +1,25 @@
+{
+  "word": "MERLIN",
+  "category": "bird_species",
+  "title": "Merlin (bird)",
+  "blurb": "The merlin is a small species of falcon from the Northern Hemisphere, with numerous subspecies throughout North America and Eurasia.",
+  "facts": [
+    "Males typically have wingspans of 53\u201358 centimetres (21\u201323\u00a0in), with females being slightly larger.",
+    "They are swift fliers and skilled hunters, which specialize in preying on small birds in the size range of sparrows to doves and medium-sized shorebirds.",
+    "In recent decades, merlin populations in North America have been significantly increasing, with some merlins becoming so well adapted to city life that they forgo migration; in..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Merlin_(bird)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/MERLIN.webp",
+    "file_jpg": "assets/birds/MERLIN.jpg",
+    "alt": "Photo of Merlin (bird)",
+    "credit": "Photo by Rhododendrites \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Merlin_in_Prospect_Park_(63386).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

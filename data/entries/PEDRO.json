@@ -1,0 +1,31 @@
+{
+  "word": "PEDRO",
+  "category": "character",
+  "title": "Rio (2011 film)",
+  "blurb": "A streetwise red-crested cardinal and samba enthusiast, one of Blu and Jewel's bird friends in Rio de Janeiro.",
+  "facts": [
+    "Produced by 20th Century Fox Animation and Blue Sky Studios, the film features the voices of Anne Hathaway, Jesse Eisenberg, Jemaine Clement, Leslie Mann, George Lopez, and Jamie...",
+    "It follows Blu (Eisenberg), a domesticated male Spix's macaw, who is taken back to Rio de Janeiro to mate with Jewel (Hathaway), a free-spirited female macaw.",
+    "They fall in love whilst escaping from bird smugglers and Nigel (Clement), a cockatoo."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rio_(2011_film)"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Rio (2011)",
+    "Rio 2 (2014)"
+  ],
+  "creators": [
+    "Blue Sky Studios (Carlos Saldanha)"
+  ],
+  "studio": "Blue Sky Studios / 20th Century Fox Animation",
+  "first_appearance": "Rio (2011)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

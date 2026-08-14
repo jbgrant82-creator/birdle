@@ -1,0 +1,21 @@
+{
+  "word": "EGRET",
+  "category": "bird_species",
+  "title": "Egret",
+  "blurb": "Egrets are herons; generally long-legged wading birds that have white or buff plumage and develop fine plumes during the breeding season. Egrets are not a biologically distinct group from herons and have the same build.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Egret"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/EGRET.webp",
+    "file_jpg": "assets/birds/EGRET.jpg",
+    "alt": "Photo of Egret",
+    "credit": "Photo by JJ Harrison (https://www.jjharrison.com.au/) \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Ardea_modesta.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

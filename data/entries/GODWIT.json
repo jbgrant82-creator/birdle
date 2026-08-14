@@ -1,0 +1,24 @@
+{
+  "word": "GODWIT",
+  "category": "bird_species",
+  "title": "Godwit",
+  "blurb": "Godwits  are a group of four large, long-billed, long-legged and strongly migratory waders of the bird genus Limosa. Their long bills allow them to probe deeply in the sand for aquatic worms and molluscs.",
+  "facts": [
+    "In their winter range, they flock together where food is plentiful.",
+    "They frequent tidal shorelines, breeding in northern climates in summer and migrating south in winter."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Godwit"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/GODWIT.webp",
+    "file_jpg": "assets/birds/GODWIT.jpg",
+    "alt": "Photo of Godwit",
+    "credit": "Photo by Johann Friedrich Naumann \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Limosa_limosa.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

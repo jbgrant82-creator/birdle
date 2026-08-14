@@ -1,0 +1,30 @@
+{
+  "word": "FOGHORN",
+  "category": "character",
+  "title": "Foghorn Leghorn",
+  "blurb": "A blustering, oversized Southern rooster ceaselessly antagonized by a dim-witted dog and a persistent baby chicken hawk in his Looney Tunes shorts.",
+  "facts": [
+    "He was created by Robert McKimson, and starred in 29 cartoons from 1946 to 1964 in the golden age of American animation.",
+    "All 29 of these cartoons were directed by McKimson."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Foghorn_Leghorn"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Walky Talky Hawky (1946)",
+    "Looney Tunes shorts"
+  ],
+  "creators": [
+    "Robert McKimson"
+  ],
+  "studio": "Warner Bros. Cartoons",
+  "first_appearance": "Walky Talky Hawky (1946)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

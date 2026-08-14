@@ -1,0 +1,25 @@
+{
+  "word": "CRANE",
+  "category": "bird_species",
+  "title": "Crane (bird)",
+  "blurb": "Cranes are a type of large bird with long legs and necks in the biological family Gruidae of the order Gruiformes. The family has 15 species placed in four genera which are Antigone, Balearica, Leucogeranus, and Grus.",
+  "facts": [
+    "They are large birds with long necks and legs, a tapering form, and long secondary feathers on the wing that project over the tail.",
+    "Most species have muted gray or white plumages, marked with black, and red bare patches on the face, but the crowned cranes of the genus Balearica have vibrantly-coloured wings...",
+    "Cranes fly with their necks extended outwards instead of bent into an S-shape and their long legs outstretched."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Crane_(bird)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/CRANE.webp",
+    "file_jpg": "assets/birds/CRANE.jpg",
+    "alt": "Photo of Crane (bird)",
+    "credit": "Photo by Zygy \u2014 CC0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Antigone_canadensis_353731480_(cropped).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

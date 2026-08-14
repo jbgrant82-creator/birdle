@@ -1,0 +1,21 @@
+{
+  "word": "DIPPER",
+  "category": "bird_species",
+  "title": "Dipper",
+  "blurb": "Dippers are members of the genus Cinclus in the bird family Cinclidae, so-called because of their bobbing or dipping movements. They are unique among passerines for their ability to dive and swim underwater.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Dipper"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/DIPPER.webp",
+    "file_jpg": "assets/birds/DIPPER.jpg",
+    "alt": "Photo of Dipper",
+    "credit": "Photo by David Menke \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Cinclus_mexicanus_FWS.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

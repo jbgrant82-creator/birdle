@@ -1,0 +1,36 @@
+{
+  "word": "FALCO",
+  "category": "character",
+  "title": "List of Star Fox characters",
+  "blurb": "The cocky, independent ace pilot of Star Fox's Arwing squadron, a falcon and Fox McCloud's rival-turned-ally.",
+  "facts": [
+    "Gameplay involves control of futuristic aircraft called Arwings, as well as other vehicles and combat on foot."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_Star_Fox_characters"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Star Fox (1993)",
+    "Star Fox 64",
+    "Super Smash Bros. series"
+  ],
+  "creators": [
+    "Nintendo EAD"
+  ],
+  "studio": "Nintendo",
+  "first_appearance": "Star Fox (1993)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "FALCO",
+      "issue": "title-mismatch",
+      "detail": "hint 'Falco Lombardi' -> resolved title 'List of Star Fox characters', doesn't obviously match"
+    }
+  ]
+}

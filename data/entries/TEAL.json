@@ -1,0 +1,23 @@
+{
+  "word": "TEAL",
+  "category": "bird_species",
+  "title": "Teal",
+  "blurb": "Teal is a dark cyan color. Its name comes from that of a bird, the Eurasian teal which has a similarly colored stripe on its head.",
+  "facts": [
+    "The word is often used colloquially to refer to shades of cyan in general."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Teal"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TEAL.webp",
+    "file_jpg": "assets/birds/TEAL.jpg",
+    "alt": "Photo of Teal",
+    "credit": "Photo by unknown \u2014 CC0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Smithsonian_-_NMAAHC_-_Teal_blue_dress_and_cropped_jacket_designed_by_Ann_Lowe-_NMAAHC_2014.73.2.1-.2.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

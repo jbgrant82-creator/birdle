@@ -1,0 +1,25 @@
+{
+  "word": "PENGUIN",
+  "category": "bird_species",
+  "title": "Penguin",
+  "blurb": "Penguins are a group of flightless semi-aquatic sea birds which live almost exclusively in the Southern Hemisphere. Only one species, the Galapagos penguin, lives at, and slightly north of, the equator.",
+  "facts": [
+    "Highly adapted for life in the ocean water, penguins have countershaded dark and white plumage and flippers for swimming.",
+    "Most penguins feed on krill, fish, squid and other forms of sea life which they catch with their bills and swallow whole while swimming.",
+    "A penguin has a spiny tongue and powerful jaws to grip slippery prey."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Penguin"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PENGUIN.webp",
+    "file_jpg": "assets/birds/PENGUIN.jpg",
+    "alt": "Photo of Penguin",
+    "credit": "Photo by Godot13 \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:South_Shetland-2016-Deception_Island\u2013Chinstrap_penguin_(Pygoscelis_antarctica)_04.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

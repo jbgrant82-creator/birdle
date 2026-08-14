@@ -1,0 +1,23 @@
+{
+  "word": "PIPIT",
+  "category": "bird_species",
+  "title": "Pipit",
+  "blurb": "The pipits are a cosmopolitan genus, Anthus, of small passerine birds with medium to long tails. Along with the wagtails and longclaws, the pipits make up the family Motacillidae.",
+  "facts": [
+    "The genus is widespread, occurring across most of the world, except the driest deserts, rainforest and the mainland of Antarctica."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pipit"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PIPIT.webp",
+    "file_jpg": "assets/birds/PIPIT.jpg",
+    "alt": "Photo of Pipit",
+    "credit": "Photo by \u0d15\u0d48\u0d2a\u0d4d\u0d2a\u0d33\u0d4d\u0d33\u0d3f at Malayalam Wikipedia \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Nilgir_Pipit_(Anthus_nilghiriensis)_18-Apr-2007_12-12-32_PM.JPG"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,22 @@
+{
+  "word": "RATITE",
+  "category": "bird_adjacent",
+  "title": "Ratite",
+  "blurb": "Ratites are a polyphyletic group consisting of all birds within the infraclass Palaeognathae that lack keels and cannot fly. They are mostly large, long-necked, and long-legged, the exception being kiwis, which are the only nocturnal extant ratites.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ratite"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/RATITE.webp",
+    "file_jpg": "assets/birds/RATITE.jpg",
+    "alt": "Photo of Ratite",
+    "credit": "Photo by Bernard DUPONT\nUser:Kore\nUser:Kadellar\nDonald Hobern \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Ratite_Diversity.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

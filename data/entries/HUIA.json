@@ -1,0 +1,21 @@
+{
+  "word": "HUIA",
+  "category": "bird_species",
+  "title": "Huia",
+  "blurb": "The huia is an extinct species of New Zealand wattlebird, endemic to the North Island of New Zealand. The last confirmed sighting of a huia was in 1907, although there was another credible sighting in 1924.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Huia"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/HUIA.webp",
+    "file_jpg": "assets/birds/HUIA.jpg",
+    "alt": "Photo of Huia",
+    "credit": "Photo by J. G. Keulemans \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Huia_Buller.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

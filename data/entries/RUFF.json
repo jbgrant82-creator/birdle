@@ -1,0 +1,21 @@
+{
+  "word": "RUFF",
+  "category": "bird_species",
+  "title": "Ruff (bird)",
+  "blurb": "The ruff is a medium-sized wading bird that breeds in marshes and wet meadows across northern Eurasia.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ruff_(bird)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/RUFF.webp",
+    "file_jpg": "assets/birds/RUFF.jpg",
+    "alt": "Photo of Ruff (bird)",
+    "credit": "Photo by Arjan Haverkamp \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Philomachus_pugnax_-Diergaarde_Blijdorp-8c.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,21 @@
+{
+  "word": "LAPWING",
+  "category": "bird_species",
+  "title": "Lapwing",
+  "blurb": "Lapwings are any of various ground-nesting birds akin to plovers and dotterels. They range from 10 to 16 inches in length.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lapwing"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/LAPWING.webp",
+    "file_jpg": "assets/birds/LAPWING.jpg",
+    "alt": "Photo of Lapwing",
+    "credit": "Photo by Charles J. Sharp \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Northern_lapwing_(Vanellus_vanellus)_female_Marken.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

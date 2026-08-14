@@ -1,0 +1,25 @@
+{
+  "word": "TERN",
+  "category": "bird_species",
+  "title": "Tern",
+  "blurb": "Terns are seabirds in the subfamily Sterninae of the wider gull and tern family Laridae. They have a worldwide distribution and are normally found near the sea, rivers, or wetlands.",
+  "facts": [
+    "Terns are treated in eleven genera in a subgroup of the family Laridae, which also includes several genera of gulls and the skimmers (Rynchops).",
+    "They are slender, lightly built birds with long, forked tails, narrow wings, long bills, and relatively short legs.",
+    "Most species are pale grey above and white below with a contrasting black cap to the head, but the marsh terns, the black-bellied tern, the Inca tern, and some noddies have dark..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tern"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TERN.webp",
+    "file_jpg": "assets/birds/TERN.jpg",
+    "alt": "Photo of Tern",
+    "credit": "Photo by MPF \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:3-point_tern_(Sandwich,_Common_&_Roseate_Terns,_St_Mary's_Island,_Northumberland).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

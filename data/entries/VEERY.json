@@ -1,0 +1,23 @@
+{
+  "word": "VEERY",
+  "category": "bird_species",
+  "title": "Veery",
+  "blurb": "The veery is a small North American thrush species, a member of a group of closely related and similar species in the genus Catharus, also including the gray-cheeked thrush, Bicknell's thrush, Swainson's thrush, and hermit thrush.",
+  "facts": [
+    "Up to six subspecies exist, which are grouped into the eastern veery, the western veery or willow thrush, and the Newfoundland veery."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Veery"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/VEERY.webp",
+    "file_jpg": "assets/birds/VEERY.jpg",
+    "alt": "Photo of Veery",
+    "credit": "Photo by Rhododendrites \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Veery_in_CP_(43277).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

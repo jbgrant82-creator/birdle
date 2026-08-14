@@ -1,0 +1,24 @@
+{
+  "word": "TWEET",
+  "category": "bird_adjacent",
+  "title": "Bird vocalization",
+  "blurb": "Bird vocalization includes both bird calls and bird songs. In non-technical use, bird songs are the sounds produced by birds that are melodious to the human ear.",
+  "facts": [
+    "In ornithology and birding, songs are distinguished by function from calls."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bird_vocalization"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TWEET.webp",
+    "file_jpg": "assets/birds/TWEET.jpg",
+    "alt": "Photo of Bird vocalization",
+    "credit": "Photo by Rhododendrites \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Eastern_towhee_in_JBWR_(50084).webm"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

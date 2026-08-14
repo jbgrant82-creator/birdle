@@ -1,0 +1,21 @@
+{
+  "word": "MACAW",
+  "category": "bird_species",
+  "title": "Macaw",
+  "blurb": "Macaws are a group of large New World parrots that are long-tailed and often colorful, in the tribe Arini. They are popular in aviculture or as companion parrots, although there are conservation concerns about several species in the wild.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Macaw"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/MACAW.webp",
+    "file_jpg": "assets/birds/MACAW.jpg",
+    "alt": "Photo of Macaw",
+    "credit": "Photo by LancerEvolution\u00a0; from New Jersey, United States (USA) \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Ara_macao,_Ara_ararauna_and_Ara_militaris.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,21 @@
+{
+  "word": "GADWALL",
+  "category": "bird_species",
+  "title": "Gadwall",
+  "blurb": "The gadwall is a common and widespread dabbling duck in the family Anatidae.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gadwall"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/GADWALL.webp",
+    "file_jpg": "assets/birds/GADWALL.jpg",
+    "alt": "Photo of Gadwall",
+    "credit": "Photo by Andreas Trepte \u2014 CC BY-SA 2.5, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Gadwall-Anas-strepera.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

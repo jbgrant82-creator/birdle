@@ -1,0 +1,30 @@
+{
+  "word": "JECKLE",
+  "category": "character",
+  "title": "Heckle and Jeckle",
+  "blurb": "The other half of Heckle and Jeckle \u2014 identical to Heckle but speaking with a plummy British accent, forming one of animation's earliest mismatched double acts.",
+  "facts": [
+    "Heckle speaks in a tough New York style manner, while Jeckle has a more polite British accent.",
+    "They were voiced at different times by Danny Webb (1946\u201347), Sid Raymond (1947), Dayton Allen, Ned Sparks (1950), Roy Halee (1950\u201360), and Frank Welker (1979)."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Heckle_and_Jeckle"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "The Talking Magpies (1946)",
+    "Terrytoons cartoon shorts"
+  ],
+  "creators": [
+    "Paul Terry"
+  ],
+  "studio": "Terrytoons / 20th Century Fox",
+  "first_appearance": "The Talking Magpies (1946)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

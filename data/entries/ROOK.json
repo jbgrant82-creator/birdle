@@ -1,0 +1,24 @@
+{
+  "word": "ROOK",
+  "category": "bird_species",
+  "title": "Rook (bird)",
+  "blurb": "The rook is a member of the family Corvidae in the passerine order of birds. It is found in the Palearctic, its range extending from Scandinavia and western Europe to eastern Siberia.",
+  "facts": [
+    "It is a large, gregarious, black-feathered bird, distinguished from similar species by the whitish featherless area on the face.",
+    "Rooks nest collectively in the tops of tall trees, often close to farms or villages; the groups of nests are known as rookeries."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rook_(bird)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/ROOK.webp",
+    "file_jpg": "assets/birds/ROOK.jpg",
+    "alt": "Photo of Rook (bird)",
+    "credit": "Photo by Charles J. Sharp \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Rook_(Corvus_frugilegus)_Heligan.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,23 @@
+{
+  "word": "SMEW",
+  "category": "bird_species",
+  "title": "Smew",
+  "blurb": "The smew is a species of duck and is the only living member of the genus Mergellus. The genus is closely related to Mergus and is sometimes included in it; genetic studies have shown that it is the sister taxon to Mergus and Lophodytes.",
+  "facts": [
+    "The smew has hybridised with the common goldeneye."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Smew"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SMEW.webp",
+    "file_jpg": "assets/birds/SMEW.jpg",
+    "alt": "Photo of Smew",
+    "credit": "Photo by Andreas Trepte \u2014 CC BY-SA 2.5, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Zwergsaeger_maenchen_weibchen.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

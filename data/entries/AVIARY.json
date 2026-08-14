@@ -1,0 +1,24 @@
+{
+  "word": "AVIARY",
+  "category": "bird_adjacent",
+  "title": "Aviary",
+  "blurb": "An aviary is a large enclosure for confining birds, although bats may also be considered for display.",
+  "facts": [
+    "Aviaries often contain plants and shrubbery to simulate a natural environment."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Aviary"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/AVIARY.webp",
+    "file_jpg": "assets/birds/AVIARY.jpg",
+    "alt": "Photo of Aviary",
+    "credit": "Photo by Koen michiels \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Aviary_N\u00e9then.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

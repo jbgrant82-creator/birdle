@@ -1,0 +1,25 @@
+{
+  "word": "TROGON",
+  "category": "bird_species",
+  "title": "Trogon",
+  "blurb": "The trogons and quetzals are birds in the order Trogoniformes which contains only one family, the Trogonidae. The family Trogonidae contains 49 species in seven genera.",
+  "facts": [
+    "The fossil record of the trogons dates back 49 million years to the Early Eocene.",
+    "They might constitute a member of the basal radiation of the order Coraciiformes and order Passeriformes or be closely related to mousebirds and owls.",
+    "The word trogon is Greek for \"nibbling\" and refers to the fact that these birds gnaw holes in trees to make their nests."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Trogon"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TROGON.webp",
+    "file_jpg": "assets/birds/TROGON.jpg",
+    "alt": "Photo of Trogon",
+    "credit": "Photo by JJ Harrison (jjharrison89@facebook.com) \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Harpactes_erythrocephalus_-_Khao_Yai.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

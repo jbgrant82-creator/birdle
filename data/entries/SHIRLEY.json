@@ -1,0 +1,28 @@
+{
+  "word": "SHIRLEY",
+  "category": "character",
+  "title": "Tiny Toon Adventures",
+  "blurb": "Shirley the Loon, a New Age-y, dramatically expressive student at Acme Looniversity in Tiny Toon Adventures.",
+  "facts": [
+    "The series follows the adventures of a group of young cartoon characters who attend Acme Looniversity to become the next generation of characters from the Looney Tunes series."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tiny_Toon_Adventures"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Tiny Toon Adventures (1990)"
+  ],
+  "creators": [
+    "Tom Ruegger"
+  ],
+  "studio": "Warner Bros. Animation / Amblin Entertainment",
+  "first_appearance": "Tiny Toon Adventures (1990)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

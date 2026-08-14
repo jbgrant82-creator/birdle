@@ -1,0 +1,25 @@
+{
+  "word": "FLEDGED",
+  "category": "bird_adjacent",
+  "title": "Fledge",
+  "blurb": "Fledging is the stage in a flying animal's life between hatching or birth and becoming capable of flight. This term is most frequently applied to birds, but is also used for bats.",
+  "facts": [
+    "For altricial birds, those that spend more time in vulnerable condition in the nest, the nestling and fledging stage can be the same.",
+    "For precocial birds, those that develop and leave the nest quickly, a short nestling stage precedes a longer fledging stage."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fledge"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/FLEDGED.webp",
+    "file_jpg": "assets/birds/FLEDGED.jpg",
+    "alt": "Photo of Fledge",
+    "credit": "Photo by Benjamint444 \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Swallow_chicks444.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

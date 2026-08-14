@@ -1,0 +1,21 @@
+{
+  "word": "FULMAR",
+  "category": "bird_species",
+  "title": "Fulmar",
+  "blurb": "The fulmars are tube-nosed seabirds in the family Procellariidae. The family includes two extant species, and two extinct fossil species from the Miocene.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Fulmar"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/FULMAR.webp",
+    "file_jpg": "assets/birds/FULMAR.jpg",
+    "alt": "Photo of Fulmar",
+    "credit": "Photo by unknown \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Fulmarus_glacialis_on_cliff.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

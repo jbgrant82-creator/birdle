@@ -1,0 +1,32 @@
+{
+  "word": "SKIPPER",
+  "category": "character",
+  "title": "Penguins of Madagascar",
+  "blurb": "The gruff, no-nonsense leader of Madagascar's penguin commando squad, known for his tactical schemes and disdain for anything \"cute and cuddly.\"",
+  "facts": [
+    "A spin-off of the Madagascar film series, it was produced by DreamWorks Animation.",
+    "The film features the voices of Tom McGrath, Chris Miller, Christopher Knights, Conrad Vernon, Benedict Cumberbatch, Ken Jeong, Annet Mahendru, Peter Stormare and John Malkovich.",
+    "It takes place after the events of Madagascar 3: Europe's Most Wanted (2012) and follows the Penguins that get lost on an island and must find a way back to their home."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Penguins_of_Madagascar"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Madagascar (2005)",
+    "Penguins of Madagascar (2014)",
+    "TV series"
+  ],
+  "creators": [
+    "DreamWorks Animation"
+  ],
+  "studio": "DreamWorks Animation",
+  "first_appearance": "Madagascar (2005)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

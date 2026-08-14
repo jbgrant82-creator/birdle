@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Birdle</title>
+<meta name="description" content="A Wordle variant where every answer is a bird, a bird-anatomy term, or a famous fictional bird." />
+
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Birdle" />
+<meta property="og:description" content="A Wordle variant where every answer is a bird, a bird-anatomy term, or a famous fictional bird." />
+<meta property="og:image" content="../assets/social/birdle-social-1200x630.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="Colorful vintage tattoo-flash style illustration of many birds — a parrot, two owls, a bald eagle, a blue jay, swallows, a pelican, a robin, a hummingbird, and a toucan — perched among red roses, with a ribbon banner reading BIRDLE." />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Birdle" />
+<meta name="twitter:description" content="A Wordle variant where every answer is a bird, a bird-anatomy term, or a famous fictional bird." />
+<meta name="twitter:image" content="../assets/social/birdle-square-mobile.jpg" />
+
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <button
+      id="sound-toggle"
+      class="sound-toggle"
+      type="button"
+      aria-pressed="false"
+      aria-label="Enable sound for bird call recordings"
+    >🔇</button>
+    <div class="hero">
+      <h1 class="logo">Birdle</h1>
+      <p class="tagline">Every answer is a bird.</p>
+    </div>
+  </header>
+
+  <main>
+    <div id="category-badge" class="category-badge" hidden></div>
+
+    <div id="board" class="board" role="grid" aria-label="Guess board"></div>
+
+    <div id="reveal-panel" class="reveal-panel" hidden></div>
+    <button id="reveal-reopen" class="reveal-reopen" type="button" hidden>
+      Show result
+    </button>
+
+    <div id="keyboard" class="keyboard"></div>
+
+    <p id="status-message" class="sr-only" role="status" aria-live="polite"></p>
+  </main>
+
+  <script type="module" src="js/game.js"></script>
+</body>
+</html>

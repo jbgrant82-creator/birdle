@@ -1,0 +1,21 @@
+{
+  "word": "POCHARD",
+  "category": "bird_species",
+  "title": "Pochard",
+  "blurb": "Pochard is a common name used for several species of diving ducks:Four species in the genus Aythya:\nCommon pochard, Aythya ferina\nBaer's pochard, Aythya baeri\nFerruginous pochard, Aythya nyroca\nMadagascar pochard, Aythya innotata\nThree species in...",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Pochard"
+  },
+  "verified": false,
+  "image": null,
+  "audio": null,
+  "_review_issues": [
+    {
+      "word": "POCHARD",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    }
+  ]
+}

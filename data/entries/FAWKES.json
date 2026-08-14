@@ -1,0 +1,34 @@
+{
+  "word": "FAWKES",
+  "category": "character",
+  "title": "List of Harry Potter characters",
+  "blurb": "Albus Dumbledore's phoenix, capable of healing tears and fiery rebirth from his own ashes.",
+  "facts": [
+    "Rowling:The seven original Harry Potter novels (1997\u20132007)\nThe three films in the Fantastic Beasts series (2016\u20132022)\nQuidditch Through the Ages (2001)\nThe Tales of Beedle the..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_Harry_Potter_characters"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Harry Potter and the Chamber of Secrets (1998 novel) onward"
+  ],
+  "creators": [
+    "J.K. Rowling"
+  ],
+  "studio": "Warner Bros. Pictures (film adaptations)",
+  "first_appearance": "Harry Potter and the Chamber of Secrets (1998)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "FAWKES",
+      "issue": "title-mismatch",
+      "detail": "hint 'Fawkes (Harry Potter)' -> resolved title 'List of Harry Potter characters', doesn't obviously match"
+    }
+  ]
+}

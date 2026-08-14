@@ -1,0 +1,28 @@
+{
+  "word": "OPUS",
+  "category": "character",
+  "title": "Opus the Penguin",
+  "blurb": "A round, anxious penguin from Berkeley Breathed's satirical comic strip Bloom County, known for his prominent nose and gentle nature.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Opus_the_Penguin"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "not flagged trademarked, but image was NOT auto-fetched \u2014 verify individually before adding one, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Bloom County (1980)",
+    "Outland",
+    "Opus"
+  ],
+  "creators": [
+    "Berkeley Breathed"
+  ],
+  "studio": "Washington Post Writers Group (syndication)",
+  "first_appearance": "Bloom County \u2014 background character in 1980, breakout by 1982",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

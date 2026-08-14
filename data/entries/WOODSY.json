@@ -1,0 +1,30 @@
+{
+  "word": "WOODSY",
+  "category": "character",
+  "title": "Woodsy Owl",
+  "blurb": "\"Give a hoot, don't pollute\" \u2014 Woodsy Owl is a public-service mascot created by the U.S. Forest Service to promote conservation.",
+  "facts": [
+    "Woodsy Owl has been an integral part of the educational program of the US Forest Service for decades and is particularly active against littering and environmental pollution.",
+    "Woodsy's original motto was \"Give a hoot!",
+    "Don't pollute\" and has since been updated to \"Lend a hand\u2014care for the land!\" Together with Smokey Bear, Woodsy Owl has become an American environmental icon that has found its..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Woodsy_Owl"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "not flagged trademarked, but image was NOT auto-fetched \u2014 verify individually before adding one, see HANDOFF.md \u00a74",
+  "appearances": [
+    "U.S. Forest Service public-service campaigns since 1971"
+  ],
+  "creators": [
+    "United States Forest Service"
+  ],
+  "studio": "United States Forest Service",
+  "first_appearance": "1971 (campaign launch)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

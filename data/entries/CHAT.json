@@ -1,0 +1,21 @@
+{
+  "word": "CHAT",
+  "category": "bird_species",
+  "title": "Chat (bird)",
+  "blurb": "Chats are a group of small Old World insectivorous birds formerly classified as members of the thrush family (Turdidae), but following genetic DNA analysis are now considered to belong to the Old World flycatcher family (Muscicapidae).",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chat_(bird)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/CHAT.webp",
+    "file_jpg": "assets/birds/CHAT.jpg",
+    "alt": "Photo of Chat (bird)",
+    "credit": "Photo by Marek Szczepanek \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Saxicola_rubetra_3_tom_(Marek_Szczepanek).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

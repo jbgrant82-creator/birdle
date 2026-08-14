@@ -1,0 +1,21 @@
+{
+  "word": "SQUAB",
+  "category": "bird_species",
+  "title": "Squab",
+  "blurb": "In culinary terminology, squab is an immature domestic pigeon, typically under four weeks old, or its meat. Some authors describe it as tasting like dark chicken.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Squab"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SQUAB.webp",
+    "file_jpg": "assets/birds/SQUAB.jpg",
+    "alt": "Photo of Squab",
+    "credit": "Photo by Mamun2a \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Pigeon_Chicks2_2am.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

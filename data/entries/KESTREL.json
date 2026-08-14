@@ -1,0 +1,21 @@
+{
+  "word": "KESTREL",
+  "category": "bird_species",
+  "title": "Kestrel",
+  "blurb": "The term kestrel is the common name given to several species of predatory birds from the falcon genus Falco.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Kestrel"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/KESTREL.webp",
+    "file_jpg": "assets/birds/KESTREL.jpg",
+    "alt": "Photo of Kestrel",
+    "credit": "Photo by Charles J. Sharp \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:American_kestrel_(Falco_sparverius_cinnamominus)_male_Leona_Amarga.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

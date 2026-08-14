@@ -1,0 +1,21 @@
+{
+  "word": "QUAIL",
+  "category": "bird_species",
+  "title": "Quail",
+  "blurb": "Quail is a collective name for several genera of mid-sized birds generally placed in the order Galliformes. The collective noun for a group of quail is a flock, covey, or bevy.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Quail"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/QUAIL.webp",
+    "file_jpg": "assets/birds/QUAIL.jpg",
+    "alt": "Photo of Quail",
+    "credit": "Photo by Duncan Wright \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Brown_Quail.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

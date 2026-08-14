@@ -1,0 +1,25 @@
+{
+  "word": "MAGPIE",
+  "category": "bird_species",
+  "title": "Magpie",
+  "blurb": "True magpies are birds of various species of the family Corvidae. Like other members of their family, they are widely considered to be intelligent creatures.",
+  "facts": [
+    "The Eurasian magpie, for instance, is thought to rank among the world's most intelligent creatures, and is one of the few nonmammalian species able to recognize itself in a mirror...",
+    "Magpies have shown the ability to make and use tools, imitate human speech, grieve, play games, and work in teams.",
+    "They are particularly well known for their songs and were once popular as cagebirds."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Magpie"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/MAGPIE.webp",
+    "file_jpg": "assets/birds/MAGPIE.jpg",
+    "alt": "Photo of Magpie",
+    "credit": "Photo by Pierre-Selim \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Pica_pica_-_Compans_Caffarelli_-_2012-03-16.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

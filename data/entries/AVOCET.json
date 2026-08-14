@@ -1,0 +1,24 @@
+{
+  "word": "AVOCET",
+  "category": "bird_species",
+  "title": "Avocet",
+  "blurb": "The four species of avocets are a genus, Recurvirostra, of waders in the same avian family as the stilts. The genus name comes from Latin recurvus, 'curved backwards' and rostrum, 'bill'.",
+  "facts": [
+    "The common name is thought to derive from the Italian (Ferrarese) word avosetta, which may relate to Latin avis (\"bird\").",
+    "Francis Willughby in 1678 noted the \"Avosetta of the Italians\"."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Avocet"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/AVOCET.webp",
+    "file_jpg": "assets/birds/AVOCET.jpg",
+    "alt": "Photo of Avocet",
+    "credit": "Photo by Andreas Trepte \u2014 CC BY-SA 2.5, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Pied_Avocet_Recurvirostra_avosetta.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

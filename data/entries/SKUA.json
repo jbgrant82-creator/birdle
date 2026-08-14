@@ -1,0 +1,21 @@
+{
+  "word": "SKUA",
+  "category": "bird_species",
+  "title": "Skua",
+  "blurb": "The skuas are a group of predatory and kleptoparasitic seabirds with seven species forming the genus Stercorarius, the only genus in the family Stercorariidae.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Skua"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SKUA.webp",
+    "file_jpg": "assets/birds/SKUA.jpg",
+    "alt": "Photo of Skua",
+    "credit": "Photo by Patrick Coin (Patrick Coin) \u2014 CC BY-SA 2.5, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Stercorarius_pomarinusPCCA20070623-3985B.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,21 @@
+{
+  "word": "GROUSE",
+  "category": "bird_species",
+  "title": "Grouse",
+  "blurb": "Grouse are a group of birds from the order Galliformes, in the family Phasianidae.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Grouse"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/GROUSE.webp",
+    "file_jpg": "assets/birds/GROUSE.jpg",
+    "alt": "Photo of Grouse",
+    "credit": "Photo by Jaan K\u00fcnnap \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Metsis_ehk_m\u00f5tus_(Tetrao_urogallus),_Euroopa_suurim_kanaline_2012.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,21 @@
+{
+  "word": "JACANA",
+  "category": "bird_species",
+  "title": "Jacana (genus)",
+  "blurb": "Jacana is the genus comprising the two jacanas of the Americas: the northern jacana, and the wattled jacana.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jacana_(genus)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/JACANA.webp",
+    "file_jpg": "assets/birds/JACANA.jpg",
+    "alt": "Photo of Jacana (genus)",
+    "credit": "Photo by Foto de Gilberto Antonio Marcon dos Santos \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Ja\u00e7an\u00e3.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

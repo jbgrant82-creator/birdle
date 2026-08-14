@@ -1,0 +1,26 @@
+{
+  "word": "AVES",
+  "category": "bird_adjacent",
+  "title": "Bird",
+  "blurb": "Birds are a group of warm-blooded vertebrate animals constituting the class Aves, characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton...",
+  "facts": [
+    "There are over 11,000 living species and they are split into 44 orders.",
+    "More than half of the world's bird species are passerine or \"perching\" birds.",
+    "Nearly all birds have wings whose development varies according to the life style of each species."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Bird"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/AVES.webp",
+    "file_jpg": "assets/birds/AVES.jpg",
+    "alt": "Photo of Bird",
+    "credit": "Photo by C. Robiller / naturlichter.de (Hyla meridionalis) \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Kleiber_Flug.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

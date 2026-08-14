@@ -1,0 +1,21 @@
+{
+  "word": "SCAUP",
+  "category": "bird_species",
+  "title": "Scaup",
+  "blurb": "Scaup is the common name for three species of diving duck:Greater scaup, or just \"scaup\", Aythya marila\nLesser scaup, Aythya affinis\nNew Zealand scaup, Aythya novaeseelandiae",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Scaup"
+  },
+  "verified": false,
+  "image": null,
+  "audio": null,
+  "_review_issues": [
+    {
+      "word": "SCAUP",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    }
+  ]
+}

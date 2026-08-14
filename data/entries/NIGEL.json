@@ -1,0 +1,29 @@
+{
+  "word": "NIGEL",
+  "category": "character",
+  "title": "Finding Nemo",
+  "blurb": "A brown pelican who helps Marlin and Dory navigate the dentist's office fish tank in Finding Nemo.",
+  "facts": [
+    "It tells the story of an overprotective clownfish named Marlin (Brooks) who, along with a forgetful regal blue tang named Dory (DeGeneres), searches for his missing son Nemo...",
+    "Along the way, Marlin learns to take risks and comes to terms with Nemo taking care of himself."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Finding_Nemo"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Finding Nemo (2003)"
+  ],
+  "creators": [
+    "Pixar Animation Studios (Andrew Stanton)"
+  ],
+  "studio": "Pixar Animation Studios",
+  "first_appearance": "Finding Nemo (2003)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

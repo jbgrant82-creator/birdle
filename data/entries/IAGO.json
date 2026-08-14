@@ -1,0 +1,30 @@
+{
+  "word": "IAGO",
+  "category": "character",
+  "title": "Iago (Aladdin)",
+  "blurb": "Jafar's wisecracking scarlet macaw sidekick in Disney's Aladdin, later reformed into an ally of the heroes in the sequels and series.",
+  "facts": [
+    "He was voiced by Alan Tudyk in the live-action adaptation of Aladdin, by Barrett Leddy in the 2023 Disney+ special Lego Disney Princess: The Castle Quest, and by Piotr Michael in..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Iago_(Aladdin)"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Aladdin (1992)",
+    "The Return of Jafar (1994)",
+    "Aladdin: The Series"
+  ],
+  "creators": [
+    "Walt Disney Animation Studios"
+  ],
+  "studio": "Walt Disney Animation Studios",
+  "first_appearance": "Aladdin (1992)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

@@ -1,0 +1,25 @@
+{
+  "word": "SWAN",
+  "category": "bird_species",
+  "title": "Swan",
+  "blurb": "Swans are birds of the genus Cygnus within the family Anatidae. The swans' closest relatives include geese and ducks.",
+  "facts": [
+    "Swans are grouped with the closely related geese in the subfamily Anserinae, forming the tribe Cygnini.",
+    "Sometimes, they are considered a distinct subfamily, Cygninae.",
+    "They are the largest waterfowl and are often among the largest flighted birds in their range."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Swan"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SWAN.webp",
+    "file_jpg": "assets/birds/SWAN.jpg",
+    "alt": "Photo of Swan",
+    "credit": "Photo by Geni \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Mute_Swan_Emsworth2.JPG"
+  },
+  "audio": null,
+  "_review_issues": []
+}

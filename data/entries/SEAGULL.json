@@ -1,0 +1,24 @@
+{
+  "word": "SEAGULL",
+  "category": "bird_species",
+  "title": "Gull",
+  "blurb": "Gulls, informally called seagulls, are seabirds of the subfamily Larinae. They are most closely related to terns and skimmers, and are placed with them in the family Laridae.",
+  "facts": [
+    "They are also related, more distantly, to auks and skuas, and more distantly still to waders.",
+    "Until the 21st century, most gulls were placed in the genus Larus, but that arrangement is now considered polyphyletic, leading to the readoption and revision of several genera."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gull"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SEAGULL.webp",
+    "file_jpg": "assets/birds/SEAGULL.jpg",
+    "alt": "Photo of Gull",
+    "credit": "Photo by Beata May \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Herring_Gull_(Larus_argentatus),_Brighton,_England.JPG"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,25 @@
+{
+  "word": "PECK",
+  "category": "bird_adjacent",
+  "title": "Peck",
+  "blurb": "A peck is an imperial and United States customary unit of dry volume, equivalent to 8 dry quarts or 16 dry pints. An imperial peck is equivalent to 9.09218 liters and a US customary peck is equivalent to 8.80976754172 liters.",
+  "facts": [
+    "Four pecks make a bushel.",
+    "Although the peck is no longer widely used, some produce, such as apples, are still often sold by the peck in the U.S.."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Peck"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PECK.webp",
+    "file_jpg": "assets/birds/PECK.jpg",
+    "alt": "Photo of Peck",
+    "credit": "Photo by Toytoy at English Wikipedia \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Half_peck_apple_bag.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

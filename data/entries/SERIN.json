@@ -1,0 +1,21 @@
+{
+  "word": "SERIN",
+  "category": "bird_species",
+  "title": "Serinus",
+  "blurb": "Serinus is a genus of small birds in the finch family Fringillidae found in West Asia, Europe and Africa. The birds usually have some yellow in their plumage.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Serinus"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SERIN.webp",
+    "file_jpg": "assets/birds/SERIN.jpg",
+    "alt": "Photo of Serinus",
+    "credit": "Photo by Andreas Trepte \u2014 CC BY-SA 2.5, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Girlitz_Serinus_serinus.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

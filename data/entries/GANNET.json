@@ -1,0 +1,23 @@
+{
+  "word": "GANNET",
+  "category": "bird_species",
+  "title": "Gannet",
+  "blurb": "Gannets are seabirds comprising the genus Morus in the family Sulidae, closely related to boobies. They are known as 'solan' or 'solan goose' in Scotland.",
+  "facts": [
+    "A common misconception is that the Scottish name is 'guga' but this is the Gaelic name referring to the chicks only."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gannet"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/GANNET.webp",
+    "file_jpg": "assets/birds/GANNET.jpg",
+    "alt": "Photo of Gannet",
+    "credit": "Photo by unknown \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Morus_bassanus_9.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

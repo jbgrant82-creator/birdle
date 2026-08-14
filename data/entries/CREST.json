@@ -1,0 +1,22 @@
+{
+  "word": "CREST",
+  "category": "bird_adjacent",
+  "title": "Crest (feathers)",
+  "blurb": "The crest is a prominent feature exhibited by several bird species on their heads. It is distinct from features such as casques and cockscombs - sometimes erroneously referred to as \"crests\", which are bony and fleshy structures respectively.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Crest_(feathers)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/CREST.webp",
+    "file_jpg": "assets/birds/CREST.jpg",
+    "alt": "Photo of Crest (feathers)",
+    "credit": "Photo by Francis C. Franklin \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Balearica_regulorum_portrait_3.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

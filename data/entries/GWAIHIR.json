@@ -1,0 +1,38 @@
+{
+  "word": "GWAIHIR",
+  "category": "character",
+  "title": "Eagles in Middle-earth",
+  "blurb": "Windlord, chief of the Great Eagles of Middle-earth, who rescues Gandalf and other heroes at pivotal moments across Tolkien's legendarium.",
+  "facts": [
+    "Tolkien's Middle-earth, the Eagles or Great Eagles are immense birds that are sapient and can speak.",
+    "The Great Eagles resemble actual eagles, but are much larger.",
+    "Thorondor is said to have been the greatest of all birds, with a wingspan of 30 fathoms."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Eagles_in_Middle-earth"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "not flagged trademarked, but image was NOT auto-fetched \u2014 verify individually before adding one, see HANDOFF.md \u00a74",
+  "appearances": [
+    "The Hobbit (1937 novel)",
+    "The Lord of the Rings (1954\u201355 novel)",
+    "Peter Jackson film trilogies"
+  ],
+  "creators": [
+    "J.R.R. Tolkien"
+  ],
+  "studio": "New Line Cinema / Warner Bros. Pictures (films)",
+  "first_appearance": "The Hobbit (1937)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "GWAIHIR",
+      "issue": "title-mismatch",
+      "detail": "hint 'Eagle (Middle-earth)' -> resolved title 'Eagles in Middle-earth', doesn't obviously match"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "word": "FLOCK",
+  "category": "bird_adjacent",
+  "title": "Flock (birds)",
+  "blurb": "A flock is a gathering of individual birds to forage or travel collectively. Avian flocks are typically associated with migration.",
+  "facts": [
+    "Flocking also offers foraging benefits and protection from predators, although flocking can have costs for individual members."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Flock_(birds)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/FLOCK.webp",
+    "file_jpg": "assets/birds/FLOCK.jpg",
+    "alt": "Photo of Flock (birds)",
+    "credit": "Photo by Faisal Akram from Dhaka, Bangladesh \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Flock_of_Birds_(7175071318).jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

@@ -1,0 +1,28 @@
+{
+  "word": "WINGTIP",
+  "category": "bird_adjacent",
+  "title": "Wing tip",
+  "blurb": "A wing tip is the part of the wing that is most distant from the fuselage of a fixed-wing aircraft.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wing_tip"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/WINGTIP.webp",
+    "file_jpg": "assets/birds/WINGTIP.jpg",
+    "alt": "Photo of Wing tip",
+    "credit": "Photo by Adrian Pingstone \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Winglet_and_nav_light_arp.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "WINGTIP",
+      "issue": "title-mismatch",
+      "detail": "hint 'Wingtip' -> resolved title 'Wing tip', doesn't obviously match"
+    }
+  ]
+}

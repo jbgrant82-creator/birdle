@@ -1,0 +1,23 @@
+{
+  "word": "SISKIN",
+  "category": "bird_species",
+  "title": "Siskin",
+  "blurb": "The name siskin when referring to a bird is derived from an adaptation of the German dialect words sisschen, zeischen, which are diminutive forms of Middle High German (z\u00eesec) and Middle Low German words, with cognates in Slavic languages, cf.",
+  "facts": [
+    "The name siskin was first recorded in written English in 1544 in William Turner's Avium praecipuarum, quarum apud Plinium et Aristotelem mentio est, brevis et succincta historia,..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Siskin"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SISKIN.webp",
+    "file_jpg": "assets/birds/SISKIN.jpg",
+    "alt": "Photo of Siskin",
+    "credit": "Photo by Luiz Lapa from Oeiras, Portugal \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Lugre,_macho,_Eurasian_Siskin,_male_(52006554474).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

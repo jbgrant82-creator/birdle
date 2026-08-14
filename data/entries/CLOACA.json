@@ -1,0 +1,25 @@
+{
+  "word": "CLOACA",
+  "category": "bird_adjacent",
+  "title": "Cloaca",
+  "blurb": "A cloaca, pl.: cloacae, or vent, is the rear orifice that serves as the only opening for the digestive (rectum), reproductive, and urinary tracts of many vertebrate animals.",
+  "facts": [
+    "Excretory openings with analogous purpose in some invertebrates are also sometimes called cloacae.",
+    "Mating through the cloaca is called cloacal copulation and cloacal kissing."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Cloaca"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/CLOACA.webp",
+    "file_jpg": "assets/birds/CLOACA.jpg",
+    "alt": "Photo of Cloaca",
+    "credit": "Photo by Jared Yelton, original uploader was Redtailed at en.wikipedia \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Avian_cloaca.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

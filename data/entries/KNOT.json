@@ -1,0 +1,23 @@
+{
+  "word": "KNOT",
+  "category": "bird_species",
+  "title": "Red knot",
+  "blurb": "The red knot or just knot is a medium-sized shorebird which breeds in tundra and the Arctic Cordillera in the far north of Canada, Europe, and Russia. It is a large member of the Calidris sandpipers, second only to the great knot.",
+  "facts": [
+    "Six subspecies are recognised."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Red_knot"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/KNOT.webp",
+    "file_jpg": "assets/birds/KNOT.jpg",
+    "alt": "Photo of Red knot",
+    "credit": "Photo by Chuck Homler d/b/a Focus On Wildlife \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Rufa_red_knot_(Calidris_canutus_rufa)_in_Delaware_Bay,_New_Jersey.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

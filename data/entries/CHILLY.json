@@ -1,0 +1,31 @@
+{
+  "word": "CHILLY",
+  "category": "character",
+  "title": "Chilly Willy",
+  "blurb": "A small, resourceful penguin from Walter Lantz's cartoon shorts, usually scheming to get past a dim-witted polar bear guard to reach fish.",
+  "facts": [
+    "The character soon became the second most popular Lantz/Universal character, behind Woody Woodpecker.",
+    "Fifty Chilly Willy cartoons were produced between 1953 and 1972."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chilly_Willy"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Chilly Willy (1953)",
+    "Walter Lantz cartoon shorts"
+  ],
+  "creators": [
+    "Walter Lantz",
+    "Paul J. Smith (director)"
+  ],
+  "studio": "Walter Lantz Productions / Universal Pictures",
+  "first_appearance": "Chilly Willy (1953)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

@@ -1,0 +1,25 @@
+{
+  "word": "VULTURE",
+  "category": "bird_species",
+  "title": "Vulture",
+  "blurb": "A vulture is a bird of prey that scavenges on carrion. There are 23 extant species of vulture.",
+  "facts": [
+    "Old World vultures include 16 living species native to Europe, Africa, and Asia; New World vultures are restricted to North and South America and consist of seven species.",
+    "A particular characteristic of many vultures is a bald, unfeathered head.",
+    "This bare skin is thought to keep the head clean when feeding, and also plays an important role in thermoregulation."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Vulture"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/VULTURE.webp",
+    "file_jpg": "assets/birds/VULTURE.jpg",
+    "alt": "Photo of Vulture",
+    "credit": "Photo by Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8.jpg: Jorge L\u00e1scar from Bogot\u00e1, Colombia\nderivative work: Snowmanradio (talk) \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Gyps_rueppellii_-Nairobi_National_Park,_Kenya-8-4c.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

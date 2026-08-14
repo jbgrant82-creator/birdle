@@ -1,0 +1,29 @@
+{
+  "word": "PETREL",
+  "category": "bird_species",
+  "title": "Procellariiformes",
+  "blurb": "Procellariiformes is an order of seabirds that comprises four families; the albatrosses, the petrels and shearwaters, and two families of storm petrels.",
+  "facts": [
+    "They are almost exclusively pelagic, and have a cosmopolitan distribution across the world's oceans, with the highest diversity being the seas around New Zealand."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Procellariiformes"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PETREL.webp",
+    "file_jpg": "assets/birds/PETREL.jpg",
+    "alt": "Photo of Procellariiformes",
+    "credit": "Photo by JJ Harrison (https://tiny.jjharrison.com.au/t/ZDNfwv2t2W8dvaar) \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Thalassarche_bulleri_in_flight_3_-_SE_Tasmania.jpg"
+  },
+  "audio": null,
+  "_review_issues": [
+    {
+      "word": "PETREL",
+      "issue": "title-mismatch",
+      "detail": "hint 'Petrel' -> resolved title 'Procellariiformes', doesn't obviously match"
+    }
+  ]
+}

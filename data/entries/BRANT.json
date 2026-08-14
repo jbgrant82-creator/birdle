@@ -1,0 +1,21 @@
+{
+  "word": "BRANT",
+  "category": "bird_species",
+  "title": "Brant (goose)",
+  "blurb": "The brant or brent goose is a small goose in the genus Branta. There are three subspecies, all of which winter along temperate-zone sea-coasts and breed on the high-Arctic tundra.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Brant_(goose)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/BRANT.webp",
+    "file_jpg": "assets/birds/BRANT.jpg",
+    "alt": "Photo of Brant (goose)",
+    "credit": "Photo by Needsmoreritalin \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Atlantic_Brant_Fly-By_Wiki.png"
+  },
+  "audio": null,
+  "_review_issues": []
+}

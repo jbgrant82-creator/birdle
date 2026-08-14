@@ -1,0 +1,24 @@
+{
+  "word": "SWIFT",
+  "category": "bird_species",
+  "title": "Swift (bird)",
+  "blurb": "The Apodidae, or swifts, form a family of highly aerial birds. They are superficially similar to swallows, but are not closely related to any passerine species.",
+  "facts": [
+    "Swifts are placed in the order Apodiformes along with hummingbirds.",
+    "The treeswifts are closely related to the true swifts, but form a separate family, the Hemiprocnidae."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Swift_(bird)"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SWIFT.webp",
+    "file_jpg": "assets/birds/SWIFT.jpg",
+    "alt": "Photo of Swift (bird)",
+    "credit": "Photo by Pawe\u0142 Ku\u017aniar (Jojo_1, Jojo) \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Apus_apus_01.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

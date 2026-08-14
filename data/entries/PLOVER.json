@@ -1,0 +1,21 @@
+{
+  "word": "PLOVER",
+  "category": "bird_species",
+  "title": "Plover",
+  "blurb": "Plovers are members of a widely distributed group of wading birds of the subfamily Charadriinae. The term \"plover\" applies to all the members of the subfamily, though only about half of them include it in their name.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Plover"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PLOVER.webp",
+    "file_jpg": "assets/birds/PLOVER.jpg",
+    "alt": "Photo of Plover",
+    "credit": "Photo by Charles J. Sharp \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Common_ringed_plover_(Charadrius_hiaticula)_Oppdal.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

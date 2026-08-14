@@ -1,0 +1,25 @@
+{
+  "word": "SWALLOW",
+  "category": "bird_species",
+  "title": "Swallow",
+  "blurb": "The swallows, martins, and saw-wings, or Hirundinidae, are a family of passerine songbirds found around the world on all continents, including occasionally in Antarctica. Highly adapted to aerial feeding, they have a distinctive appearance.",
+  "facts": [
+    "The term \"swallow\" is used as the common name for Hirundo rustica in the United Kingdom and Ireland.",
+    "Around 90 species of Hirundinidae are known, divided into 21 genera, with the greatest diversity found in Africa, which is also thought to be where they evolved as hole-nesters.",
+    "They also occur on a number of oceanic islands."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Swallow"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SWALLOW.webp",
+    "file_jpg": "assets/birds/SWALLOW.jpg",
+    "alt": "Photo of Swallow",
+    "credit": "Photo by Charles J. Sharp \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Pied-winged_swallow_(Hirundo_leucosoma).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

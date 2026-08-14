@@ -1,0 +1,30 @@
+{
+  "word": "PSYDUCK",
+  "category": "character",
+  "title": "Psyduck",
+  "blurb": "A perpetually confused water-type Pok\u00e9mon prone to headaches that trigger unpredictable psychic outbursts.",
+  "facts": [
+    "It has later appeared in various merchandise, spinoff titles and animated and printed adaptations of the franchise.",
+    "A Psyduck also appears as part of the main cast in the live-action animated film Pok\u00e9mon Detective Pikachu.",
+    "Psyduck has been voiced by Michael Haigney and Rikako Aikawa since its debut."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Psyduck"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Pok\u00e9mon Red and Green (1996, Japan)"
+  ],
+  "creators": [
+    "Game Freak"
+  ],
+  "studio": "Game Freak / Nintendo / Creatures Inc.",
+  "first_appearance": "Pok\u00e9mon Red and Green (1996, Japan)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

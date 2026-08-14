@@ -1,0 +1,24 @@
+{
+  "word": "HERON",
+  "category": "bird_species",
+  "title": "Heron",
+  "blurb": "Herons are long-legged, long-necked, freshwater and coastal birds in the family Ardeidae, with 75 recognised species, some of which are referred to as egrets or bitterns rather than herons.",
+  "facts": [
+    "Egrets do not form a biologically distinct group from herons, and tend to be named differently because they are mainly white or have decorative plumes in breeding plumage.",
+    "Herons, by evolutionary adaptation, have long beaks."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Heron"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/HERON.webp",
+    "file_jpg": "assets/birds/HERON.jpg",
+    "alt": "Photo of Heron",
+    "credit": "Photo by MathKnight \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Ardeidae-01.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

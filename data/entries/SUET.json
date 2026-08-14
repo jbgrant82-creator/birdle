@@ -1,0 +1,22 @@
+{
+  "word": "SUET",
+  "category": "bird_adjacent",
+  "title": "Suet",
+  "blurb": "Suet is the raw, hard fat of beef, lamb, or mutton found around the loins and kidneys.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Suet"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SUET.webp",
+    "file_jpg": "assets/birds/SUET.jpg",
+    "alt": "Photo of Suet",
+    "credit": "Photo by FotoosvanRobin \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Beef_suet-01.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

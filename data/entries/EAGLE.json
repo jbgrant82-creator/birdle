@@ -1,0 +1,24 @@
+{
+  "word": "EAGLE",
+  "category": "bird_species",
+  "title": "Eagle",
+  "blurb": "Eagle is the common name for certain large birds of prey within the family of the Accipitridae.",
+  "facts": [
+    "Most of the 68 species of eagles are from Eurasia and Africa.",
+    "Outside this area, just 14 species can be found\u2014two in North America, nine in Central and South America, and three in Australia."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Eagle"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/EAGLE.webp",
+    "file_jpg": "assets/birds/EAGLE.jpg",
+    "alt": "Photo of Eagle",
+    "credit": "Photo by User:Punetor i Rregullt5 \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Eagles_together.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

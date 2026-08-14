@@ -1,0 +1,26 @@
+{
+  "word": "MEDLI",
+  "category": "character",
+  "title": "The Legend of Zelda: The Wind Waker",
+  "blurb": "A Rito \u2014 a bird-like race descended from the Zoras \u2014 who serves as one of Link's companions in The Legend of Zelda: The Wind Waker.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Legend_of_Zelda%3A_The_Wind_Waker"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "The Legend of Zelda: The Wind Waker (2002)"
+  ],
+  "creators": [
+    "Nintendo EAD"
+  ],
+  "studio": "Nintendo",
+  "first_appearance": "The Legend of Zelda: The Wind Waker (2002)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

@@ -1,0 +1,23 @@
+{
+  "word": "CHOUGH",
+  "category": "bird_species",
+  "title": "Chough",
+  "blurb": "A chough is any of two species of passerine birds that constitute the genus Pyrrhocorax of the Corvidae (crow) family. These are the red-billed chough and the Alpine chough.",
+  "facts": [
+    "The white-winged chough of Australia, despite its name, is a member of the family Corcoracidae and only distantly related."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chough"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/CHOUGH.webp",
+    "file_jpg": "assets/birds/CHOUGH.jpg",
+    "alt": "Photo of Chough",
+    "credit": "Photo by Ken Billington \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Chough_(Pyrrhocorax_pyrrhocorax)_(8).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

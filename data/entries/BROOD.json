@@ -1,0 +1,25 @@
+{
+  "word": "BROOD",
+  "category": "bird_adjacent",
+  "title": "Brood parasitism",
+  "blurb": "Brood parasitism is a subclass of parasitism and phenomenon and behavioural pattern of animals that rely on others to raise their young. The strategy appears among birds, insects and fish.",
+  "facts": [
+    "The brood parasite manipulates a host, either of the same or of another species, to raise its young as if it were its own, usually using egg mimicry, with eggs that resemble the...",
+    "The strategy involves a form of aggressive mimicry called Kirbyan mimicry."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Brood_parasitism"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/BROOD.webp",
+    "file_jpg": "assets/birds/BROOD.jpg",
+    "alt": "Photo of Brood parasitism",
+    "credit": "Photo by Dario Sanches from S\u00e3o Paulo, Brazil \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:(Molothrus_bonariensis)_e_(_Zonotrichia_Capensis_).jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

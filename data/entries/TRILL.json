@@ -1,0 +1,22 @@
+{
+  "word": "TRILL",
+  "category": "bird_adjacent",
+  "title": "Voiced dental and alveolar trills",
+  "blurb": "A voiced alveolar trill is a type of consonantal sound used in some spoken languages. An alveolar trill is familiar to many people as the sound of an Italian \u27e8r\u27e9 or Spanish \u27e8rr\u27e9.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_trills"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TRILL.webp",
+    "file_jpg": "assets/birds/TRILL.jpg",
+    "alt": "Photo of Voiced dental and alveolar trills",
+    "credit": "Photo by No machine-readable author provided. Martin Koz\u00e1k assumed (based on copyright claims). \u2014 Public domain, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:IPA_Unicode_0x0072.svg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

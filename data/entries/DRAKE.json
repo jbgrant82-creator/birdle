@@ -1,0 +1,24 @@
+{
+  "word": "DRAKE",
+  "category": "bird_species",
+  "title": "Duck",
+  "blurb": "Duck is the common name for numerous species of waterfowl in the family Anatidae. Ducks are generally smaller and shorter-necked than swans and geese, which are members of the same family.",
+  "facts": [
+    "Divided among several subfamilies, they are a form taxon; they do not represent a monophyletic group, since swans and geese are not considered ducks.",
+    "Ducks are mostly aquatic birds, and may be found in both fresh water and sea water."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Duck"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/DRAKE.webp",
+    "file_jpg": "assets/birds/DRAKE.jpg",
+    "alt": "Photo of Duck",
+    "credit": "Photo by Mdf \u2014 CC BY-SA 3.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Bucephala-albeola-010.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

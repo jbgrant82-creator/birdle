@@ -1,0 +1,30 @@
+{
+  "word": "PIGEON",
+  "category": "bird_species",
+  "title": "Columbidae",
+  "blurb": "Columbidae is a bird family consisting of doves and pigeons. It is the only family in the order Columbiformes.",
+  "facts": [
+    "These are stout-bodied birds with small heads, relatively short necks and slender bills that in some species feature fleshy ceres.",
+    "They feed largely on plant matter, feeding on seeds (granivory), fruit (frugivory), and foliage (folivory)."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Columbidae"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PIGEON.webp",
+    "file_jpg": "assets/birds/PIGEON.jpg",
+    "alt": "Photo of Columbidae",
+    "credit": "Photo by JJ Harrison (https://tiny.jjharrison.com.au/t/3rUZckpXLJTJuAko) \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Treron_vernans_male_-_Kent_Ridge_Park.jpg"
+  },
+  "audio": null,
+  "_review_issues": [
+    {
+      "word": "PIGEON",
+      "issue": "title-mismatch",
+      "detail": "hint 'Pigeon' -> resolved title 'Columbidae', doesn't obviously match"
+    }
+  ]
+}

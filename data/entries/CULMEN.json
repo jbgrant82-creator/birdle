@@ -1,0 +1,24 @@
+{
+  "word": "CULMEN",
+  "category": "bird_adjacent",
+  "title": "Beak",
+  "blurb": "The beak or bill is an external rostrum structure found mostly in birds. A beak is used for pecking, grasping, and holding, preening, courtship, and feeding young.",
+  "facts": [
+    "The terms beak and rostrum are also used to refer to a similar organ in some non-avian theropods, ornithischians, pterosaurs, cetaceans, dicynodonts, rhynchosaurs, anuran..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Beak"
+  },
+  "verified": false,
+  "image": null,
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "CULMEN",
+      "issue": "missing-image",
+      "detail": "no thumbnail/originalimage on wikipedia summary"
+    }
+  ]
+}

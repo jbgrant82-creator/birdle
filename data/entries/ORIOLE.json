@@ -1,0 +1,24 @@
+{
+  "word": "ORIOLE",
+  "category": "bird_species",
+  "title": "Baltimore oriole",
+  "blurb": "The Baltimore oriole is a small icterid blackbird common in eastern North America as a migratory breeding bird. It received its common name from the resemblance of the male's colors to those on the coat-of-arms of 17th-century Lord Baltimore.",
+  "facts": [
+    "Observations of interbreeding between the Baltimore oriole and the western Bullock's oriole Icterus bullockii, led to both being classified as a single species, called the...",
+    "Research by James Rising, a professor of zoology at the University of Toronto, and others showed that the two birds actually did not interbreed significantly."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Baltimore_oriole"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/ORIOLE.webp",
+    "file_jpg": "assets/birds/ORIOLE.jpg",
+    "alt": "Photo of Baltimore oriole",
+    "credit": "Photo by TonyCastro \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Baltimore_Oriole-_dorsum.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

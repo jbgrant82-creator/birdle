@@ -1,0 +1,31 @@
+{
+  "word": "KAZOOIE",
+  "category": "character",
+  "title": "Banjo-Kazooie",
+  "blurb": "A wisecracking red-crested breegull who lives in her bear companion Banjo's backpack, providing flight, combat, and most of the duo's attitude.",
+  "facts": [
+    "The games generally involve the pair in conflict with the evil witch Gruntilda Winkybunion.",
+    "The eponymous first game in the series was released in 1998 to critical acclaim and was followed by Banjo-Tooie (2000), Banjo-Kazooie: Grunty's Revenge, Banjo-Pilot (2005), a..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Banjo-Kazooie"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Banjo-Kazooie (1998)",
+    "Banjo-Tooie (2000)",
+    "Banjo-Kazooie: Nuts & Bolts"
+  ],
+  "creators": [
+    "Rare Ltd. (Gregg Mayles)"
+  ],
+  "studio": "Rare Ltd.",
+  "first_appearance": "Banjo-Kazooie (1998)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

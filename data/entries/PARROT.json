@@ -1,0 +1,25 @@
+{
+  "word": "PARROT",
+  "category": "bird_species",
+  "title": "Parrot",
+  "blurb": "Parrots, also known as psittacines from the name of the type genus Psittacus, are birds with a strong curved beak, upright stance, and clawed feet.",
+  "facts": [
+    "The four families are the Psittaculidae, Psittacidae, Cacatuidae (cockatoos), and Strigopidae.",
+    "One-third of all parrot species are threatened by extinction, with a higher aggregate extinction risk than any other comparable bird group.",
+    "Parrots have a generally pantropical distribution with several species inhabiting temperate regions as well."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Parrot"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/PARROT.webp",
+    "file_jpg": "assets/birds/PARROT.jpg",
+    "alt": "Photo of Parrot",
+    "credit": "Photo by Charles J. Sharp \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Rainbow_lorikeet_(Trichoglossus_moluccanus_moluccanus)_Sydney.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

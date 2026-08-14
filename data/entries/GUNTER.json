@@ -1,0 +1,36 @@
+{
+  "word": "GUNTER",
+  "category": "character",
+  "title": "List of Adventure Time characters",
+  "blurb": "The Ice King's ever-present penguin servant in Adventure Time \u2014 revealed partway through the series to secretly be an ancient, world-ending cosmic entity named Orgalorg.",
+  "facts": [
+    "Finn and Jake live in the post-apocalyptic Land of Ooo, where they travel on various adventures.",
+    "Along the way, they interact with the other main characters of the show: Princess Bubblegum, the Ice King, Simon Petrikov, and Marceline the Vampire Queen.",
+    "The second series Distant Lands, follow these characters along with the Peppermint Butler \"Pep\", while Fionna and Cake follows Fionna Campbell, Cake the Cat, Prismo the..."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_Adventure_Time_characters"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Adventure Time (2010)"
+  ],
+  "creators": [
+    "Pendleton Ward"
+  ],
+  "studio": "Cartoon Network Studios / Frederator Studios",
+  "first_appearance": "Adventure Time (2010)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": [
+    {
+      "word": "GUNTER",
+      "issue": "title-mismatch",
+      "detail": "hint 'Gunter (Adventure Time)' -> resolved title 'List of Adventure Time characters', doesn't obviously match"
+    }
+  ]
+}

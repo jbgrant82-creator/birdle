@@ -1,0 +1,25 @@
+{
+  "word": "SEED",
+  "category": "bird_adjacent",
+  "title": "Seed",
+  "blurb": "In botany, a seed is a plant structure containing an embryo and stored nutrients in a protective coat called a testa. More generally, the term seed means anything that can be sown, which may include seed and husk or tuber.",
+  "facts": [
+    "Seeds are the product of the ripened ovule, after the embryo sac is fertilized by sperm from pollen, forming a zygote.",
+    "The embryo within a seed develops from the zygote and grows within the mother plant to a certain size before growth is halted."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Seed"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/SEED.webp",
+    "file_jpg": "assets/birds/SEED.jpg",
+    "alt": "Photo of Seed",
+    "credit": "Photo by Alexander Klepnev \u2014 CC BY 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:\u0420\u0430\u0437\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u0438\u0435_\u0441\u0435\u043c\u044f\u043d.jpg"
+  },
+  "audio": null,
+  "audio_note": "bird_adjacent words get no audio \u2014 there's no sound of a GIZZARD, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

@@ -1,0 +1,21 @@
+{
+  "word": "LINNET",
+  "category": "bird_species",
+  "title": "Common linnet",
+  "blurb": "The common linnet or Eurasian linnet is a small passerine bird of the finch family, Fringillidae.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Common_linnet"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/LINNET.webp",
+    "file_jpg": "assets/birds/LINNET.jpg",
+    "alt": "Photo of Common linnet",
+    "credit": "Photo by Joe Pell \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Carduelis_cannabina_-England_-male-8.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

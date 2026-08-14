@@ -1,0 +1,30 @@
+{
+  "word": "CHUCK",
+  "category": "character",
+  "title": "Angry Birds",
+  "blurb": "The impatient, super-fast yellow bird of the original Angry Birds trio, known for his triangular shape and speed-boost ability.",
+  "facts": [
+    "A majority of the Angry Birds video games are puzzle games developed by Rovio Entertainment and released for mobile devices, while other games and spinoffs have been developed by...",
+    "The franchise also includes other media such as merchandise, theme parks, television, and feature films."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Angry_Birds"
+  },
+  "verified": false,
+  "image": null,
+  "image_note": "trademarked \u2014 no image, see HANDOFF.md \u00a74",
+  "appearances": [
+    "Angry Birds (2009 mobile game)",
+    "The Angry Birds Movie (2016)"
+  ],
+  "creators": [
+    "Rovio Entertainment (Jaakko Iisalo, design)"
+  ],
+  "studio": "Rovio Entertainment",
+  "first_appearance": "Angry Birds (2009)",
+  "needs_hand_fill": false,
+  "audio": null,
+  "audio_note": "character entries never get audio, see HANDOFF.md \u00a76",
+  "_review_issues": []
+}

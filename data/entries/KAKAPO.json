@@ -1,0 +1,27 @@
+{
+  "word": "KAKAPO",
+  "category": "bird_species",
+  "title": "K\u0101k\u0101p\u014d",
+  "blurb": "The k\u0101k\u0101p\u014d, sometimes known as the owl-parrot, is a species of large, nocturnal, ground-dwelling parrot of the superfamily Strigopoidea. It is endemic to New Zealand.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/K%C4%81k%C4%81p%C5%8D"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/KAKAPO.webp",
+    "file_jpg": "assets/birds/KAKAPO.jpg",
+    "alt": "Photo of K\u0101k\u0101p\u014d",
+    "credit": "Photo by Department of Conservation \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Sirocco_full_length_portrait.jpg"
+  },
+  "audio": null,
+  "_review_issues": [
+    {
+      "word": "KAKAPO",
+      "issue": "title-mismatch",
+      "detail": "hint 'Kakapo' -> resolved title 'K\u0101k\u0101p\u014d', doesn't obviously match"
+    }
+  ]
+}

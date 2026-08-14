@@ -1,0 +1,23 @@
+{
+  "word": "FALCON",
+  "category": "bird_species",
+  "title": "Falcon",
+  "blurb": "Falcons are birds of prey in the genus Falco, which includes about 40 species. Some small species of falcons with long, narrow wings are called hobbies, and some that hover while hunting are called kestrels.",
+  "facts": [
+    "Falcons are widely distributed on all continents of the world except Antarctica, though closely related raptors did occur there in the Eocene."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Falcon"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/FALCON.webp",
+    "file_jpg": "assets/birds/FALCON.jpg",
+    "alt": "Photo of Falcon",
+    "credit": "Photo by Shantanu Kuveskar \u2014 CC BY-SA 4.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Eurasian_hobby_(Falco_subbuteo)_by_Shantanu_Kuveskar.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

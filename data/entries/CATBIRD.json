@@ -1,0 +1,21 @@
+{
+  "word": "CATBIRD",
+  "category": "bird_species",
+  "title": "Catbird",
+  "blurb": "Several unrelated groups of songbirds are called catbirds because of their wailing calls, which resemble a cat's meowing. The genus name Ailuroedus likewise is from the Greek for 'cat-singer' or 'cat-voiced'.",
+  "facts": [],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Catbird"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/CATBIRD.webp",
+    "file_jpg": "assets/birds/CATBIRD.jpg",
+    "alt": "Photo of Catbird",
+    "credit": "Photo by Thomas Rumley \u2014 CC BY 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Ailuroedus_buccoides_-Denver_Zoo-8a.jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}

@@ -1,0 +1,25 @@
+{
+  "word": "TINAMOU",
+  "category": "bird_species",
+  "title": "Tinamou",
+  "blurb": "Tinamous are members of the order Tinamiformes, and family Tinamidae, divided into two distinct subfamilies, containing 46 species found in Mexico, Central America, and South America.",
+  "facts": [
+    "Tinamous are the only living group of palaeognaths able to fly, and were traditionally regarded as the sister group of the flightless ratites, but recent work places them well...",
+    "Tinamous first appear in the fossil record in the Miocene epoch.",
+    "They are generally sedentary, ground-dwelling and, though not flightless, when possible avoid flight in favour of hiding or running away from danger."
+  ],
+  "link": {
+    "label": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Tinamou"
+  },
+  "verified": false,
+  "image": {
+    "file": "assets/birds/TINAMOU.webp",
+    "file_jpg": "assets/birds/TINAMOU.jpg",
+    "alt": "Photo of Tinamou",
+    "credit": "Photo by Dominic Sherony \u2014 CC BY-SA 2.0, via Wikimedia Commons",
+    "credit_url": "https://commons.wikimedia.org/wiki/File:Elegant_Crested_Tinamou_(Eudromia_elegans)_(15953728501).jpg"
+  },
+  "audio": null,
+  "_review_issues": []
+}
